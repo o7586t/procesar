@@ -1,0 +1,4 @@
+# Fichero invisible donde se ponen las extensiones de fichero que se quiere
+# ignorar.
+
+*.class
