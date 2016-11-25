@@ -1,0 +1,56 @@
+
+################################################################################
+#
+# Descripción de la aplicación Procesar.java
+#
+################################################################################
+#
+# 2016-11-25 - 10:36:11
+#
+# Fichero en el que comentaré ideas para programar la aplicaicón de texto
+# 'procesar'.
+#
+################################################################################ 
+
+
+[_] Meter la semana como una función.
+	:
+	: Que la aplicación java sea lo suficientemente inteligente para saber
+	: que empezamos semana y ponga la siguietne cabecera en el fichero
+	: 'registro_diario.otl'.
+	:  
+	: ################################################################################
+	: #
+	: # Semana __ 
+	: #
+	: ################################################################################
+	: 
+	: [_] % Semana __ 
+	: 
+	:
+[_] % Meter el día como una función
+	: 
+	: Lo mismo que la función anterior. Que la aplicación sea inteligente para
+	: saber que se comienza día nuevo y que al día siguiente se debe comprobar
+	: los listados realizados el día enterior.
+	:
+	: ################################################################################
+	: #
+	: # 2016-11-25 - 10:38:20
+	: #
+	: ################################################################################
+	: #
+	: #
+	: #
+	: ################################################################################ 
+	:
+[_] % Hacer un menu.
+	: 
+	: Al arrancar y también cada vez que se desee cambiar de escritura en
+	: fichero distinto que la aplicación te permita elegir en que fichero
+	: diferente se va a añadir los registros que se van a introducir. Hay dos.
+	:
+	: El de siempre, 'registro_diario.otl'.
+	: Y el nuevo, 'gtdTrabajo.otl'. Que albergará las impresiones que deben
+	: salir al día siguiente.
+	:
