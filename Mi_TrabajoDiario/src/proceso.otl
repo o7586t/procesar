@@ -1,0 +1,37 @@
+[_] % Lo primero que haré es leer el fichero 'registro_diario_datos.dat' en ruby
+[_] % Después lo partiré en las dos partes que son, basándome en esta plantilla.
+	: 
+	: [todos]--- Leer el correo electrónico corporativo.
+	: [todos]--- Leer el correo electrónico particular.
+	: [todos]--- Pasar el reloj diario.
+	: [todos]--- Traer el fichero del plan diario.
+	: [todos]--- Traer el fichero diario SQL del Redmine.
+	: [todos]--- Monitorizar las pantallas del TIP/ix.
+	: [lunes]--- Contar la cantidad de papel que hay en los almacenes.
+	: [lunes]--- Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en
+	: la AEAT.
+	: [martes]--- Bajar la AEATCEM de la AEAT.
+	: [martes]--- Alrededor de las 13:55 enviar las peticiones de información
+	: de la YEDRA a la AEAT.
+	: [miércoles]--- Recibir las peticiones de información de la AEAT.
+	: [jueves]--- Alrededor de las 13:55 enviar las peticiones de información
+	: de la YEDRA a la AEAT.
+	: [viernes]--- Recibir las peticiones de información de la AEAT.
+	:
+[_] % Tengo que hacer un módulo.
+	: 
+	: En el tiene que contener:
+	:
+	: 1) Una clase que te diga los días que tiene una determinada semana del
+	:    año. La clase inversa ya existe y es sencilla.  
+	: 2) Todo aquello necesario para mi programación diaria.
+	:
+[_] % Ruby entiende los 'zip's'.
+	: 
+	: Quiero decir. ¿Si Ruby puede comprimir un fichero log en formato 'zip' y
+	: si tiene algún problema en leerlo y descomprimirlo en consola para hacer
+	: un seguimiento y que el almacenamiento sea mínimo?
+	:
+	: Que el control de los trabajos diarios sea un objeto con los datos
+	: característicos del job pero que también contenga el propio log
+	: comprimido en 'zip' por si se quiere visionar en algún momento.

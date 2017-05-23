@@ -1,0 +1,3229 @@
+
+################################################################################
+#
+#                                 AÑO - 2016
+#
+################################################################################
+
+################################################################################
+#
+# SIN COMPLETAR EN EL AÑO 2015.
+#
+################################################################################
+
+[_] 96% Semana 46
+	[_] 0% 12/11/2015 - 10:00:27 Hacer aunque sea en local un seguimiento de la máquina Virtual en Redmine.
+[_] 92% Semana 47
+	[_] 0% 20/11/2015 - 10:18:57 Echarle un vistazo a la colocacion automática de los ficheros bajados de la AEAT (script).
+[_] 86% Semana 48
+	[_] 0% 23/11/2015 - 09:03:18 Organizar los links del Firefox para poder utilizarlo óptimamente.
+		[_] 0% 20/11/2015 - 10:07:47 Organizar los links del navegador.
+		: 
+		: Tengo varios temas esparcidos por el FireFox pero el que realmente
+		: me interesa es el del trabajo. Esto es algo facilito de hacer pero
+		: requiere un poco de tiempo.
+		:
+	[_] 0% 24/11/2015 - 09:09:23 Recopilar la producción de los procesos BATCH.
+		:
+		: Diseñar un método para recopilar la producción de recibos,
+		: ejecutivas, etc. de los procesos BATCH.
+		:
+		[_] 0% Hacer un listado de trabajos que crean papel en el SPOOL PR.
+		[_] 0% Organizar el listado en familias. Ejecutivas, facturaciones, embargos, etc.
+		[_] 0% Hacer un formulario en JAVA para ir introduciendo los datos en una 'sqlite3'.
+		[_] 0% Diseñar una presentación para hacer listados a petición.
+		[_] 0% Meter en una 'sqlite3' los ficheros impresos (recibos con las cantidades), del SPOOL.
+			: 
+			: En local guardar en 'sqlite3' las impresiones diarias (recibos) que
+			: hacen el gasto de papel de las impresoras.
+			:
+	[_] 0% 24/11/2015 - 12:09:23 Meter los ficheros del EDITRAN a una 'sqlite'.
+		: 
+		: En local meter los ficheros procesados en 'sqlite3'. Hacerlo desde
+		: BASH.
+		:
+	[_] 0% 26/11/2015 - 13:11:16 Conseguir en casa el fichero 'plantUML.jar' y traerlo al trabajo.
+[_] 85% Semana 49
+	[_] 0% 01/12/2015 - 10:25:41 Conexión a PLAN$TRABAJO en la ORACLE.
+		: 
+		: Primero con JDBC en modo consola y luego intentarlo con JSP y el
+		: Tomcat.
+		:
+		: PLAN$TRABAJO
+		: PLAN$SPL_LOG
+		: PLAN$SPL_PRN
+		:
+	[_] 0% 02/12/2015 - 08:32:24 Hacer filtros del lector de correos electrónicos.
+	[_] 0% 03/12/2015 - 07:56:49 Importar los LOG's y PRN's de los procesos de ayer.
+[_] 96% Semana 51
+	[_] 0% 14/12/2015 - 11:08:04 Hacer una lista de los trabajos críticos que hay que hacer para el fin de año. Y luego se mandará un correo al Palacios y etc.
+		:
+		: Ticket nº #58399
+		:
+[_] 93% Semana 52
+	[_] 0% 21/12/2015 - 10:42:02 Probar en la máquina virtual una agenda de RAILS.
+		: 
+		: Probar en la máquina virtual una agenda de RAILS con Scaffold, a ver que pasa.
+		:
+	[_] 0% 21/12/2015 - 10:42:02 Probar en la máquina virtual una instalación de LaTeX.
+		: 
+		: Probar en la máquina virtual una instalación de LaTeX desde los repositorios locales de 'azl'.
+		:
+
+################################################################################
+#
+# SEMANA 01
+#
+################################################################################
+
+[X] 100% Semana 01.
+	[X] 100% 05/01/2016 - 08:48:33 Leer el correo del trabajo.
+	[X] 100% 05/01/2016 - 08:48:33 Leer el correo privado.
+	[X] 100% 05/01/2016 - 08:48:33 Mandar un Email a Montse.
+		: 
+		: No contesta. Me da la impresión de que hoy está de fiesta.
+		:
+	[X] 100% 05/01/2016 - 08:48:33 Contar el papel del almacen.
+	[X] 100% 05/01/2016 - 13:33:33 Tienes un ticket: 59086 para crear unos PDF's.
+
+################################################################################
+#
+# SEMANA 03
+#
+################################################################################
+
+[X] 100% Semana 03.
+	[X] 100% 19/01/2016 - 09:50:40 Pasar el reloj.
+	[X] 100% 19/01/2016 - 09:50:40 Leer el correo particular.
+	[X] 100% 19/01/2016 - 09:50:40 Leer el correo trabajo.
+	[X] 100% 19/01/2016 - 10:16:48 Hacer filtros para mi Thunderbird.
+	[X] 100% 19/01/2016 - 09:51:37 Contar el papel del almacen.
+		: 
+		: Y recogido en el documento de la Open Office llamado 'PAPEL_2016.ods'.
+		:
+	[X] 100% 19/01/2016 - 10:15:31 Procesar los ficheros log y pr del Spool guardados en TIP1.
+	[X] 100% 19/01/2016 - 14:12:09 PETICIÓN DE  TRABAJO RECAUDACIÓN. CUADRE.
+		[X] 100% 19/01/2016 - 14:12:09 IT-10-15
+		[X] 100% 19/01/2016 - 14:12:09 LH-07-15
+		[X] 100% 19/01/2016 - 14:12:09 LH-08-15
+		[X] 100% 19/01/2016 - 14:12:09 LH-09-15
+		[X] 100% 19/01/2016 - 14:12:09 LJ-08-15
+		[X] 100% 19/01/2016 - 14:12:09 LJ-10-15
+		[X] 100% 19/01/2016 - 14:12:09 LR-07-15
+		[X] 100% 19/01/2016 - 14:12:09 LR-08-15
+		[X] 100% 19/01/2016 - 14:12:09 LR-09-15
+		[X] 100% 19/01/2016 - 14:12:09 LR-10-15
+	[X] 100% 20/01/2016 - 09:13:13 Bajar la YEDRA.
+	[X] 100% 20/01/2016 - 09:13:13 Leer el correo particular.
+	[X] 100% 20/01/2016 - 09:13:13 Leer el correo del trabajo.
+	[X] 100% 20/01/2016 - 09:13:13 Pasar el reloj.
+	[X] 100% 20/01/2016 - 09:24:40 Crear un link en el Desktop para la maquina virtual que accede a la AEAT.
+	[X] 100% 21/01/2016 - 08:13:35 Leer correo particular.
+	[X] 100% 21/01/2016 - 08:13:35 Leer correo trabajo.
+	[X] 100% 21/01/2016 - 08:13:35 Presentar a la AEAT.
+	[X] 100% 21/01/2016 - 08:40:32 Cambiar los paléts antíguos de sitio para racionalizar su consumo.
+	[X] 100% 22/01/2016 - 08:06:25 Buscar en el 'confluence' información sobre las facturaciones.
+		:
+		: No me ha gustado mucho. Me ha parecido que había poca información de
+		: este tipo.
+		:
+	[X] 100% 22/01/2016 - 08:06:25 Leer el correo corporativo.
+	[X] 100% 22/01/2016 - 08:06:25 Leer el correo privado.
+	[X] 100% 22/01/2016 - 08:06:25 Bajar las presentaciones a la AEAT.
+	[X] 100% 22/01/2016 - 08:06:25 Buscar información sobre los 'snippets'.
+
+################################################################################
+#
+# SEMANA 04
+#
+################################################################################
+
+[X] 100% Semana 04.
+	[X] 100% 25/01/2016 - 09:28:03 Leer el correo del trabajo.
+	[X] 100% 25/01/2016 - 09:28:03 Leer el correo privado.
+	[X] 100% 25/01/2016 - 09:38:40 A partir de recibir el correo del cierre diario de Contabilidad, lanzar y presentar la AEATCEM.
+		: 
+		: Hoy ha tenido un error porque están las chicas de contabilidad
+		: trabajando y no se ha podido.
+		:
+		: ya trt045.sh
+		:
+		[X] 100% 26/01/2016 - 08:57:00 A partir de recibir el correo del cierre diario de Contabilidad, lanzar y presentar la AEATCEM.
+			:
+			: Estaba vacío. A ver si para la próxima vez hay fundamento.
+			:
+	[X] 100% 25/01/2016 - 09:38:40 Comprobar la cantidad de papel de los almacenes.
+	[X] 100% 25/01/2016 - 09:48:39 Arreglar la carpeta 'EXTRACCIÓN'.
+	[X] 100% 26/01/2016 - 08:54:59 Pasar el reloj diario.
+	[X] 100% 26/01/2016 - 08:54:59 Leer el correo particular.
+	[X] 100% 26/01/2016 - 08:54:59 Leer el correo corporativo.
+	[X] 100% 26/01/2016 - 08:54:59 Bajar las presentaciones de la AEAT presentadas ayer.
+	[X] 100% 26/01/2016 - 10:00:14 Instalar en el UBUNTU el 'vim-airline'.
+		: 
+		: Ya está pero no funciona como yo querría ver. ????
+		:
+	[X] 100% 27/01/2016 - 08:51:40 Traer los ficheros de SPOOL de ayer del Host 'CMIASTIP1'.
+	[X] 100% 27/01/2016 - 08:51:40 Leer correo trabajo.
+	[X] 100% 27/01/2016 - 08:51:40 Leer correo particular.
+	[X] 100% 27/01/2016 - 08:51:40 Hacer la presentación de YEDRA alrededor de las 13:55.
+	[X] 100% 27/01/2016 - 08:51:40 Pasar el reloj diario.
+	[X] 100% 28/01/2016 - 08:41:16 Bajar la AEAT.
+	[X] 100% 28/01/2016 - 08:41:16 Leer el correo del trabajo.
+	[X] 100% 28/01/2016 - 08:41:16 Leer el correo particular.
+	[X] 100% 28/01/2016 - 08:41:16 Hacer el reloj diario.
+	[X] 100% 28/01/2016 - 09:23:45 Sincronizar lo que teng en los USB's
+	[X] 100% 28/01/2016 - 10:22:12 Bajar el log y el pr del CMIASTIP1.
+
+################################################################################
+#
+# SEMANA 05
+#
+################################################################################
+
+[X] 100% Semana 05.
+	[X] 100% 01/02/2016 - 08:30:22 Leer el correo del trabajo.
+	[X] 100% 01/02/2016 - 08:30:22 Leer el correo particular.
+	[X] 100% 01/02/2016 - 08:30:22 Presentar la AEATCEM alrededor de las 13:55 horas.
+	[X] 100% 01/02/2016 - 08:30:22 Comprobar la cantidad de papel que tenemos en los almacenes.
+	[X] 100% 01/02/2016 - 08:30:22 Pasar el reloj diario.
+	[X] 100% 01/02/2016 - 08:30:22 Baajr el log y el pr del CMIASTIP1
+	[X] 100% 02/02/2016 - 08:44:31 Leer el correo del trabajo.
+	[X] 100% 02/02/2016 - 08:44:31 Leer el correo particular.
+	[X] 100% 02/02/2016 - 08:44:31 Bajar la AEATCEM.
+	[X] 100% 02/02/2016 - 08:44:31 Presentar la Yedra alrededor de las 13:55 horas.
+	[X] 100% 02/02/2016 - 08:51:01 Pasar el reloj.
+	[X] 100% 02/02/2016 - 08:52:01 Conseguir la numeración bancaria de cada item.
+	[X] 100% 02/02/2016 - 09:00:59 Recopilar la información de lo que es un IBAN.
+	[X] 100% 03/02/2016 - 09:16:28 Leer el correo del trabajo.
+	[X] 100% 03/02/2016 - 09:16:28 Leer el correo particular.
+	[X] 100% 03/02/2016 - 09:16:28 Bajar las peticiones de información de la AEAT.
+	[X] 100% 03/02/2016 - 09:16:28 Pasar el reloj.
+	[X] 100% 03/02/2016 - 09:18:02 Traer el log y el pr del Host TIPCMI1.
+	[X] 100% 04/02/2016 - 08:45:56 Leer el correo del trabajo.
+	[X] 100% 04/02/2016 - 08:45:56 Leer el correo particular.
+	[X] 100% 04/02/2016 - 08:45:56 Hacer el reloj del día.
+	[X] 100% 04/02/2016 - 08:45:56 Presentar la YEDRA alrededor de las 13:55 horas.
+		[X] 100% 2016-02-04 - 13:25:42 SMZV.
+	[X] 100% 04/02/2016 - 10:25:26 Traer el log y el pr del Host TIPCMI1.
+	[X] 100% 04/02/2016 - 10:26:21 Comprar una base de bombilla nueva en la tienda de los chinos.
+	[X] 100% 05/02/2016 - 08:39:05 Leer el correo particular del día.
+	[X] 100% 05/02/2016 - 08:39:05 Leer el correo del trabajo del día.
+	[X] 100% 05/02/2016 - 08:39:05 Bajar de la AEAT las peticiones de información.
+	[X] 100% 05/02/2016 - 08:39:05 Pasar el reloj diário.
+	[X] 100% 05/02/2016 - 08:39:05 Pasar el 'log' y el 'pr' del CMIASTIP1.
+
+################################################################################
+#
+# SEMANA 06
+#
+################################################################################
+
+[X] 100% Semana 06
+	[X] 100% 08/02/2016 - 08:52:34 Leer el correo del trabajo.
+	[X] 100% 08/02/2016 - 08:52:34 Leer el correo particular.
+	[X] 100% 08/02/2016 - 08:52:34 Hacer la AEATCEM alrededor de las 13:55 horas.
+		: 
+		: Al final se retraso tanto que tuve que hacerlo a las 14:55 horas.
+		:
+	[X] 100% 08/02/2016 - 08:52:34 Contar las existencias de papel que existen en el almacén.
+	[X] 100% 08/02/2016 - 08:52:34 Pasar los log's y los pr's del CMIASTIP1.
+	[X] 100% 09/02/2016 - 08:42:23 Leer el correo del trabajo.
+	[X] 100% 09/02/2016 - 08:42:23 Leer el correo particular.
+	[X] 100% 09/02/2016 - 08:42:23 Pasar el reloj diario.
+	[X] 100% 09/02/2016 - 08:42:23 Bajar la AEATCEM respuesta de la petición de información de ayer a la AEAT.
+	[X] 100% 09/02/2016 - 08:42:23 Presentar la petición de información a la AEAT de la YEDRA alrededor de las 13:55 horas.
+	[X] 100% 09/02/2016 - 08:42:23 Pasar los log's y pr's del CMITIP1 a local.
+	[X] 100% 10/02/2016 - 08:07:01 Leer el correo del trabajo.
+	[X] 100% 10/02/2016 - 08:07:01 Leer el correo particular.
+	[X] 100% 10/02/2016 - 08:07:01 Bajar las presentaciones de la AEAT.
+	[X] 100% 10/02/2016 - 08:07:01 Pasar logs y prs del CMITIP1 y fijarse si hoy funciona bien.
+		:
+		: Ha funcionado perfectamente. Pero..... hoy es el último día que el
+		: día tiene una sola cifra, mañana día 11 dejará de funcionar porque
+		: al restar un día al actual para procesarlo se queda en el primer día
+		: del mes que posee dos cifras, es decir, con el día 10 del mes.
+		:
+	[X] 100% 10/02/2016 - 08:42:31 Pasar el reloj diario.
+	[X] 100% 11/02/2016 - 07:53:11 Leer el correo del trabajo.
+	[X] 100% 11/02/2016 - 07:53:11 Leer el correo particular.
+	[X] 100% 11/02/2016 - 07:53:11 Comprobar los logs y prs del CMITIP1.
+	[X] 100% 11/02/2016 - 08:47:04 Hacer el reloj diario.
+	[X] 100% 12/02/2016 - 07:49:56 Leer el correo del trabajo.
+	[X] 100% 12/02/2016 - 07:49:56 Leer el correo particular.
+	[X] 100% 12/02/2016 - 07:49:56 Bajar las peticiones de información de la AEAT.
+	[X] 100% 12/02/2016 - 07:49:56 Pasar el reloj diario.
+	[X] 100% 12/02/2016 - 07:49:56 Comprobar los 'logs' y los 'prs' del CMITIP1.
+
+################################################################################
+#
+# SEMANA 07
+#
+################################################################################
+
+[X] 100% Semana 07
+	[X] 100% 15/02/2016 - 07:53:51 Leer el correo del trabajo.
+	[X] 100% 15/02/2016 - 07:53:51 Leer el correo particular.
+	[X] 100% 15/02/2016 - 07:53:51 Contar el papel de los almacenes.
+	[X] 100% 15/02/2016 - 07:53:51 Pasar el trt045 alrededor de las 13:55 horas.
+	[X] 100% 15/02/2016 - 08:52:34 Pasar los log's y los pr's del CMIASTIP1.
+	[X] 100% 15/02/2016 - 08:40:37 Pasar el reloj diario.
+	[X] 100% 16/02/2016 - 08:18:15 Leer el correo del trabajo.
+	[X] 100% 16/02/2016 - 08:18:15 Bajar la AEATCEM.
+	[X] 100% 18/02/2016 - 08:28:54 Leer el correo del trabajo.
+	[X] 100% 18/02/2016 - 08:28:54 Leer el correo particular.
+	[X] 100% 18/02/2016 - 08:28:54 Presentar la AEAT alrededor de las 13:55 horas.
+	[X] 100% 18/02/2016 - 08:28:54 Scanear y presentar el justificante médico de ausencia.
+	[X] 100% 18/02/2016 - 08:28:54 Pasar el reloj diario.
+	[X] 100% 19/02/2016 - 08:32:27 Bajar los ficheros de la AEAT.
+	[X] 100% 19/02/2016 - 08:32:27 Leer el correo del trabajo.
+	[X] 100% 19/02/2016 - 08:32:27 Leer el correo particular.
+	[X] 100% 19/02/2016 - 08:32:27 Pasar el reloj diario.
+	[X] 100% 19/02/2016 - 08:32:27 Traer los log's y pr's del CMIASTIP1
+
+################################################################################
+#
+# SEMANA 08
+#
+################################################################################
+
+[X] 100% Semana 08
+	[X] 100% 22/02/2016 - 08:31:37 Leer el correo del trabajo.
+	[X] 100% 22/02/2016 - 08:31:37 Leer el correo particular.
+	[X] 100% 22/02/2016 - 08:31:37 Pasar el trt045.sh alrededor de las 13:55.
+	[X] 100% 22/02/2016 - 08:31:37 Contar la cantidad de papel que tenemos en los almacenes.
+	[X] 100% 22/02/2016 - 08:34:42 Pasar el reloj diario.
+	[X] 100% 22/02/2016 - 09:19:13 Los Lunes recoger la información del correo de los vencimientos de los cargos. Guardarla en el directorio log.
+	[X] 100% 22/02/2016 - 10:26:10 Hacer un snippet especial para el trabajo.
+		[X] 100% Ya está hecho pero no me funciona.
+			:
+			: Se me están hinchando los cojones.
+			:
+	[X] 100% 22/02/2016 - 12:37:13 Traer los log's y pr's del CMIASTIP1 a local.
+	[X] 100% 23/02/2016 - 08:45:57 Bajar la AEATCEM.
+	[X] 100% 23/02/2016 - 08:45:57 Leer el correo del trabajo.
+	[X] 100% 23/02/2016 - 08:45:57 Leer el correo particular.
+	[X] 100% 23/02/2016 - 08:45:57 Pasar el reloj diario.
+	[X] 100% 23/02/2016 - 08:45:57 Traer los pr's y los log's del CMIASTIP1.
+	[X] 100% xbdb312.sh P=3 CARGO=VA000214
+		:
+		: Subject: Anulaciones pendientes ordenanzas 50-8 y 50-9; Ejecutar antes de la recaudación:
+		: xbdb312.sh P=3 CARGO=VA000214
+		: Un saludo y gracias.
+		:
+	[X] 100% 23/02/2016 - 11:31:56 Entregar la YEDRA a las 13:55 horas.
+	[X] 100% 23/02/2016 - 11:31:56 Presentar la SMZV alrededor de las 13:55 horas.
+	[X] 100% 24/02/2016 - 08:44:23 Leer el correo del trabajo.
+	[X] 100% 24/02/2016 - 08:44:23 Leer el correo particular.
+	[X] 100% 24/02/2016 - 08:44:23 Bajar las presentaciones de la AEAT.
+		: 
+		: Parece ser que he vuelto a envíar un fichero ya procesado por error.
+		: No me queda más remedio que volver a presentar el fichero de ayer y
+		: consecuentemente bajarlo mañana, eso implica un retraso de un día.
+		:
+	[X] 100% 24/02/2016 - 09:53:44 Hoy he presentado a la AEAT la petición de ayer de la SMZV que me equívoque.
+	[X] 100% 24/02/2016 - 08:44:23 Pasar el reloj diario.
+	[X] 100% 25/02/2016 - 08:58:32 Bajar la SMZV extraordinaría de ayer.
+	[X] 100% 25/02/2016 - 08:58:32 Leer el correo del trabajo.
+	[X] 100% 25/02/2016 - 08:58:32 Leer el correo particular.
+	[X] 100% 25/02/2016 - 08:58:32 Presentar la YEDRA alrededor de las 13:55 horas de la mañana.
+	[X] 100% 25/02/2016 - 08:58:32 Pasar el reloj diário.
+	[X] 100% 25/02/2016 - 09:53:21 Guardar los log's y los pr's de CMIASTIP1.
+	[X] 100% 26/02/2016 - 09:57:17 Leer el correo del trabajo.
+	[X] 100% 26/02/2016 - 09:57:17 Leer el correo particular.
+	[X] 100% 26/02/2016 - 09:57:17 Bajar las presentaciones de la AEAT.
+	[X] 100% 26/02/2016 - 09:57:17 Pasar el reloj diário.
+
+################################################################################
+#
+# SEMANA 09
+#
+################################################################################
+
+[X] 100% Semana 09
+	[X] 100% 29/02/2016 - 08:00:03 Leer el correo del trabajo.
+	[X] 100% 29/02/2016 - 08:00:03 Leer el correo particular.
+	[X] 100% 29/02/2016 - 08:00:03 Enviar la AEATCEM alrededor de las 13:55.
+	[X] 100% 29/02/2016 - 08:23:59 Contar las existencias de Papel en el almacén.
+	[X] 100% 29/02/2016 - 08:25:19 Pasar el reloj diario.
+	[X] 100% 01/03/2016 - 07:54:40 Leer el correo del trabajo.
+	[X] 100% 01/03/2016 - 07:54:40 Leer el correo diario personal.
+	[X] 100% 01/03/2016 - 07:54:40 Bajar la AEATCEM.
+	[X] 100% 01/03/2016 - 07:54:40 Traer los log's y los pr's del CMIASTIP1.
+	[X] 100% 01/03/2016 - 07:54:40 Pasar el reloj diario. Hoy toca primero de mes.
+	[X] 100% 01/03/2016 - 09:36:44 Recordar la presentación de la YEDRA alrededor de las 13:55.
+
+################################################################################
+#
+# SEMANA 10
+#
+################################################################################
+
+[X] 100% Semana 10
+	[X] 100% 07/03/2016 - 08:40:02 Contar el papel de los almacenes.
+	[X] 100% 07/03/2016 - 08:40:02 Leer el correo del trabajo.
+	[X] 100% 07/03/2016 - 08:40:02 Leer el correo particular.
+	[X] 100% 07/03/2016 - 08:40:02 Mandar el AEATCEM alrededor de las 13:55 horas.
+	[X] 100% 07/03/2016 - 08:50:26 Pasar el reloj diario.
+	[X] 100% 07/03/2016 - 09:54:56 Presentar el certificado de bajas para evitar problemas.
+	[X] 100% 08/03/2016 - 08:12:56 Bajar la AEATCEM.
+	[X] 100% 08/03/2016 - 08:12:56 Leer el correo particular.
+	[X] 100% 08/03/2016 - 08:12:56 Leer el correo del trabajo.
+	[X] 100% 08/03/2016 - 08:12:56 Presentar la YEDRA alrededor de las 13:55 horas.
+	[X] 100% 08/03/2016 - 09:00:16 Traer los 'logs' y 'prs' del CMIASTIP1.
+	[X] 100% 09/03/2016 - 08:08:10 Bajar las peticiones presentadas a la AEAT.
+	[X] 100% 09/03/2016 - 08:08:10 Leer el correo privado.
+	[X] 100% 09/03/2016 - 08:08:10 Leer el correo del trabajo.
+	[X] 100% 09/03/2016 - 08:08:10 Apuntar en un fichero de texto los conceptos de actividades diarias que me llegan por correo electrónico.
+	[X] 100% 09/03/2016 - 09:36:26 Pasar el reloj diario.
+	[X] 100% 09/03/2016 - 10:14:23 Traer los 'logs' y 'prs' de CMITIP1 a local.
+	[X] 100% 10/03/2016 - 09:00:49 Hacer el reloj diario.
+	[X] 100% 10/03/2016 - 09:00:49 Leer el correo del trabajo.
+	[X] 100% 10/03/2016 - 09:00:49 Leer el correo particular.
+	[X] 100% 10/03/2016 - 09:00:49 Presentar la YEDRA alrededor de las 13:55 horas de hoy.
+	[X] 100% Presentar la Vivienda.
+	[X] 100% Presentar EDUCACIÓN.
+	[X] 100% 10/03/2016 - 09:00:49 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 10/03/2016 - 11:00:03 Bajar el cuarto trimestre de IAE IA003116 a la AEAT.
+	[X] 100% 10/03/2016 - 11:00:03 Subir el IAE IA999916 a la AEAT.
+	[X] 100% 11/03/2016 - 08:59:13 Traer las presentaciones de la AEAT.
+	[X] 100% 11/03/2016 - 08:59:13 Leer el correo del trabajo.
+	[X] 100% 11/03/2016 - 08:59:13 Leer el correo particular.
+	[X] 100% 11/03/2016 - 08:59:13 Pasar el reloj diario.
+	[X] 100% 11/03/2016 - 08:59:13 Traer los 'logs' y los 'prs' de CMIASTIP1.
+
+
+################################################################################
+#
+# SEMANA 11
+#
+################################################################################
+
+[X] 100% Semana 11
+	[X] 100% 14/03/2016 - 08:50:52 Pasar el reloj diario.
+	[X] 100% 14/03/2016 - 08:50:52 Leer el correo electrónico del trabajo.
+	[X] 100% 14/03/2016 - 08:50:52 Enviar a la AEATCEM el 'trt045.sh' alrededor de las 13:55 horas.
+	[X] 100% 14/03/2016 - 08:50:52 Bajar el IA003116 de la AEAT.
+	[X] 100% 14/03/2016 - 10:23:14 Contar el papel que tenemos en los almacenes.
+	[X] 100% 15/03/2016 - 08:40:02 Leer el correo particular.
+	[X] 100% 15/03/2016 - 08:40:02 Leer el correo del trabajo.
+	[X] 100% 15/03/2016 - 08:40:02 Bajar la AEATCEM de hoy.
+	[X] 100% 15/03/2016 - 08:40:02 Pasar el reloj del día.
+	[X] 100% 15/03/2016 - 08:40:02 Traer los 'logs' y los 'prs' del CMITIP1.
+	[X] 100% 15/03/2016 - 08:40:02 Presentar la YEDRA en la AEAT alrededor de las 13:55 horas.
+	[X] 100% 15/03/2016 - 13:38:34 Enviar el fichero de EDU a la AEAT.
+		: 
+		: Ambas dos presentaciones se me quedaron bloqueadas por problemas de
+		: la AEAT. No pude presentar todos los ficheros.
+		:
+		: Se ha encargado Enrique y lo ha completado todo, EDU, y YEDRA que no
+		: pude hacer.
+		:
+	[X] 100% 16/03/2016 - 08:49:06 Bajar de la AEAT los ficheros presentados.
+	[X] 100% 16/03/2016 - 08:49:06 Leer el correo particular.
+	[X] 100% 16/03/2016 - 08:49:06 Leer el correo del trabajo.
+	[X] 100% 16/03/2016 - 08:49:06 Pasar el reloj.
+	[X] 100% 16/03/2016 - 10:35:13 Hacer algún filtro para el correo, que ya empieza a cargarse otra vez.
+	[X] 100% 17/03/2016 - 07:53:50 Leer el correo del traabajo.
+	[X] 100% 17/03/2016 - 07:53:50 Leer el correo particular.
+	[X] 100% 17/03/2016 - 07:53:50 Enviar la YEDRA a la AEAT alrededor de las 13:55.
+		[X] 100% 2016-02-04 - 13:25:42 SMZV.
+	[X] 100% 17/03/2016 - 07:53:50 Pasar el reloj diario.
+	[X] 100% 17/03/2016 - 07:53:50 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 17/03/2016 - 08:03:22 Comprobar los errores que tiene la 'web' que vi ayer en el fichero de log de la recepción de Emails.
+		: 
+		: Aparecían trazas de información sobre iso8859-15 en un correo muy
+		: viejo.
+		:
+	[X] 100% 18/03/2016 - 07:40:41 Leer el correo particular.
+	[X] 100% 18/03/2016 - 07:40:41 Leer el correo del trabajo.
+	[X] 100% 18/03/2016 - 07:40:41 Bajar la AEATCEM de hoy.
+	[X] 100% 18/03/2016 - 07:40:41 Pasar el reloj del día.
+	[X] 100% 18/03/2016 - 07:40:41 Traer los 'logs' y los 'prs' del CMITIP1.
+
+################################################################################
+#
+# SEMANA 12
+#
+################################################################################
+
+[_] 97% Semana 12 
+	[X] 100% 21/03/2016 - 08:58:36 Pasar el reloj diario.
+	[X] 100% 21/03/2016 - 08:58:36 Leer el correo del trabajo.
+	[X] 100% 21/03/2016 - 08:58:36 Leer el correo privado.
+	[X] 100% 21/03/2016 - 08:58:36 Contar el papel que tenemos en los almacenes.
+	[X] 100% 21/03/2016 - 08:58:36 Traer los 'logs' y los 'prs' de CMITIP1.
+	[X] 100% 21/03/2016 - 08:58:36 Enviar alrededor de las 13:55 horas la AEATCEM.
+	[X] 100% 21/03/2016 - 08:58:36 Hacer algún filtro para mi correo que está muy cargado.
+	[X] 100% 22/03/2016 - 08:37:54 Bajar la AEATECEM de Hacienda.
+	[X] 100% 22/03/2016 - 08:37:54 Leer el correo electrónico particular.
+	[X] 100% 22/03/2016 - 08:37:54 Leer el correo electrónico corporativo.
+	[X] 100% 22/03/2016 - 08:37:54 Presentar la YEDRA alrededor de las 13:50 horas.
+	[X] 100% 22/03/2016 - 08:37:54 Pasar el reloj diario.
+	[X] 100% 22/03/2016 - 08:37:54 Pasar los ficheros de 'log' y el listado de los 'prs'.
+	[X] 100% 22/03/2016 - 08:37:54 Encontrar algún sitio repositorio de ejemplos de JSP para practicar.
+	[X] 100% 22/03/2016 - 08:37:54 Hacer documentación del cursillito de operadores.
+		: 
+		: No. Es un coñazo, es lento, y además el esfuerzo no se equipara con
+		: el beneficio obtenido.
+		:
+	[X] 100% 22/03/2016 - 08:42:15 ¿Cómo hacer ficheros 'hlp' o 'epub' o 'chm' en windows?
+	[X] 100% 23/03/2016 - 08:38:19 Bajar la YEDRA de la AEAT.
+	[X] 100% 23/03/2016 - 08:38:19 Pasar el reloj diario.
+	[X] 100% 23/03/2016 - 08:38:19 Leer el correo del trabajo.
+	[X] 100% 23/03/2016 - 08:38:19 Leer el correo particular.
+	[_] 50% 23/03/2016 - 09:22:48 Registros diarios.
+		[_] 0% 23/03/2016 - 09:21:14 Insertar en la ORACLE los datos de los 'logs' y los 'prs' del cmiastip1.
+		[X] 100% 23/03/2016 - 08:38:19 Traer los 'logs' y los 'prs' del cmiastip1.
+
+################################################################################
+#
+# SEMANA 13 
+#
+################################################################################
+
+[X] 100% Semana 13
+	[X] 100% 28/03/2016 - 08:40:47 Leer correo particular.
+	[X] 100% 28/03/2016 - 08:40:47 Leer el correo corporativo.
+	[X] 100% 28/03/2016 - 08:40:47 Hacer la AEATCEM alrededor de las 13:50.
+	[X] 100% 28/03/2016 - 08:40:47 Contar el papel de los almacenes.
+		[X] 100% 29/03/2016 - 08:40:47 Volver a contar el papel de los almacenes.
+		: 
+		: Mañana 29 volver a contar el papel que tenemos en el almacen porque lo
+		: acabamos de reestructurar hoy día 28.
+		:
+	[X] 100% 28/03/2016 - 08:42:59 Pasar el reloj diario. Hoy tenemos los dias de la Semana Santa.
+	[X] 100% 28/03/2016 - 08:42:59 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 29/03/2016 - 08:32:00 Leer el correo personal.
+	[X] 100% 29/03/2016 - 08:32:00 Leer el correo corporativo.
+	[X] 100% 29/03/2016 - 08:32:00 Bajar la AEATCEM de la AEAT.
+	[X] 100% 29/03/2016 - 08:32:00 Aproximadamente a las 13:50 presentar la YEDRA en la AEAT.
+	[X] 100% 29/03/2016 - 08:32:00 Pasar el reloj diario.
+	[X] 100% 29/03/2016 - 08:32:00 Traer los 'logs' y los 'prs'.
+	[X] 100% 30/03/2016 - 08:39:32 Bajar la YEDRA de la AEAT.
+	[X] 100% 30/03/2016 - 08:39:32 Leer el correo elctrónico del trabajo.
+	[X] 100% 30/03/2016 - 08:39:32 Leer el correo electrónico particular.
+	[X] 100% 30/03/2016 - 08:39:32 Pasar el Reloj de todos los días.
+	[X] 100% 30/03/2016 - 08:39:32 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 30/03/2016 - 08:39:32 Describir la estructura nueva del deposito del papel en los almacenes.
+	[X] 100% 31/03/2016 - 08:22:44 Leer el correo diario del trabajo.
+	[X] 100% 31/03/2016 - 08:22:44 Leer el correo diario particular.
+	[X] 100% 31/03/2016 - 08:22:44 Traer los 'logs' y los 'prs' y presentarlos en al ORACLE.
+	[X] 100% 31/03/2016 - 08:22:44 Pasar el reloj diario.
+	[X] 100% AEAT
+		[X] 100% 31/03/2016 - 10:03:25 Presentar a la AEAT la petición de información de la SMZV.
+		[X] 100% 31/03/2016 - 08:22:44 Alrededor de las 13:55 presentar la YEDRA.
+	[X] 100% 01/04/2016 - 08:55:09 Leer el correo particular.
+	[X] 100% 01/04/2016 - 08:55:09 Leer el correo del trabajo.
+	[X] 100% 01/04/2016 - 08:55:09 Bajar las presentaciones de la AEAT.
+	[X] 100% 01/04/2016 - 08:55:09 Pasar el reloj diario.
+	[X] 100% 01/04/2016 - 08:55:09 Traer los 'logs' diarios y los 'prs'.
+
+################################################################################
+#
+# SEMANA 14
+#
+################################################################################
+
+[X] 100% Semana 14 
+	[X] 100% 01/04/2016 - 10:32:10 Bajar de la AEAT un registro erroneo de la YEDRA 677-2016-4-1-16729.txt del día 2016/04/01 que se ha vuelto a presentar.
+		: 
+		: Se ha importado correctamente.
+		:
+	[X] 100% 04/04/2016 - 10:41:01 Leer el correo del trabajo.
+	[X] 100% 04/04/2016 - 10:41:01 Leer el correo particular.
+	[X] 100% 04/04/2016 - 10:41:01 Pasar el reloj diario.
+	[X] 100% 04/04/2016 - 10:41:01 Traer el 'log' y los 'prs' del CMIASTIP1.
+	[X] 100% 04/04/2016 - 10:41:01 Contar el papel de los almacenes.
+	[X] 100% 04/04/2016 - 10:41:01 Hoy toca hacer la AEATCEM alrededor de las 13:50.
+	[X] 100% 05/04/2016 - 08:51:08 Recoger la AEATCEM de la AEAT.
+	[X] 100% 05/04/2016 - 08:51:08 Leer el correo diario.
+	[X] 100% 05/04/2016 - 08:51:08 Leer el correo particular.
+	[X] 100% 05/04/2016 - 08:51:08 Pasar el reloj diario.
+	[X] 100% 05/04/2016 - 08:51:08 Traer los 'logs' y los 'prs' de CMITIP1.
+	[X] 100% 05/04/2016 - 08:51:08 Aproximadamente a las 13:55 presentar la YEDRA en la AEAT.
+	[X] 100% 06/04/2016 - 08:00:56 Pasar el reloj diario.
+	[X] 100% 06/04/2016 - 08:00:56 Leer el correo electrónico particular.
+	[X] 100% 06/04/2016 - 08:00:56 Leer el correo corporativo.
+	[X] 100% 06/04/2016 - 08:00:56 Bajar las peticiones de información de la AEAT.
+		: 
+		: Problemas con el primer día de presenación de la Declaración de la
+		: Renta.
+		:
+	[X] 100% 06/04/2016 - 08:00:56 Traer el 'pr' y los 'logs' del CMIASTIP1.
+	[X] 100% 07/04/2016 - 09:52:35 Leer el correo particular.
+	[X] 100% 07/04/2016 - 09:52:35 Leer el correo corporativo.
+	[X] 100% 07/04/2016 - 09:52:35 Pasar el reloj diario.
+	[X] 100% 07/04/2016 - 09:52:35 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 07/04/2016 - 09:52:35 Alrededor de las 13:55 mandar la YEDRA a la AEAT.
+	[X] 100% 08/04/2016 - 08:13:26 Bajar las presentaciones de Hacienda.
+	[X] 100% 08/04/2016 - 08:13:26 Leer el correo del trabajo.
+	[X] 100% 08/04/2016 - 08:13:26 Leer el correo particular.
+	[X] 100% 08/04/2016 - 08:13:26 Traer el 'log' y el 'pr' del CMIASTIP1.
+	[X] 100% 08/04/2016 - 08:13:26 Pasar el reloj diario.
+	[X] 100% 08/04/2016 - 13:58:10 Buscar el manual de mi teléfono.
+		:
+		: Buscar el manual de mi teléfono a ver si puedo conseguir meterle
+		: macros. Con un botón capturar las llamadas de Enrique.
+		:
+		[X] 100% Pedirselo a Carlos a ver si lo tiene.
+
+################################################################################
+#
+# SEMANA 15
+#
+################################################################################
+
+[_] 93% Semana 15
+	[X] 100% 11/04/2016 - 07:55:39 Leer el correo diario del trabajo.
+	[X] 100% 11/04/2016 - 07:55:39 Leer el correo diario particular.
+	[X] 100% 11/04/2016 - 07:55:39 Alrededor de las 13:55 procesar la AEATCEM de todos los Lunes.
+	[X] 100% 11/04/2016 - 07:55:39 Procesar el reloj diario.
+	[X] 100% 11/04/2016 - 07:55:39 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 11/04/2016 - 09:45:57 Contar el papel que hay en los almacenes como todos los Lunes.
+	[X] 100% 12/04/2016 - 08:40:16 Leer el correo electrónico del trabajo.
+	[X] 100% 12/04/2016 - 08:40:16 Leer el correo electrónico particular.
+	[X] 100% 12/04/2016 - 08:40:16 Alrededor de las 13:50 presentar la YEDRA.
+	[X] 100% 12/04/2016 - 08:40:16 Procesar el reloj diario.
+	[X] 100% 12/04/2016 - 08:40:16 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 13/04/2016 - 08:46:37 Leer el correo personal.
+	[X] 100% 13/04/2016 - 08:46:37 Leer el correo corporativo.
+	[X] 100% 13/04/2016 - 08:46:37 Traer las peticiones de información a la AEAT.
+	[X] 100% 13/04/2016 - 08:46:37 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 13/04/2016 - 08:46:37 Pasar el reloj diario.
+	[X] 100% 14/04/2016 - 07:49:22 Leer el correo diario del trabajo.
+	[X] 100% 14/04/2016 - 07:49:22 Leer el correo personal.
+	[X] 100% 14/04/2016 - 07:49:22 Alrededor de las 13:50 presentar la YEDRA en la AEAT.
+	[X] 100% 14/04/2016 - 07:49:22 Procesar el reloj diario.
+	[X] 100% 14/04/2016 - 07:49:22 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 14/04/2016 - 10:00:02 Recoger el registro corrupto que se ha vuelto a envíar a la AEAT.
+		: 
+		: Se ha cargado en YEDRA correctamente.
+		:
+	[X] 100% 14/04/2016 - 08:02:56 Buscar SW de Dropbox en UBUNTU.
+	[X] 100% 14/04/2016 - 09:14:16 Procesar con la YEDRA el fichero SOLICITUDESAETSMRU_20160414.txt
+	[_] 0% 14/04/2016 - 09:34:25 Hacer un mapa de 'PATHs'.
+	[_] 0% 14/04/2016 - 09:34:25 Haer un listado de servidores.
+	[X] 100% 15/04/2016 - 09:01:40 Leer el correo electrónico del trabajo.
+	[X] 100% 15/04/2016 - 09:01:40 Leer el correo electrónino personal.
+	[X] 100% 15/04/2016 - 09:01:40 Bajar las peticiones de información de la AEAT.
+	[X] 100% 15/04/2016 - 09:01:40 Pasar el reloj diario.
+	[X] 100% 15/04/2016 - 09:01:40 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 15/04/2016 - 09:01:40 Instalar en Redmine el comando 'ccze' para buscar errores en los ficheros de log.
+
+################################################################################
+#
+# SEMANA 16 
+#
+################################################################################
+
+[_] 97% Semana 16 
+	[X] 100% 18/04/2016 - 07:58:00 Leer el correo electrónico particular.
+	[X] 100% 18/04/2016 - 07:58:00 Leer el correo electrónico del trabajo.
+	[X] 100% 18/04/2016 - 07:58:00 Mandar la AEATCEM a la AEAT alrededor de las 13:55 horas.
+	[X] 100% 18/04/2016 - 07:58:00 Sincronizar el USB con la nueva estructura pensada.
+	[X] 100% 18/04/2016 - 07:58:00 Comprobar la cantidad de papel que tenemos en el almacén.
+	[X] 100% 18/04/2016 - 07:58:00 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 18/04/2016 - 09:09:04 Pasar el reloj diario.
+	[X] 100% 19/04/2016 - 08:49:50 Leer el correo electrónico del trabajo.
+	[X] 100% 19/04/2016 - 08:49:50 Leer el correo electrónico particular.
+	[X] 100% 19/04/2016 - 08:49:50 Pasar el reloj diario.
+	[X] 100% 19/04/2016 - 08:49:50 Bajar la AEATCEM de ayer Lunes.
+	[X] 100% 19/04/2016 - 08:49:50 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 20/04/2016 - 08:39:48 Leer el correo electrónico particular.
+	[X] 100% 20/04/2016 - 08:39:48 Leer el correo electrónico corporativo.
+	[X] 100% 20/04/2016 - 08:39:48 Sincronizar el USB añadiéndole el directorio de programación.
+	[X] 100% 20/04/2016 - 08:39:48 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 20/04/2016 - 08:39:48 Pasar el reloj diario.
+	[X] 100% 20/04/2016 - 08:39:48 Subir el fichero de YEDRA equivocado para procesar y bajar mañana.
+	[X] 100% 20/04/2016 - 09:35:08 Continuar con el script de la importación de los datos en la ORACLE.
+	[X] 100% 21/04/2016 - 10:10:23 Bajar la petición de información errónea de ayer de la AEAT.
+	[X] 100% 21/04/2016 - 10:10:23 Leer el correo personal.
+	[X] 100% 21/04/2016 - 10:10:23 Leer el correo del trabajo.
+	[X] 100% 21/04/2016 - 10:10:23 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 21/04/2016 - 10:10:23 Pasar el reloj diario.
+	[X] 100% 21/04/2016 - 10:39:36 Alrededor de las 13:50 horas mandar la YEDRA a la AEAT.
+	[X] 100% 21/04/2016 - 10:39:36 Alrededor de las 13:50 horas mandar SMZV a la AEAT.
+		:
+		: Lo he mandado pronto, algo antes de la hora de almorzar.
+		:
+	[X] 100% 21/04/2016 - 12:31:43 Limpiar los 'PDFs' del escritorio otra vez.
+	[X] 100% 22/04/2016 - 09:13:54 Bajar las peticiones de información enviadas a la AEAT.
+	[X] 100% 22/04/2016 - 09:13:54 Pasar el reloj diario.
+	[X] 100% 22/04/2016 - 09:13:54 Leer el correo electrónico particular.
+	[X] 100% 22/04/2016 - 09:13:54 Leer el correo electrónico del trabajo.
+	[X] 100% 22/04/2016 - 09:13:54 Traer los ficheros de 'log' y los 'prs' del CMIASTIP1.
+	[X] 100% 22/04/2016 - 09:58:02 Comprobar los tres ficheros "Kurrarlo".
+	[X] 100% 22/04/2016 - 09:58:02 Compilar varios temas en LaTeX relacionados con mi trabajo.
+	[_] 0% 22/04/2016 - 09:58:02 ¿Cómo se dá de alta a un usuario en los servidores?
+
+################################################################################
+#
+# SEMANA 17
+#
+################################################################################
+
+[_] 92% Semana 17 
+	[X] 100% 25/04/2016 - 07:42:43 Leer el correo del trabajo.
+	[X] 100% 25/04/2016 - 07:42:43 Leer el correo particular.
+	[X] 100% 25/04/2016 - 07:42:43 Quitar el DropBox del PC del trabajo.
+	[X] 100% 25/04/2016 - 07:42:43 Enviar la AEATCEM alrededor de las 13:55.
+	[X] 100% 25/04/2016 - 07:42:43 Traer los ficheros de 'log' y los 'prs' del CMIASTIP1.
+	[X] 100% 25/04/2016 - 07:42:43 Comprobar la cantidad de papel que tenemos en los almacenes.
+	[X] 100% 25/04/2016 - 07:42:43 Pasar el reloj diario.
+	[X] 100% 25/04/2016 - 07:56:30 Limpiar los ficheros personales 'otl' del cuaderno GTD.
+	[X] 100% 25/04/2016 - 08:49:43 Extraer la información de las facturaciones. Por ejemplo.
+		: 
+		: REMESAS sin listados, buscarlo.
+		:
+		: Ejecutandose xembtes.sh -----> 04/26/16 19:22:52
+		: JOB xembtes.sh en ejecucion Tue Apr 26 19:22:52 CEST 2016
+		: ********************************************************
+		: * XEMBTES  PROCEDIMIENTO DE EMBARGOS DE TESORERIA      *
+		: ********************************************************
+		: *******************************************************
+		: * PASO 1: Clasifica el fichero de tesoreria por DNI   *
+		: *******************************************************
+		: fili1=/SINFAZ/FISCAL/BATCH/fich1.tesoreria.txt
+		: filo1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/fich2.tesoreria.cl.20160426.txt
+		: *******************************************************
+		: * PASO 2: Crea fich de trabajo desde fich tesoreria   *
+		: *******************************************************
+		: *******************************************************
+		: * PASO 3: Crea un fichero con todos los recibos de los*
+		: * contribuyentes incluidos en el fichero de trabajo   *
+		: *******************************************************
+		: *******************************************************
+		: * PASO 4: Clasifica el fichero de recibos por DNI,    *
+		: * tipo de recibo y fecha de inicio de devengo         *
+		: *******************************************************
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/fich4.rec.tesoreria.20160426.txt 
+		: filo1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/fich5.rec.tesoreria.cl.20160426.txt
+		: *******************************************************
+		: * PASO 5: Pasa los recibos al fichero de embargos o al*
+		: * de compensaciones hasta la cantidad disponible en el*
+		: * pago. Actualiza el fich de trabajo con la cantidad  *
+		: * embargada. Graba un registro en el fichero EFD011   *
+		: *******************************************************
+		: *******************************************************
+		: * PASO 6: Lee los ficheros de embargos y tesoreria y  *
+		: * crea fichero de direcciones para los listados       *
+		: * y notificaciones                                    *
+		: *******************************************************
+		:
+		: *********************************
+		: PASO 7: LANZA SHELL -xesicer.sh- 
+		: *********************************
+		: 
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.ix.EN162426
+		: filo1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.EN162426
+		: ================================================================================
+		: JOB: xesicer.sh --> ENVIO de remesas de NOTIFICACIONES (CORREOS).
+		: Parámetros tecleados: CARGO=EN162426
+		: ================================================================================
+		: /SINFAZ/FISCAL/BATCH/EMBARG/EN162426/remenv
+		: ******************************************
+		: PASO 1: Ordena fichero -DIRIMP- para crear
+		: ******************************************
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.EN162426
+		: filo1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.cl.EN162426
+		: *******************************************************
+		: PASO 2: Crea fichero y listado de -remesa- para Correos
+		: *******************************************************
+		: /SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.cl.EN162426
+		: /SINFAZ/FISCAL/SPOOL/PRINT_HOLD/.relacion.correos.EN162426
+		: 19:23:01 xesicer.sh: empieza sicer1 20160426ENEN162426
+		:
+		: Recibos -SIN- Código Postal ................     0                                                                                  
+		: TOTAL Zaragoza Capital y Barrios Rurales ...    11                                                                                  
+		: TOTAL Capitales de Provincia ...............     0                                                                                  
+		: TOTAL Resto de España ......................     3                                                                                  
+		:  
+		: -EMISIONES-      *000014*
+		: -NOTIFICACIONES- *000024*
+		: -EMBARGOS-       *000000*
+		: 
+		: *******************************************************
+		: PASO 3: REINDEXA EL FICHERO DE DIRECCIONES DE IMPRESORA
+		: *******************************************************
+		: 
+		: tipo: EN
+		: 
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.cl.EN162426
+		: filo1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.ix.EN162426
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.cl.EN162426
+		: filo1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/3dirimp.direcciones.ix.EN162426
+		:
+		: **********************
+		: REMESA A ENVIAR = 6013
+		: **********************
+		: 
+		: ***************************************************
+		: PASO 3: Copia el fichero remesa a -LINE SEQUENTIAL-
+		: ***************************************************
+		: /SINFAZ/FISCAL/BATCH/EMBARG/EN162426/remenv
+		: /SINFAZ/FISCAL/FACT/CORREOS/ENVIOS/NE5000130120160426.1923
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/remenv
+		: filo1=/SINFAZ/FISCAL/FACT/CORREOS/ENVIOS/NE5000130120160426.1923
+		: fili1=/SINFAZ/FISCAL/BATCH/EMBARG/EN162426/remenv
+		: filo1=/SINFAZ/FISCAL/FACT/CORREOS/ENVIOS/NE5000130120160426.1923
+		: ================================================================================
+		: ================================================================================
+		: *******************************************************
+		: * PASO 9: Lee el fichero de embargos y marca los      *
+		: * recibos como pagados o crea VIAP, crea ABONARE del  *
+		: * embargo y taloncillo por cada recibo o VIAP y saca  *
+		: * un listado por contribuyente, notificaciones al     *
+		: * contribuyente a tesorería y a registro y orden de   *
+		: * embargo                                             *
+		: *******************************************************
+		: 
+		: -------------------------
+		: -----------OK------------
+		: -------------------------
+		:
+		: TOTAL LEIDOS EMBARGO : 000028
+		: TOTAL LEIDOS TRABAJO : 000014
+		: TOTAL LEIDOS DIRIMP  : 000014
+		: ABONARES GRABADOS    : 000014
+		: TALONCILLOS GRABADOS : 000028
+		: RECIBOS PAGADOS      : 000010
+		: VIAPS GRABADOS       : 000000
+		: ABONARES MODIFICADOS : 000014
+		: CARTAS TESORERIA     : 000014
+		: LINEAS CARTA REGISTRO: 000014
+		: CARTAS CONTRIBUYENTE : 000014
+		: VIAPS PENDIENTES     : 000004
+		: VIAPS PEND. DEVUELTOS: 000004
+		: VIAPS PEND. LISTADOS : 000004
+		: LINEAS LISTADO       : 000052
+		: =======================================================================
+		: FIN
+		: El mensaje /SINFAZ/FISCAL/BATCH/3correo_xembtes.txt no existe
+		: =======================================================================
+		: Terminado xembtes.sh  ------> 04/26/16 19:23:06
+		:
+	[X] 100% 25/04/2016 - 10:36:51 Meter un comando para romper el fichero de log del Redmine en trozos más pequeños.
+	[X] 100% 25/04/2016 - 11:43:51 Controlar una vez por semana por lo menos los buzones web del Redmine.
+		: 
+		: Los voy a poner en el notificador de correo.
+		:
+	[X] 100% 26/04/2016 - 08:01:20 leer el correo electrónico del trabajo.
+	[X] 100% 26/04/2016 - 08:01:20 Leer el correo electrónico particular.
+	[X] 100% 26/04/2016 - 08:01:20 Bajar la presentación de ayer de la AEATCEM.
+	[X] 100% 26/04/2016 - 08:01:20 Traer los ficheros de 'log' y los 'prns' del CMIASTIP1.
+	[X] 100% 26/04/2016 - 08:01:20 Pasar el reloj diario.
+	[X] 100% 26/04/2016 - 08:01:20 Alrededor de las 13:50 presentar la YEDRA en la AEAT.
+	[X] 100% 26/04/2016 - 13:20:23 Presentar en la AEAT la petición de información de Educación.
+	[X] 100% 26/04/2016 - 13:20:23 Presentar en la AEAT la petición de información de Vivienda.
+	[X] 100% 27/04/2016 - 08:34:36 Bajar las peticiones de información de la AEAT.
+	[X] 100% 27/04/2016 - 08:34:36 Leer el correo del trabajo.
+	[X] 100% 27/04/2016 - 08:34:36 Leer el correo particular.
+	[X] 100% 27/04/2016 - 08:34:36 Traer los ficheros de 'log' y los 'prns' del CMIASTIP1.
+	[X] 100% 27/04/2016 - 08:34:36 Pasar el reloj diario.
+	[X] 100% 27/04/2016 - 13:58:38 Meter todos los buzones de RedMine en el notificador de correo.
+	[_] 0% 27/04/2016 - 13:58:38 Arreglar por fín el importador de datos 'log' y 'prs' en la ORACLE.
+	[_] 0% 28/04/2016 - 08:04:59 Hacer en BASH un programita que enumere los listados del día.
+		: 
+		: Hacer en BASH un programita que diga lo quer crea/produce cada trabajado pasado el día anterior. Por ejmplo: ¿Se ha pasado algún SICER sin listados?. Eso es porque se ha pasado el día antrerior el trabajo xembtes.sh'.
+		:
+	[X] 100% 28/04/2016 - 09:21:02 Leer el correo electrónico del trabajo.
+	[X] 100% 28/04/2016 - 09:21:02 Leer el correo electrónico particular.
+	[X] 100% 28/04/2016 - 09:21:02 Enviar la AEATCEM alrededor de las 13:55.
+	[X] 100% 28/04/2016 - 09:21:02 Enviar Educación alrededor de las 13:55.
+	[X] 100% 28/04/2016 - 09:21:02 Traer los 'logs' y los 'prns' del CMIASTIP1.
+	[X] 100% 28/04/2016 - 09:21:02 Pasar el reloj diario.
+	[X] 100% 28/04/2016 - 09:45:30 Instalar el Eclipse.
+		:
+		: NO me arranca. Lo vuelvo a quitar otra vez.
+		:
+	[X] 100% 29/04/2016 - 08:46:09 Pasar el reloj diario.
+	[X] 100% 29/04/2016 - 08:46:09 Leer el correo electrónico del trabajo.
+	[X] 100% 29/04/2016 - 08:46:09 Leer el correo electrónico particular.
+	[X] 100% 29/04/2016 - 08:46:09 Traer del CMIASTIP1 los 'logs' y los 'prs' del día de ayer.
+	[X] 100% 29/04/2016 - 08:46:09 Bajar las peticiones de información de la AEAT.
+	[_] 0% 29/04/2016 - 08:56:39 Imprimir todos los ficheros de texto de 'gtd.otl'.
+
+################################################################################
+#
+# SEMANA 18
+#
+################################################################################
+
+[_] 92% Semana 18
+	[X] 100% 03/05/2016 - 09:14:24 Leer el correo electrónico del trabajo.
+	[X] 100% 03/05/2016 - 09:14:24 Leer el correo electrónico particular.
+	[X] 100% 03/05/2016 - 09:14:24 Pasar el reloj del día.
+	[X] 100% 03/05/2016 - 09:14:24 Contar el papel de los almacenes.
+	[X] 100% 03/05/2016 - 09:14:24 Alrededor de las 13:55 presentar en la AEAT la AEATCEM.
+	[X] 100% 03/05/2016 - 09:14:24 Alrededor de las 13:55 presentar en la AEAT la exportación de la YEDRA y demás.
+	[X] 100% 03/05/2016 - 14:14:48 Celia Bosque ---> SMZV.
+	[X] 100% 03/05/2016 - 14:14:48 Ana Martín   ---> EDU.
+	[X] 100% 03/05/2016 - 09:14:24 Traer de CMIASTIP1 los 'logs' y los 'prs'.
+	[X] 100% 03/05/2016 - 09:14:24 Comprar Silicona negra en tubo.
+	[X] 100% 03/05/2016 - 09:14:24 Comprar un tubo extractor para la silicona en tubo.
+	[X] 100% 03/05/2016 - 09:14:24 Buscar algo interesante sobre el lenguaje utilizado en las Matemáticas.
+	[X] 100% 03/05/2016 - 09:14:24 Buscar un resumen JAVA en libro electrónico y aprovecharlo.
+		: 
+		: Buscar un resumen JAVA en libro electrónico y aprovecharlo. Trabajar
+		: haciendo apuntes a mano solamente en temas que sean difíciles de
+		: encontrar como por ejemplo 'Patrones de diseño'. 
+		:
+	[X] 100% 04/05/2016 - 08:03:12 Bajar todas las peticiones de información de la AEAT.
+	[X] 100% 04/05/2016 - 08:03:12 Leer el correo electrónico del trabajo.
+	[X] 100% 04/05/2016 - 08:03:12 Leer el correo electrónico particular.
+	[X] 100% 04/05/2016 - 08:03:12 Pasar el reloj del día.
+	[X] 100% 05/05/2016 - 08:48:15 Leer el correo electrónico del trabajo.
+	[X] 100% 05/05/2016 - 08:48:15 Leer el correo electrónico particular.
+	[X] 100% 05/05/2016 - 08:48:15 Alrededor de las 13:50 presentar las peticiones de información a la AEAT.
+	[X] 100% 05/05/2016 - 08:48:15 Pasar el reloj diario.
+	[_] 0% 05/05/2016 - 09:23:55 Visitar el curso de Java que ya ha empezado la segunda semana.
+		: 
+		: Recopilar algún documento resumen de Java que se ainteresante.
+		:
+	[_] 0% 05/05/2016 - 09:49:13 Gestión de mi trabajo mediante correos electrónicos.
+		:
+		: Tengo que hacerme un proyecto de gestión de mi trabajo mediante
+		: correos electrónicos, pero SOLAMENTE UTILIZANDO MI PC.
+		:
+	[X] 100% 06/05/2016 - 07:53:04 Leer el correo del trabajo.
+	[X] 100% 06/05/2016 - 07:53:04 Leer el correo particular.
+	[X] 100% 06/05/2016 - 07:53:04 Bajar las presentaciones de información de la AEAT.
+	[X] 100% 06/05/2016 - 07:53:04 Pasar el reloj diario a partir de las 08:30 horas.
+
+################################################################################
+#
+# SEMANA 19
+#
+################################################################################
+
+[X] 100% Semana 19 
+	[X] 100% 09/05/2016 - 09:48:31 Leer el correo electrónico del trabajo.
+	[X] 100% 09/05/2016 - 09:48:31 Leer el correo electrónico particular.
+	[X] 100% 09/05/2016 - 09:48:31 Pasar el reloj diario.
+	[X] 100% 09/05/2016 - 09:48:31 Alrededor de las 13:55 pasar el AEATCEM.
+	[X] 100% 09/05/2016 - 09:48:31 Contar las existencias del almacén.
+	[X] 100% 10/05/2016 - 08:02:00 Bajar de Hacienda la AEATCEM.
+	[X] 100% 10/05/2016 - 08:02:00 Leer el correo electrónico del trabajo.
+	[X] 100% 10/05/2016 - 08:02:00 Leer el correo electrónico particular.
+	[X] 100% 10/05/2016 - 08:02:00 Pasar el reloj diario.
+	[X] 100% 10/05/2016 - 08:02:00 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 10/05/2016 - 09:29:49 Publicar en un ticket las direcciones de correo dadas de alta en RedMine.
+	[X] 100% 10/05/2016 - 09:30:54 Comprar pastillas de 'LIZIPAINA' y de 'Paracetamol'.
+	[X] 100% 10/05/2016 - 08:02:00 Alrededor de las 13:55 presentar las peticiones de información de la YEDRA.
+	[X] 100% 10/05/2016 - 13:33:19 Proceesar en hacienda el fichero SOLICITUDESAEATEDU_20160510.txt
+	[X] 100% 10/05/2016 - 13:33:19 Procesar en hacienda el fichero SOLICITUDESAETSMRU_20160510.txt
+	[X] 100% 11/05/2016 - 08:57:09 Leer el correo electrónico particular.
+	[X] 100% 11/05/2016 - 08:57:09 Leer el correo electrónico del trabajo.
+	[X] 100% 11/05/2016 - 08:57:09 Bajar las presentaciones de información de la AEAT.
+	[X] 100% 11/05/2016 - 08:57:09 Pasar el reloj diario.
+	[X] 100% 11/05/2016 - 08:57:09 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 11/05/2016 - 09:37:20 Abrir un ticket para 'peticiones-web' por el 'Consejo Gerencia Urbanismo'.
+	[X] 100% 12/05/2016 - 09:01:26 Pasar el reloj diario.
+	[X] 100% 12/05/2016 - 09:01:26 Leer el correo electrónico diario.
+	[X] 100% 12/05/2016 - 09:01:26 Leer el correo electrónico particular.
+	[X] 100% 12/05/2016 - 09:01:26 Alrededor de las 13:55 hacer la presentación a la AEAT.
+	[X] 100% 12/05/2016 - 10:14:18 Alrededor de las 13:55 procesar también la SMZV.
+	[X] 100% 12/05/2016 - 09:01:26 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 12/05/2016 - 09:01:26 Hacer un listado de las familias de 'jobs' sacado de las tablas de la ORACLE.
+	[X] 100% 13/05/2016 - 07:58:07 Bajar las peticiones de información de la AEAT.
+	[X] 100% 13/05/2016 - 07:58:07 Leer el correo electrónico personal.
+	[X] 100% 13/05/2016 - 07:58:07 Leer el correo electrónico corporativo.
+	[X] 100% 13/05/2016 - 07:58:07 Pasar el reloj diario.
+	[X] 100% 13/05/2016 - 07:58:07 Traer los 'logs' y los 'prs' del CMIASTIP1.
+
+################################################################################
+#
+# SEMANA 20
+#
+################################################################################
+
+[_] 93% Semana 20 
+	[X] 100% 16/05/2016 - 08:46:11 Leer el correo electrónico diario.
+	[X] 100% 16/05/2016 - 08:46:11 Leer el correo electrónico particular.
+	[X] 100% 16/05/2016 - 08:46:11 Contar el papel de los almacenes.
+	[X] 100% 16/05/2016 - 08:46:11 Traer los ficheros de 'log' y los 'prs' de CMIASTIP1.
+	[X] 100% 16/05/2016 - 08:50:07 Pasar el reloj diario.
+	[X] 100% 17/05/2016 - 08:40:16 Pasar el reloj diario.
+	[X] 100% 17/05/2016 - 08:40:16 Leer el correo electrónico particular.
+	[X] 100% 17/05/2016 - 08:40:16 Leer el correo electrónico del trabajo.
+	[X] 100% 17/05/2016 - 08:40:16 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 17/05/2016 - 08:40:16 Alrededor de las 13:50 presentar las peticiones de información en la AEAT.
+		[X] 100% Presentar también la AEATCEM.
+		[X] 100% Presentar también EDU.
+		[X] 100% Presentar también la YEDRA.
+	[X] 100% 18/05/2016 - 08:52:26 Pasar el reloj diario.
+	[X] 100% 18/05/2016 - 08:52:26 Leer el correo electrónico particular.
+	[X] 100% 18/05/2016 - 08:52:26 Leer el correo electrónico del trabajo.
+	[X] 100% 18/05/2016 - 08:52:26 Bajar las peticiones de información de la AEAT.
+	[X] 100% 18/05/2016 - 08:52:26 Traer los ficheros de 'log' y los 'prs' de CMIASTIP1.
+	[_] 0% 18/05/2016 - 09:27:44 Organizar un poco los links del Navegador.
+	[X] 100% 18/05/2016 - 09:51:19 No me puedo conectar al WebSphere.
+	[X] 100% 19/05/2016 - 07:58:36 Pasar el reloj del día.
+	[X] 100% 19/05/2016 - 07:58:36 Leer el correo electrónico del trabajo.
+	[X] 100% 19/05/2016 - 07:58:36 Leer el correo electrónico particular.
+	[X] 100% 19/05/2016 - 07:58:36 Traer los 'ogs' y los 'prs' del CMIASTIP1.
+	[X] 100% 19/05/2016 - 08:00:01 Alrededor de las 13:55 horas presentar las peticiones de información YEDRA a la AEATCEM.
+	[_] 0% 19/05/2016 - 10:50:34 ¿Cómo recuperar un ticket borrado en Redmine?
+		:
+		: Conseguir otra vez la información para la recuperación de un ticket
+		: borrado en Redmine.
+		:
+	[X] 100% 20/05/2016 - 08:27:05 Pasar el reloj de todos los días.
+	[X] 100% 20/05/2016 - 08:27:05 Leer el correo electrónico del trabajo.
+	[X] 100% 20/05/2016 - 08:27:05 Leer el correo electrónico particular.
+	[X] 100% 20/05/2016 - 08:27:05 Bajar de la AEAT la YEDRA.
+	[X] 100% 20/05/2016 - 08:27:05 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 20/05/2016 - 09:15:11 Pedir las vacaciones. Por lo menos la mitad de los días.
+
+################################################################################
+#
+# SEMANA 21
+#
+################################################################################
+
+[_] 94% Semana 21
+	[X] 100% 23/05/2016 - 08:36:09 Leer el correo electrónico particular.
+	[X] 100% 23/05/2016 - 08:36:09 Leer el correo electrónico del trabajo.
+	[X] 100% 23/05/2016 - 08:36:09 Pasar el reloj diario.
+	[X] 100% 23/05/2016 - 08:36:09 Imprimir la petición de CORREOS de repetir los recibos.
+		: 
+		: Ha habido una contingencia. Había dos recibos fuera de plazo de
+		: entrega. Se los he dado a 'Ana Pina' y le ha sorprendido.
+		:
+	[X] 100% 23/05/2016 - 08:36:09 Alrededor de las 13:55 hacer el AEATCEM.
+	[X] 100% 23/05/2016 - 08:36:09 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 23/05/2016 - 08:39:59 Pedir el resto de las vacaciones para la segunda quincena de Junio.
+	[X] 100% 23/05/2016 - 08:41:45 Pillarle los teléfonos de estrangis que tiene.
+	[X] 100% 23/05/2016 - 09:33:08 Hacer el 'PLAN' y a mitad de la mañana pasarlo un par de veces o tres.
+		[X] 100% 10:00:00 - De la mañana pasar el PLAN.
+			: 
+			: Está metido en el PLAN el trabajo efj90.sh pero no está seguro
+			: de que hoy toque. 
+			: Habrá que fijarse a la hojita de papel que sale a partir de las
+			: 14:30 a ver si aparece.
+			:
+		[X] 100% 13:00:00 - De la mañana pasar el PLAN.
+		[X] 100% 14:50:00 - De la mañana pasar el PLAN.
+	[X] 100% 24/05/2016 - 08:39:37 Bajar la AEATCEM.
+	[X] 100% 24/05/2016 - 08:39:37 Pasar el reloj diario.
+	[X] 100% 24/05/2016 - 08:39:37 Leer el correo electrónico particular.
+	[X] 100% 24/05/2016 - 08:39:37 Leer el correo electrónico trabajo.
+	[X] 100% 24/05/2016 - 08:39:37 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 24/05/2016 - 08:39:37 Contar el papel de los almacenes.
+	[X] 100% 24/05/2016 - 08:39:37 Alrededor de las 13:55 presentar las peticiones de información a la AEAT.
+		[X] 100% 24/05/2016 - 08:39:37 YEDRA.
+		[X] 100% 24/05/2016 - 08:39:37 SMZV.
+		[X] 100% 24/05/2016 - 08:39:37 EDU.
+	[X] 100% 24/05/2016 - 08:39:37 Terminar de limpiar los teléfonos de estrangis de Quique.
+	[X] 100% 25/05/2016 - 08:35:30 Pasar el reloj diario.
+	[X] 100% 25/05/2016 - 08:35:30 Leer el correo electrónico del trabajo.
+	[X] 100% 25/05/2016 - 08:35:30 Leer el correo electrónico particular.
+	[X] 100% 25/05/2016 - 08:35:30 Bajar los ficheros de la AEAT.
+	[X] 100% 25/05/2016 - 08:35:30 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 25/05/2016 - 10:16:12 Organizar los enlaces del Navegador.
+	[X] 100% 26/05/2016 - 09:13:03 Pasar el reloj diario.
+	[X] 100% 26/05/2016 - 09:13:03 Leer el correo electrónico corporativo.
+	[X] 100% 26/05/2016 - 09:13:03 Leer el correo electrónico personal.
+	[X] 100% 26/05/2016 - 09:13:03 Alrededor de las 13:55 Presentar en la AEAT las peticiones de información de la YEDRA.
+	[X] 100% 26/05/2016 - 09:13:03 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[_] 0% 26/05/2016 - 09:15:14 Recopilar información de cada trabajo en un fichero mediante un script en BASH.
+	[_] 0% 26/05/2016 - 09:15:14 Recopilar todos los log's de un día.
+		:
+		: Recopilar en un único fichero todos los log's de un día determinado.
+		: Después envíarme esa información por correo electrónico.
+		:
+	[X] 100% 27/05/2016 - 08:41:17 Pasar el reloj diario.
+	[X] 100% 27/05/2016 - 08:41:17 Leer el correo electrónico del trabajo.
+	[X] 100% 27/05/2016 - 08:41:17 Leer el correo electrónico personal.
+	[X] 100% 27/05/2016 - 08:41:17 Bajar de la AEAT las presentaciones de información de ayer.
+		: 
+		: Me he equivocado con el 
+		: 2016-05-26	677-2016-5-26-17049.txt	2016CI130300164R	39			Nivel de renta 2014 para prestaciones sociales.
+		: Lo vuelvo a presentar otra vez y lo bajare el Lunes.
+		:
+		[X] 100% 2016-05-26	677-2016-5-26-17049.txt	2016CI130300164R	39			Nivel de renta 2014 para prestaciones sociales.
+		[X] 100% 2016-05-26	671-2016-5-26-17048.txt	2016CI130300165Q	165	2016-05-27	IRPF257_A_671-20160527.TXT	Nivel de renta ejercicio 2014 general. 
+	[X] 100% 27/05/2016 - 08:41:17 Pasar el reloj diario.
+	[X] 100% 27/05/2016 - 08:41:17 Traer los 'logs' y los 'prs' del CMIASTIP1.
+
+################################################################################
+#
+# SEMANA 21
+#
+################################################################################
+
+[X] 100% Semana 21 
+	[X] 100% 30/05/2016 - 07:39:38 Pasar el reloj diario.
+	[X] 100% 30/05/2016 - 07:39:38 Leer el correo electrónico del trabajo.
+	[X] 100% 30/05/2016 - 07:39:38 Leer el correo electrónico personal.
+	[X] 100% 30/05/2016 - 07:39:38 Bajar de la AEAT las presentaciones de información de la semana pasada vueltas a envíar por un error mío.
+	[X] 100% 30/05/2016 - 07:39:38 Alrededor de las 13:55 presentar la AEATCEM en la AEAT.
+	[X] 100% 30/05/2016 - 07:39:38 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 31/05/2016 - 09:13:16 Pasar el reloj diario.
+	[X] 100% 31/05/2016 - 09:13:16 Bajar de la AEAT el fichero erróneo que llevo arrastras.
+	[X] 100% 31/05/2016 - 09:13:16 Bajar de la AEAT la petición de información de la AEATCEM.
+	[X] 100% 31/05/2016 - 09:13:16 Leer el correo electrónico personal.
+	[X] 100% 31/05/2016 - 09:13:16 Leer el correo electrónico corporativo.
+	[X] 100% 31/05/2016 - 09:13:16 Alrededor de las 13:55 presentar en la AEAT los ficheros de hoy.
+		[X] 100% Hay fichero de Educación para la AEAT.
+		[X] 100% Presentar en la AEAT la YEDRA de hoy.
+	[X] 100% 31/05/2016 - 09:13:16 Traer los 'logs' y los 'prs'.
+	[X] 100% 31/05/2016 - 09:16:23 Pedir las vacaciones ya por si acaso.
+	[X] 100% 31/05/2016 - 09:17:26 Limpiar el PC de ficheros PDF que ya empieza a apestar.
+	[X] 100% 01/06/2016 - 09:08:44 Bajar los ficheros de YEDRA de la AEAT.
+	[X] 100% 01/06/2016 - 09:08:44 Bajar los ficheros de EDU de la AEAT.
+	[X] 100% 01/06/2016 - 09:08:44 Contar las existencias de papel de los almacenes.
+	[X] 100% 01/06/2016 - 09:08:44 Leer el correo electrónico particular.
+	[X] 100% 01/06/2016 - 09:08:44 Leer el correo electrónico corporativo.
+	[X] 100% 01/06/2016 - 09:08:44 Pasar el reloj diario.
+	[X] 100% 01/06/2016 - 09:08:44 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 01/06/2016 - 09:21:29 Mirar el resultado de la recolección de 'log' del CMIASTIP1.
+	[X] 100% 01/06/2016 - 09:30:25 Coger dinero para pagarle a mi madre el mes correspondiente.
+	[X] 100% 02/06/2016 - 09:41:55 Pasar el reloj de todos los días.
+	[X] 100% 02/06/2016 - 09:41:55 Leer el correo electrónico corporativo.
+	[X] 100% 02/06/2016 - 09:41:55 Leer el correo electrónico particular.
+	[X] 100% 02/06/2016 - 10:16:46 Alrededor de las 13:55 presentar las peticiones de informacióin a la AEAT.
+		[X] 100% Presentar en la AEAT las peticiones de información de la YEDRA.
+		[X] 100% Envíar hoy también el fichero de la SMZV a la AEAT.
+	[X] 100% 02/06/2016 - 09:41:55 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 02/06/2016 - 09:50:54 Mirar algo del curso de Rails. Por lo menos imprimir los primeros módulos.
+	[X] 100% 03/06/2016 - 08:36:28 Pasar el reloj diario.
+	[X] 100% 03/06/2016 - 08:36:28 Leer el correo electrónico corporativo.
+	[X] 100% 03/06/2016 - 08:36:28 Leer el correo electrónico personal.
+	[X] 100% 03/06/2016 - 08:36:28 Bajar las peticiones de información de la AEAT.
+	[X] 100% 03/06/2016 - 08:36:28 Traer los 'logs' y los 'prs' del CMIASTIP1.
+
+################################################################################
+#
+# SEMANA 23
+#
+################################################################################
+
+[X] 100% Semana 23 
+	[X] 100% 06/06/2016 - 07:59:25 Leer el correo electrónico del trabajo.
+	[X] 100% 06/06/2016 - 07:59:25 Leer el correo electrónico particular.
+	[X] 100% 06/06/2016 - 07:59:25 Pasar el reloj diario.
+	[X] 100% 06/06/2016 - 07:59:25 Alrededor de las 13:55 presentar la AEATCEM.
+	[X] 100% 06/06/2016 - 08:21:29 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 06/06/2016 - 08:21:29 Mirar hoy también el resultado de la recogida de 'logs' del CMIADSTIP1.
+		: 
+		: Ha estado cerca, es decir me estoy acercando pero no está bien.
+		:
+	[X] 100% 06/06/2016 - 08:22:50 Contar el papel de los almacenes.
+	[X] 100% 07/06/2016 - 10:11:25 Bajar el AEATCEM de la AEAT.
+	[X] 100% 07/06/2016 - 10:11:25 Leer el correo electrónico del trabajo.
+	[X] 100% 07/06/2016 - 10:11:25 Leer el correo electrónico particular.
+	[X] 100% 07/06/2016 - 10:11:25 Alrededor de las 13:55 presentar la YEDRA en la AEAT.
+	[X] 100% 07/06/2016 - 10:11:25 Bajar los 'logs' y los 'prs' de los CMIASTIP1.
+	[X] 100% 07/06/2016 - 10:11:25 Pasar el reloj diario.
+	[X] 100% 07/06/2016 - 10:14:10 Buscar algún libro en el que haya un resumen de las actividades recaudatorias de un Ayto.
+		: 
+		: Me han comentado que todo por lo que pregunto está en las Ordenanzas
+		: Fiscales y estas se encuentran en la Intranet,
+		:
+	[X] 100% 07/06/2016 - 10:15:20 Meterle mano al PLAN Histórico para hacerme mis propios esquemas.
+		: 
+		: Ya he empezado con las ejecutivas mensuales, A ver que tal resultado
+		: me queda.
+		:
+	[X] 100% 07/06/2016 - 10:16:06 Observar la recopilación de ficheros 'log' del CMIASTIP1.
+	[X] 100% 07/06/2016 - 10:16:06 Hacer un listado de máquinas e 'IPs', y directorios de trabajo y de SPOOL.
+		: 
+		: Hacer como una estructura de procesos y Servicios que tenemos en
+		: Explotación.
+		:
+	[X] 100% 08/06/2016 - 10:31:14 Pasar el reloj diario.
+	[X] 100% 08/06/2016 - 10:31:31 Leer el correo electrónico del trabajo.
+	[X] 100% 08/06/2016 - 10:31:31 Leer el correo electrónico particular.
+	[X] 100% 08/06/2016 - 10:31:31 Bajar las solicitudes de información de la AEAT.
+	[X] 100% 08/06/2016 - 10:31:31 Solicitar información de IAE a la AEAT.
+	[X] 100% 08/06/2016 - 10:31:31 Bajar los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 08/06/2016 - 12:34:33 Solicitar las vacaciones.
+	[X] 100% 09/06/2016 - 07:52:37 Bajar el 1T del IAE presentado en la AEAT.
+		: 
+		: Comprobar que a las 14:00 horas llega un correo porque se ha enviado
+		: al directorio al que pertenece.
+		:
+	[X] 100% 09/06/2016 - 07:52:37 Leer el correo electrónico particular.
+	[X] 100% 09/06/2016 - 07:52:37 Leer el correo electrónico corporativo.
+	[X] 100% 09/06/2016 - 07:52:37 Pasar el reloj.
+	[X] 100% 09/06/2016 - 07:52:37 Alrededor de las 13:55 presentar en la AEAT.
+		[X] 100% Envíar el registro de EDU a la AEAT.
+			: 
+			: Un sólo registro.
+			:
+		[X] 100% Presentar en la AEAT la YEDRA.
+		[X] 100% Presentar en la AEAT la SOLICITUDESAETSMRU_20160509.txt.
+			: 
+			: Este fichero es un error que no se presento y se hace hoy.
+			: 31/05/2016.
+			:
+			: Acabo de darme cuenta que no es cierto nada del correo. Los dos
+			: ficheros se evaluaron y se enviaron. Es la Celia Bosque la que
+			: no se entera de nada. Ni fechas, ni contenidos, ni nombres de
+			: fichero.
+			:
+	[X] 100% 09/06/2016 - 07:52:37 Traer los 'logs' y los 'prs' del CMIASTIP1.
+	[X] 100% 09/06/2016 - 07:52:37 Comprobar las vacacioens a ver si ya están admitidas.
+	[X] 100% 10/06/2016 - 08:39:00 Pasar el reloj diario.
+	[X] 100% 10/06/2016 - 08:39:00 Leer el correo electrónico corporativo.
+	[X] 100% 10/06/2016 - 08:39:00 Leer el correo electrónico personal.
+	[X] 100% 10/06/2016 - 08:39:00 Traer los 'logs' y los 'prs' de CMIASTIP1.
+	[X] 100% 10/06/2016 - 08:39:00 Bajar los datos de la AEAT.
+
+################################################################################
+#
+# SEMANA 27
+#
+################################################################################
+
+[_] 91% Semana 27 
+	[X] 100% 04/07/2016 - 08:51:58 Organizar bien toda la estructura del trabajo y su documentación correspondiente.
+	[X] 100% 04/07/2016 - 08:55:36 Leer el correo electrónico del trabajo.
+	[X] 100% 04/07/2016 - 08:55:36 Leer el correo electrónico particular.
+		: 
+		: Mañana leeré otro poco más.
+		:
+	[X] 100% 04/07/2016 - 08:55:36 Pasar el reloj diario.
+	[X] 100% 04/07/2016 - 08:55:36 Alrededor de las 13:55 presentar la AEATCEM.
+	[X] 100% 04/07/2016 - 08:55:36 Contar el papel de los almacenes.
+	[_] 0% 04/07/2016 - 09:13:34 Destruir todo el trabajo de recopilación de los 'logs' y 'prs'.
+		: 
+		: Por lo visto no se le ve con buenos ojos y además se le ve como una
+		: pérdida de tiempo.
+		:
+		: Lo único que puedo hacer con ello es guardar la cantidad de trabajo
+		: ya recopilado como por ejemplo un listado de nombres de ficheros
+		: 'logs' y 'prs'.
+		:
+	[X] 100% 04/07/2016 - 09:17:19 Desatascar los correos electrónicos atascados en los buzones del Redmine.
+	[X] 100% 05/07/2016 - 08:29:59 Leer el correo electrónico del trabajo.
+	[X] 100% 05/07/2016 - 08:29:59 Leer el correo electrónico particular.
+	[X] 100% 05/07/2016 - 08:29:59 Bajar el AEATCEM.
+	[X] 100% 05/07/2016 - 08:29:59 Pasar el reloj.
+	[X] 100% 05/07/2016 - 08:59:30 Alrededor de las 13:55 presentar la YEDRA de hoy.
+	[X] 100% 05/07/2016 - 09:00:34 Arreglar con asistencia a usuarios la máquina virtual con XP que dice que está desactualizado.
+		: 
+		: Me comentan que al ser una máquina virtual que no haga ningún caso.
+		:
+	[X] 100% 06/07/2016 - 08:40:55 Conseguir una conexión al Icinga para mí.
+		: 
+		: Por lo visto hay dos maneras de hacer la conexión al Icinga.
+		:
+		: a) http://icinga.red.zaragoza.es/icinga/
+		: 		usuario  : 'icingaadmin'.
+		: 		password : 'icingaadmin'.
+		:
+		: b) http://icinga.red.zaragoza.es/icinga-web/
+		: 		usuario  : 'operador'.
+		: 		password : 'icinga'.
+		:
+	[X] 100% 06/07/2016 - 08:40:55 Leer el correo electrónico particular.
+	[X] 100% 06/07/2016 - 08:40:55 Leer el correo electrónico corporativo.
+	[X] 100% 06/07/2016 - 08:40:55 Bajar las peticiones de información de la AEAT.
+	[X] 100% 06/07/2016 - 08:40:55 Pasar el Reloj.
+	[X] 100% 06/07/2016 - 08:44:35 Limpiar los pdf's del PC y meterlos al TOSHIBA.
+	[X] 100% 06/07/2016 - 10:13:30 Instalar el 'asciidoc' en el UBUNTU.
+	[X] 100% 07/07/2016 - 08:57:54 Leer el correo electrónico del trabajo.
+	[X] 100% 07/07/2016 - 08:57:54 Leer el correo electrónico particular.
+	[X] 100% 07/07/2016 - 08:57:54 Alrededor de las 13:55 presentar las peticiones de información en la AEAT.
+	[X] 100% 07/07/2016 - 08:57:54 Pasar el reloj diario.
+	[X] 100% 07/07/2016 - 08:57:54 Hacer unos pocos filtros más al correo.
+	[X] 100% 07/07/2016 - 09:01:49 Arreglar un poco el fichero 'Procesos BATCH' e imprimirlo. Los viejos destruirlos ya.
+	[_] 0% 08/07/2016 - 08:48:28 Arreglar un poco los documentos de la aplicación Zim.
+	[X] 100% 08/07/2016 - 08:48:28 Leer el correo electrónico del trabajo.
+	[X] 100% 08/07/2016 - 08:48:28 Leer el correo electrónico particular.
+	[X] 100% 08/07/2016 - 08:48:28 Bajar las peticioens de información de la AEAT, yedra.
+	[X] 100% 08/07/2016 - 08:48:28 Pasar el Reloj.
+	[X] 100% 08/07/2016 - 08:48:28 Terminar el resumen de las facturaciones de PLAN.
+	[_] 0% 08/07/2016 - 08:48:28 Hacer otros, 'unos pocos filtros para el correo'.
+
+################################################################################
+#
+# SEMANA 28
+#
+################################################################################
+
+[X] 100% Semana 28 
+	[X] 100% 11/07/2016 - 08:37:04 Leer el correo electrónico del trabajo.
+	[X] 100% 11/07/2016 - 08:37:04 Leer el correo electrónico particular.
+	[X] 100% 11/07/2016 - 08:37:04 Pasar el reloj diario.
+	[X] 100% 11/07/2016 - 08:37:04 Contar el papel de los almacenes.
+	[X] 100% 11/07/2016 - 08:37:04 Alrededor de las 13 horas pasar y enviar la AEATCEM.
+	[X] 100% 12/07/2016 - 08:50:04 Leer el correo electrónico corporativo.
+	[X] 100% 12/07/2016 - 08:50:04 Leer el correo electrónico particular.
+	[X] 100% 12/07/2016 - 08:50:04 Pasar el reloj diario.
+	[X] 100% 12/07/2016 - 08:50:04 Bajarme la AEATCEM.
+	[X] 100% 12/07/2016 - 08:50:04 Alrededor de las 13:55 enviar a la AEAT las peticiones de la YEDRA.
+	[X] 100% 13/07/2016 - 08:33:29 Leer el correo electrónico particular.
+	[X] 100% 13/07/2016 - 08:33:29 Leer el correo electrónico corporativo.
+	[X] 100% 13/07/2016 - 08:33:29 Pasar el reloj diario.
+	[X] 100% 13/07/2016 - 08:33:29 Bajar la YEDRA de la AEAT.
+		: 
+		: Ayer envíe un fichero erróneo y hoy al importarlo ha aparecido
+		: que envíe otro distinto al correcto.
+		: Hoy he vuelto a mandar el fichero correcto y mañana lo bajaré y lo
+		: importaré en la YEDRA.
+		:
+		[X] 100% 14/07/2016 - 00:00:00 Bajar el error de la YEDRA reenviado a la AEAT.
+	[X] 100% 14/07/2016 - 08:36:25 Leer el correo electrónico del trabajo.
+	[X] 100% 14/07/2016 - 08:36:25 Leer el correo electrónico particular.
+	[X] 100% 14/07/2016 - 08:36:25 Pasar el reloj diario.
+	[X] 100% 14/07/2016 - 08:36:25 Alrededor de las 13:55 presentar las peticiones de información en la AEAT. 
+		[X] 100% Presentar la YEDRA.
+		[X] 100% Presentar el correo de EDUCACIÓN.
+	[X] 100% 15/07/2016 - 09:10:38 Leer el correo electrónico corporativo.
+	[X] 100% 15/07/2016 - 09:10:38 Leer el correo electrónico particular.
+	[X] 100% 15/07/2016 - 09:10:38 Pasar el reloj del día.
+	[X] 100% 15/07/2016 - 09:10:38 Bajar los ficheros de la AEAT.
+
+################################################################################
+#
+# Semana 29 
+#
+################################################################################
+
+[X] 100% Semana 29 
+	[X] 100% 18/07/2016 - 08:53:43 Pasar el reloj diario.
+	[X] 100% 18/07/2016 - 08:53:43 Leer el correo electrónico particular.
+	[X] 100% 18/07/2016 - 08:53:43 Leer el correo electrónico corporativo.
+	[X] 100% 18/07/2016 - 08:53:43 Alrededor de las 13:55 enviar a la AEAT la petición de AEATCEM.
+	[X] 100% 18/07/2016 - 09:25:24 Contar el papel de los almacenes.
+	[X] 100% 18/07/2016 - 09:43:19 Lanzar el Plan a lo largo del día.
+		[X] 100% Lanzarlo a las 10:00.
+		[X] 100% Lanzarlo a las 12:00.
+		[X] 100% Lanzar el plan final a las 12:30.
+	[X] 100% 19/07/2016 - 10:21:13 Pasar el reloj diario.
+	[X] 100% 19/07/2016 - 10:21:13 Leer el correo electrónico particular.
+	[X] 100% 19/07/2016 - 10:21:13 Leer el correo electrónico del trabajo.
+	[X] 100% 19/07/2016 - 10:21:13 Bajar la AEATCEM.
+	[X] 100% 19/07/2016 - 10:21:13 Alrededor de las 13:55 mandar la YEDRA a la AEAT.
+	[X] 100% 19/07/2016 - 10:21:13 Ecociudad: Aplazamientos.
+		: 
+		: 1         2016-07-19
+		: 0         2016-07-20
+		: 0         2016-07-21
+		:
+	[X] 100% 19/07/ 2016 - 10:21:13 Certificados: Empadronamiento.
+		:
+		: 47        2016-07-19
+		: 58        2016-07-20
+		: 39        2016-07-21
+		:
+	[X] 100% 19/07/2016 - 09:43:19 Lanzar el Plan a lo largo del día.
+		[X] 100% Lanzarlo a las 10:00.
+	[X] 100% 20/07/2016 - 08:59:37 Pasar el reloj diario.
+	[X] 100% 20/07/2016 - 08:59:37 Leer el correo electrónico del trabajo.
+	[X] 100% 20/07/2016 - 08:59:37 Leer el correo electrónico particular.
+	[X] 100% 20/07/2016 - 08:59:37 Bajar los ficheros de la YEDRA que están presentados en la AEAT.
+	[X] 100% 20/07/2016 - 08:59:37 Lanzar el PLAN a lo largo del día.
+	[X] 100% 20/07/2016 - 09:04:23 Ir a sacar dinero al cajero.
+	[X] 100% 20/07/2016 - 09:09:10 Imprimir los temas del trabajo ya potables.
+	[X] 100% 21/07/2016 - 08:41:44 Leer el correo electrónico corporativo.
+	[X] 100% 21/07/2016 - 08:41:44 Leer el correo electrónico privado.
+	[X] 100% 21/07/2016 - 08:41:44 Pasar el reloj diario.
+	[X] 100% 21/07/2016 - 08:41:44 Alrededor de la 13:55 presentar la YEDRA.
+	[X] 100% 21/07/2016 - 08:41:44 Llamar a JLPina para preguntarle por el problema del xbdb300.sh UR000515.
+	[X] 100% 21/07/2016 - 08:41:44 Llamar a Silvia Muniesa sobre la ejecución del cotx0.sh por dos veces.
+	[X] 100% 22/07/2016 - 07:39:48 Leer el correo electrónico del trabajo.
+	[X] 100% 22/07/2016 - 07:39:48 Leer el correo electrónico particular.
+	[X] 100% 22/07/2016 - 07:39:48 Pasar el reloj de todos los días.
+	[X] 100% 22/07/2016 - 07:39:48 Bajar de la AEAT las peticiones de información de la YEDRA.
+	[X] 100% 22/07/2016 - 07:39:48 Lanzar el PLAN.
+		[X] 100% Lanzado a las 10:51:58
+
+################################################################################
+#
+# Semana 32 
+#
+################################################################################
+
+[_] 94% Semana 32 
+	[X] 100% 08/08/2016 - 09:18:09 Leer el correo electrónico del trabajo.
+	[X] 100% 08/08/2016 - 09:18:09 Leer el correo electrónico particular.
+	[X] 100% 08/08/2016 - 09:18:09 Pasar el reloj diario.
+	[X] 100% 08/08/2016 - 09:18:09 Lanzar el plan un par de veces al cabo del día.    
+	[X] 100% 08/08/2016 - 09:18:09 Alrededor de las 13:55 pasar el AEATCEM.
+	[X] 100% 08/08/2016 - 09:19:48 Buscar Plug-in para los chicos de Telefónica.
+	[X] 100% 08/08/2016 - 09:29:11 Comprobar con el trabajo 'Recepción de Ficheros'.
+		: 
+		: Comprobar con el trabajo 'Recepción de Ficheros' cual se pasa en el
+		: día corriente. Sí el trabajo efj90, efj91 o efj103.
+		:
+		: 13:03:12 Acabo de darme cuenta que eso hay que mirarlo a las 14:30 horas.
+		:
+	[X] 100% 08/08/2016 - 10:32:18 Hoy es Lunes. Día para contar la cantidad de papel en los almacenes.
+	[X] 100% 09/08/2016 - 08:37:04 bajar la AEATCEM.
+	[X] 100% 09/08/2016 - 08:16:56 Leer el correo electrónico del trabajo.
+	[X] 100% 09/08/2016 - 08:16:56 Leer el correo electrónico particular.
+	[X] 100% 09/08/2016 - 08:16:56 Pasar el reloj diario.
+	[X] 100% 09/08/2016 - 08:16:56 Lanzar el plan un par de veces al día.
+		: 
+		: 10:13:40 - Lanzado el PLAN.
+		:
+	[X] 100% 09/08/2016 - 08:16:56 Alrededor de las 13:55 mandar la YEDRA.
+	[X] 100% 10/08/2016 - 09:04:41 Bajar de hacienda las peticiones de información presentadas en la AEAT.
+	[X] 100% 10/08/2016 - 09:04:41 Leer el correo electrónico del trabajo.
+	[X] 100% 10/08/2016 - 09:04:41 Leer el correo electrónico particular.
+	[X] 100% 10/08/2016 - 09:04:41 Pasar el reloj diario.
+	[X] 100% 10/08/2016 - 09:04:41 Lanzar el PLAN un par de veces al día.
+		: 
+		: 10:02:54 - Lanzado el PLAN.
+		:
+	[_] 0% 10/08/2016 - 12:02:03 Hacer algún filtro para el cliente de correo electrónico.
+	[X] 100% 10/08/2016 - 14:47:09 Reimprimir para correos 17 certificados rotos.
+	[X] 100% 11/08/2016 - 07:38:54 Comprobar y entregar los 17 certificados rotos que solicitó imprimir correos.
+		: 
+		: Cuando he llegado a las impresoras he visto que estaba el operario
+		: pegando las cabeceras rosas en los sobres. He ido a su lado y le he
+		: preguntado y me ha dado la impresión de que todo estaba bien.
+		: Evidentemente no he visto nada, y ni me han dado la oportunidad de
+		: ver alguna hoja por si estaba mal. Es increíble, para controlar
+		: tienes que venir a la oficina a las 07:30. Estoy seguro que si se
+		: viniera a esa hora ellos volverían a madrugar mas que un servidor
+		: para volver a utilizar la ley del mínimo esfuerzo, es decir, si no
+		: te dan la opción de descubrir que algo está mal menos trabajo para
+		: hacer.
+		:
+		: Al principio de semana ocurrió una anécdota que me ha mosqueado
+		: mucho. El Lunes me equivoque con el cargo de VA001816 que no le puse
+		: bien que el proceso ya estaba en serio en vez de en pruebas. La
+		: aplicación volvió a hacer unos recibos en modo pruebas, los plegaron
+		: y los enviaron a la estafeta. Al día siguiente al volver a repetir
+		: el cargo me dí cuenta que se les iba a mandar dos veces los mismos
+		: recibos, ¿o no?, empece a moverme y a preguntar al usuario, al
+		: programador, etc. lo único que me llevé fue una indiferencia total,
+		: y casi una media bronca. Y así estamos, yo mosqueado, ellos
+		: tocándose los cojones y haciendo todo al revés, y la gente en
+		: peligro de alcance de nuestra incompetencia brutal por desobediencia.
+		: Cómo los críos pequeños.
+		:
+	[X] 100% 11/08/2016 - 07:38:54 Leer el correo electrónico del trabajo.
+	[X] 100% 11/08/2016 - 07:38:54 Leer el correo electrónico particular.
+	[X] 100% 11/08/2016 - 07:38:54 Pasar el reloj diario de la mañana.
+	[X] 100% 11/08/2016 - 07:38:54 Lanzar el PLAN en el transcurso de la mañana.
+		: 
+		: 09:33:40 - Lanzado el PLAN.
+		:
+		: Hoy no se ha cerrado el PLAN. Ha estado desde las 14:00 el CHema
+		: tocándome los cojones en mi ordenador y se me ha olvidado. Una
+		: prueba para demostrarlo es decir que me puse a entregar la YEDRA en
+		: la AEAT a las 14:50.
+		:
+		: Chema es una puta cruz de plomo colgada de los mismísimos cojones.
+		:
+	[X] 100% 12/08/2016 - 08:20:26 Pasar el reloj diario.
+	[X] 100% 12/08/2016 - 08:20:26 Leer el correo electrónico del trabajo.
+	[X] 100% 12/08/2016 - 08:20:26 Leer el correo electrónico particular.
+	[X] 100% 12/08/2016 - 08:20:26 Bajar las peticiones de información de la AEAT.
+	[X] 100% 12/08/2016 - 08:20:26 Lanzar el PLAN a lo largo de la mañana.
+		: 
+		:  10:38:55 - Lanzado el PLAN.
+		:
+	[X] 100% 11/08/2016 - 07:38:54 Cerrar el PLAN a la última hora antes de irme.
+	[X] 100% 12/08/2016 - 08:20:26 Comprobar que pasar con el trabajo 'Recepción de Ficheros'.
+
+################################################################################
+#
+# Semana 33 
+#
+################################################################################
+
+[X] 100% Semana 33 
+	[X] 100% 16/08/2016 - 08:52:45 Leer el correo electrónico personal.
+	[X] 100% 16/08/2016 - 08:52:45 Leer el correo electrónico del trabajo.
+	[X] 100% 16/08/2016 - 08:52:45 Pasar el reloj diario.
+	[X] 100% 16/08/2016 - 08:52:45 Lanzar el PLAN en el transcurso de la mañana.
+		[X] 100% 12016-08-16 - 0:59:37 Lanzado el PLAN con los trabajos de la facturación del agua AC000716.
+	[X] 100% 16/08/2016 - 08:52:45 Contar el papel de los almacenes. Mosqueo gordo, no me salen las cuentas.
+		: 
+		: Ya está claro, estaba contando las cajas de 1000 como si fueran de
+		: 2500 como los folios.
+		:
+	[X] 100% 16/08/2016 - 10:49:18 Empezar en serio la facturación del agua AC000716.
+	[X] 100% 16/08/2016 - 08:52:45 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentar la AEATCEM.
+	[X] 100% 16/08/2016 - 12:24:11 Enviar hoy también la YEDRA a la AEAT.
+	[X] 100% 17/08/2016 - 08:25:20 Leer el correo electrónico personal.
+	[X] 100% 17/08/2016 - 08:25:20 Leer el correo electrónico corporativo.
+	[X] 100% 17/08/2016 - 08:25:20 Pasar el reloj diario.
+	[X] 100% 17/08/2016 - 08:25:20 Lanzar el PLAN en el transcurso de la mañana.
+		: 
+		: 2016-08-17 - 10:54:23 Lanzado el PLAN.
+		: 2016-08-17 - 12:57:12 Lanzado el PLAN.
+		:
+		[X] 100% 17/08/2016 - 14:28:57 Cerrar el plan de esta tarde antes de marcharme.
+	[X] 100% 17/08/2016 - 08:25:20 Bajar la AEATCEM.
+	[X] 100% 17/08/2016 - 08:25:20 Bajar la YEDRA.
+	[X] 100% 17/08/2016 - 09:03:52 Mandar el fichero de EMFASIS, urgente.
+	[X] 100% 17/08/2016 - 10:20:49 Pasar el trabajo xactu24.sh puntualmente a las 14:00 horas.
+	[X] 100% 18/08/2016 - 07:36:33 Leer el correo electrónico corporativo.
+	[X] 100% 18/08/2016 - 07:36:33 Pasar el reloj >= 08:30.
+	[X] 100% 18/08/2016 - 07:36:33 Alrededor de las 13:55 presentar la YEDRA.
+	[X] 100% 18/08/2016 - 09:19:36 El ticket para recuperar SICER es #71806.
+		: 
+		: El Chema sacó ayer lo que le pareció bien. Hoy hay que arreglar el
+		: destrozo con CORREOS. Aclarar el ticket, pedir a CORREOS que no
+		: cierre la remesa 6026, y sacar un único certificado.
+		:
+		[X] 100% 18/08/2016 - 09:21:44 Aclarar el ticket y crear uno nuevo.
+			: 
+			: He pasado de ponerlo en evidencia y se lo he contado. El mismo
+			: ha cerrado el ticket.
+			:
+		[X] 100% 18/08/2016 - 09:21:44 Pedir a CORREOS que no cierre la remesa.
+		[X] 100% 18/08/2016 - 09:21:44 Imprimir un certificado.
+	[X] 100% 19/08/2016 - 07:49:16 Bajar la YEDRA de la AEAT.
+	[X] 100% 19/08/2016 - 07:49:16 Leer el correo electrónico del trabajo.
+	[X] 100% 19/08/2016 - 07:49:16 Pasar el reloj de las mañanas.
+	[X] 100% 19/08/2016 - 07:53:18 Plegar el papel del cargo AB000718.
+
+################################################################################
+#
+# Semana 35
+#
+################################################################################
+
+[X] 100% Semana 35 
+	[X] 100% 29/08/2016 - 08:31:21 Contar la cantidad de papel que quedan en los almacenes.
+	[X] 100% 29/08/2016 - 08:31:21 Leer el correo electrónico del trabajo.
+	[X] 100% 29/08/2016 - 08:31:21 Leer el correo electrónico particular.
+	[X] 100% 29/08/2016 - 08:31:21 Pasar el reloj diario.
+		: 
+		: De momento no se puede pasar porque está estropeado.
+		:
+	[X] 100% 29/08/2016 - 08:31:21 Alrededor de las 13:55 lanzar el 'trt045' y presentar la AEATCEM.
+	[X] 100% 29/08/2016 - 09:22:02 ¡¡¡¡¡SE NOS CASA  GUILLERMO, LA VOZ DEL SERVICIO!!!!
+		: 
+		: Hola a todos
+		: 
+		: ¡¡¡¡¡SE NOS CASA GUILLERMO, LA VOZ DEL SERVICIO!!!!
+		: 
+		: 
+		: Hemos pensado en echarles una mano para empezar esta nueva etapa y vamos a recoger 10 euros para los que quieran participar. Espero no dejarme a nadie en el correo, si fuera así me lo decís y lo añado.
+		: 
+		: Los que queráis colaborar podéis pasar por Asistencia Usuarios (Ana, Nieves) y  estará la tarjeta para que la podáis firmar a partir del lunes.
+		: 
+		: La idea es darle el regalo cuando vuelva del viaje de novios, a partir de el 20 de septiembre, sería esa semana, pero ya os diré. La fecha límite para recoger dinero es el 16 de Septiembre.
+		: 
+		: 
+		: Un Saludo
+		: 
+		: Cristina
+		: 
+	[X] 100% 30/08/2016 - 08:52:35 Imprimir los libros de gimnasia de mi madre.
+	[X] 100% 30/08/2016 - 08:52:35 Leer el correo electrónico particular.
+	[X] 100% 30/08/2016 - 08:52:35 Leer el correo electrónico corporativo.
+	[X] 100% 30/08/2016 - 08:52:35 Bajar la AEATCEM de Hacienda.
+	[X] 100% 30/08/2016 - 08:52:35 Pasar el reloj diario.    
+	[X] 100% 30/08/2016 - 08:52:35 Alrededor de las 13:55 mandar las peticiones de información a la AEAT.
+		[X] 100% 30/08/2016 - 08:52:35 Alrededor de las 13:55 mandar las peticiones de información de la YEDRA a la AEAT.
+		[X] 100% 30/08/2016 - 09:43:28 Procesar en la AEAT el siguiente fichero: SOLICITUDESAETSMRU_20160830.txt
+			: o7586t@PC20597:~/scripts/menu$ ./solicitudesOrdenadasSMZV.bash 
+			:  
+			: ###########################################################################
+			: #                                                                         #
+			: #          ORDENACIÓN Y CONTEO DE LAS SOLICITUDES DE SMZV                 #
+			: #          ==============================================                 #
+			: #                                                                         #
+			: #  Meter la fecha del fichero a procesar como parámetro con este formato. #
+			: #                                                                         #
+			: #                         YYYYMMDD ---> 20160830                          #
+			: #                                                                         #
+			: ###########################################################################
+			:  
+			: El primer registro es el: 36445               
+			: el último registro es el: 37708               
+			:  
+			: La cantidad de registros que contiene el fichero es de: 1261
+			:  
+			: o7586t@PC20597:~/scripts/menu$ 
+	[X] 100% 30/08/2016 - 09:26:41 Bajar al sotano a por una placa de PC.
+	[X] 100% 31/08/2016 - 07:55:20 Hacer el reloj diario.
+	[X] 100% 31/08/2016 - 07:55:20 Leer el correo electrónico corporativo.
+	[X] 100% 31/08/2016 - 07:55:20 Leer el correo electrónico particular.
+	[X] 100% 31/08/2016 - 07:55:20 Bajar las peticiones de información de la AEAT.
+	[X] 100% 01/09/2016 - 09:19:02 Leer el correo electrónico particular.
+	[X] 100% 01/09/2016 - 09:19:02 Leer el correo electrónico corporativo.
+	[X] 100% 01/09/2016 - 09:19:02 Ejecutar el reloj diario.
+	[X] 100% 01/09/2016 - 09:19:02 Alrededor de las 13:55 envíar la YEDRA a la AEAT.
+	[X] 100% 02/09/2016 - 08:48:40 Leer el correo electrónico del trabajo.
+	[X] 100% 02/09/2016 - 08:48:40 Leer el correo electrónico particular.
+	[X] 100% 02/09/2016 - 08:48:40 Pasar el reloj diario.
+	[X] 100% 02/09/2016 - 08:48:40 Bajar de la AEAT las peticiones de información.
+
+################################################################################
+#
+# Semana 36 
+#
+################################################################################
+
+[X] 100% Semana 36 
+	[X] 100% 05/09/2016 - 07:52:38 Leer el correo electrónico del trabajo.
+	[X] 100% 05/09/2016 - 07:52:38 Leer el correo electrónico particular.
+	[X] 100% 05/09/2016 - 07:52:38 Contar el papel que queda en los almacenes.
+	[X] 100% 05/09/2016 - 07:52:38 Pasar el reloj diario.
+	[X] 100% 05/09/2016 - 07:52:38 Alrededor de las 13:55 pasar el 'trt045.sh'.
+	[X] 100% 05/09/2016 - 11:51:02 Pedir una máquina virtual a AU.
+		: 
+		: He hablado con el jefe y me dice que me espere que vamos a hacer una
+		: máquina virtual centralizada para más de una actividad.
+		:
+	[X] 100% 06/09/2016 - 08:41:10 Leer el correo electrónico del trabajo.
+	[X] 100% 06/09/2016 - 08:41:10 Leer el correo electrónico particular.
+	[X] 100% 06/09/2016 - 08:41:10 Pasar el reloj diario.
+	[X] 100% 06/09/2016 - 08:41:10 Bajar la AEATCEM de Hacienda.
+	[X] 100% 06/09/2016 - 10:04:01 Hacer filtros para el correo.
+	[X] 100% 07/09/2016 - 08:33:40 Leer el correo electrónico particular.
+	[X] 100% 07/09/2016 - 08:33:40 Leer el correo electrónico corporativo.
+	[X] 100% 07/09/2016 - 08:33:40 Pasar el reloj diario.
+	[X] 100% 07/09/2016 - 08:33:40 Hacer una relación de las secciones para las que trabajamos.
+		: 
+		: Hacerla en un fichero de texto para luego incorporarlo a una DDBB
+		: MySQL.
+		:
+		: Administración Municipal > Áreas de Gobierno
+		: ============================================
+		: 
+		: Las Áreas de Gobierno se organizan para el ejercicio de sus competencias en los siguientes órganos:
+		: 
+		: 1. Área de Alcaldía.
+		: 	A) Concejalías-Delegadas integradas en el Área:
+		: 		Concejalía Delegada de Participación, Transparencia y Gobierno Abierto.
+		: 		Concejalía Delegada de Policía Local.
+		: 	B) Órganos directivos en los que se estructura el Área:
+		: 		Coordinador General del Área de Alcaldía.
+		: 	C) Dependen orgánicamente de la Alcaldía, conforme a las previsiones del Reglamento Orgánico, los siguientes órganos directivos:
+		: 		El Secretario General del Pleno, con dependencia funcional de la Presidencia del Pleno del Ayuntamiento.
+		: 		El Interventor General Municipal con dependencia funcional del Consejero de Economía y Cultura.
+		: 		El Jefe de la Asesoría Jurídica Municipal, que ostentará el nivel orgánico de Coordinador General de Área.
+		: 		El titular de la Oficina de apoyo a la Junta de Gobierno Local, con dependencia funcional del Concejal-Secretario de la Junta de Gobierno Local.
+		: 
+		: 2. Área de Economía y Cultura.
+		: 	A) Órganos de gestión económico-financiera integrados en el Área:
+		: 		Unidad Central de Presupuestación, cuya titularidad corresponde al Consejero de Economía y Cultura.
+		: 		Agencia Municipal Tributaria, cuya titularidad corresponde al Director General de Economía.
+		: 		Unidad Central de Contabilidad y Tesorería.
+		: 		Junta Municipal de Reclamaciones Económico-Administrativas.
+		: 	B) Organismos autónomos locales adscritos al Área:
+		: 		Patronato Municipal de las Artes Escénicas y de la Imagen.
+		: 	C) Órganos directivos en los que se estructura el Área:
+		: 		Coordinador General del Área de Economía y Cultura, del que dependen los siguientes órganos directivos:
+		: 		Director General de Economía.
+		: 		Director General de Cultura.
+		: 
+		: 3. Área de Derechos Sociales.
+		: 	A) Concejalías-Delegadas integradas en el Área:
+		: 		Concejalía Delegada de Educación e Inclusión.
+		: 		Concejalía Delegada de Vivienda y Deporte.
+		: 	B) Organismos autónomos locales adscritos al Área
+		: 		Patronato Municipal de Educación y Bibliotecas.
+		: 		Instituto Municipal de Empleo y Fomento Empresarial.
+		: 		Patronato Municipal de Turismo.
+		: 	C) Órganos directivos en los que se estructura el Área:
+		: 		Coordinador General del Área de Derechos Sociales.
+		: 
+		: 4. Área de Urbanismo y Sostenibilidad.
+		: 	A) Concejalías-Delegadas integradas en el Área:
+		: 		Concejalía Delegada de Medio Ambiente y Movilidad.
+		: 	B) Órganos y organismos autónomos locales adscritos al Área:
+		: 		Gerencia Municipal de Urbanismo.
+		: 		Instituto Municipal del Agua.
+		: 	C) Órganos directivos en los que se estructura el Área:
+		: 		Coordinador General del Área de Urbanismo y Sostenibilidad, que ejercerá el cargo de Gerente de Urbanismo.
+		: 
+		: 5. Área de Servicios Públicos y Personal.
+		: 	A) Órganos directivos en los que se estructura el Área:
+		: 		Coordinador General del Área de Servicios Públicos y Personal.
+		: 
+	[X] 100% 07/09/2016 - 08:35:42 Presentar el 2T del IAE para presentar en la AEAT.
+	[X] 100% 07/09/2016 - 08:38:23 Hacer una relación de conexiones diversas que me atañen.
+	[X] 100% 07/09/2016 - 08:39:14 Presentar ahora mismo la YEDRA en la AEAT para que mañana se pueda recoger.
+		: 
+		: Ayer se me olvidó presentarla y si lo hago ahora para mañana no se
+		: pierde tanto que si no se hace.
+		: En este caso hoy y mañana se va a presentar las peticiones, es
+		: decir, dos días seguidos.
+		:
+	[X] 100% 07/09/2016 - 08:53:12 Buscar un lector de 'epub' para el UBUNTU 12.04 LTS
+		: 
+		: Así podré comprobar los documentos que cree con el 'asciidoc'.
+		:
+		: Ya tengo instalado desde hace mucho tiempo el 'fbreader'.
+		:
+	[X] 100% 08/09/2016 - 08:38:37 Leer el correo electrónico diario.
+	[X] 100% 08/09/2016 - 08:38:37 Leer el correo electrónico corporativo.
+	[X] 100% 08/09/2016 - 08:38:37 Pasar los fichajes diarios del reloj.
+	[X] 100% 08/09/2016 - 08:38:37 Bajar de la AEAT las peticiones de información de la YEDRA olvidadas el otro día.
+	[X] 100% 08/09/2016 - 08:38:37 Alrededor de las 13:55 volver a pasar la YEDRA que hoy sí que toca.
+	[X] 100% 09/09/2016 - 08:36:32 Bajar las peticiones de información de la AEAT.
+	[X] 100% 09/09/2016 - 08:36:32 Leer el correo electrónico personal.
+	[X] 100% 09/09/2016 - 08:36:32 Leer el correo electrónico del trabajo.
+	[X] 100% 09/09/2016 - 08:36:32 Pasar el reloj diario.
+
+################################################################################
+#
+# Semana 37 
+#
+################################################################################
+
+[_] 95% Semana 37 
+	[X] 100% 12/09/2016 - 08:01:04 Leer el correo electrónico del trabajo.
+	[X] 100% 12/09/2016 - 08:01:04 Leer el correo electrónico personal.
+	[X] 100% 12/09/2016 - 08:01:04 Contar el papel de los almacenes.
+	[X] 100% 12/09/2016 - 08:01:04 A las 13:55 pasar el 'trt045.sh'.
+	[X] 100% 12/09/2016 - 08:01:04 Pasar el reloj diario.
+	[X] 100% 13/09/2016 - 07:58:01 Bajar de la AEAT la petición de información AEATCEM.
+	[X] 100% 13/09/2016 - 07:58:01 Leer el correo electrónico nuevo del trabajo.
+	[X] 100% 13/09/2016 - 07:58:01 Leer el correo electrónico nuevo particular.
+	[X] 100% 13/09/2016 - 07:58:01 Pasar el reloj diario.
+		[X] 100% Hay que arreglar el reloj de ayer.
+			: 
+			: Lo rompió Chema y se compromete el a arreglarlo.
+			:
+	[X] 100% 13/09/2016 - 07:58:01 A las 13:55 pasar la YEDRA diaria a la AEAT.
+	[X] 100% 14/09/2016 - 09:11:21 Pasar el reloj diario.
+	[X] 100% 14/09/2016 - 09:11:21 Leer el correo electrónico del trabajo.
+	[X] 100% 14/09/2016 - 09:11:21 Leer el correo electrónico particular.
+	[X] 100% 14/09/2016 - 09:11:21 Bajar las peticiones de información de la AEAT.
+	[X] 100% 15/09/2016 - 07:53:17 Leer el correo electrónico del trabajo.
+	[X] 100% 15/09/2016 - 07:53:17 Leer el correo electrónico particular.
+	[X] 100% 15/09/2016 - 07:53:17 Alrededor de las 13:55 emitir y presentar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 15/09/2016 - 07:53:17 A partir de las 08:30 recojer los marcajes del reloj.
+	[X] 100% 16/09/2016 - 08:38:29 Pasar el reloj del día.
+	[X] 100% 16/09/2016 - 08:38:29 Leer el correo electrónico del trabajo.
+	[X] 100% 16/09/2016 - 08:38:29 Leer el correo electrónico personal.
+	[X] 100% 16/09/2016 - 08:38:29 Bajar de la AEAT las peticiones de información.
+	[_] 0% Cambiar el Firefox de 64 a 32 bits.
+		: 
+		: Aparentemente el Firefox último grito funciona mejor con una versión
+		: de 32 bits que con otra de 64.
+		: Ahora no me funciona, la idea es rebajar la estrucutra a 32 bits
+		: para ver si mejora su comportamiento.
+		:
+
+################################################################################
+#
+# Semana 38 
+#
+################################################################################
+
+[X] 100% Semana 38 
+	[X] 100% 19/09/2016 - 08:31:03 Pasar el reloj del día.
+	[X] 100% 19/09/2016 - 08:31:03 Leer el correo electrónico particular.
+	[X] 100% 19/09/2016 - 08:31:03 Leer el correo electrónico corporativo.
+	[X] 100% 19/09/2016 - 08:31:03 Alrededor de las 13:55 hacer el 'trt045.sh'.
+	[X] 100% 19/09/2016 - 08:31:03 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 20/09/2016 - 08:59:56 Leer el correo electrónico particular.
+	[X] 100% 20/09/2016 - 08:59:56 Leer el correo electrónico corporativo.
+	[X] 100% 20/09/2016 - 08:59:56 Pasar el reloj diario.
+	[X] 100% 20/09/2016 - 08:59:56 Bajar de la AEAT el fichero de la AEATCEM.
+	[X] 100% 20/09/2016 - 08:59:56 Alrededor de las 13:55 hacer las peticiones de información y la YEDRA.
+	[X] 100% 21/09/2016 - 08:04:02 Bajar las peticiones de información de la AEAT.
+	[X] 100% 21/09/2016 - 08:04:02 Leer el correo electrónico particular.
+	[X] 100% 21/09/2016 - 08:04:02 Leer el correo electrónico corporativo.
+	[X] 100% 21/09/2016 - 08:04:02 Pasar el reloj del día.
+	[X] 100% 22/09/2016 - 08:51:20 Pasar el reloj del día.
+	[X] 100% 22/09/2016 - 08:51:20 Leer el correo electrónico del trabajo.
+	[X] 100% 22/09/2016 - 08:51:20 Leer el correo electrónico personal.
+	[X] 100% 22/09/2016 - 08:51:20 Alrededor de las 13:55 presentar las peticiones de información de YEDRA a la AEAT.
+	[X] 100% 23/09/2016 - 08:27:28 Bajar las peticiones de información de la YEDRA en AEAT.
+	[X] 100% 23/09/2016 - 08:27:28 Leer el correo elctrónico personal.
+	[X] 100% 23/09/2016 - 08:27:28 Leer el correo electrónico corporativo.
+	[X] 100% 23/09/2016 - 08:27:28 Pasar el reloj del día.
+
+
+################################################################################
+#
+# Semana 39 
+#
+################################################################################
+
+[X] 100% Semana 39 
+	[X] 100% 26/09/2016 - 08:00:20 Contar las existencias de papel en los almacenes. 
+	[X] 100% 26/09/2016 - 08:34:01 Leer el correo corporativo.
+	[X] 100% 26/09/2016 - 08:34:01 Leer el correo personal.
+	[X] 100% 26/09/2016 - 08:34:01 Alrededor de las 13:55 lanzar y enviar el 'trt045.sh'.
+	[X] 100% 26/09/2016 - 08:34:01 Pasar el reloj diario.
+	[X] 100% 27/09/2016 - 08:55:20 Pasar el reloj diario.
+	[X] 100% 27/09/2016 - 08:55:20 Leer el correo electrónico del trabajo.
+	[X] 100% 27/09/2016 - 08:55:20 Leer el correo electrónico particular.
+	[X] 100% 27/09/2016 - 08:55:20 Bajar la petición de información AEATCEM.
+	[X] 100% 27/09/2016 - 08:55:20 Alrededor de las 13:55 presentar en la AEAT la YEDRA.
+	[X] 100% 28/09/2016 - 08:56:40 Leer el correo corporativo
+	[X] 100% 28/09/2016 - 08:56:40 Leer el correo particular.
+	[X] 100% 28/09/2016 - 08:56:40 Pasar el reloj diario.
+	[X] 100% 28/09/2016 - 08:56:40 Bajar las peticiones de información de la AEAT.
+	[X] 100% 29/09/2016 - 09:21:43 Leer el correo electrónico particular.
+	[X] 100% 29/09/2016 - 09:21:43 Leer el correo electrónico corporativo.
+	[X] 100% 29/09/2016 - 09:21:43 Pasar el reloj diario.
+	[X] 100% 29/09/2016 - 09:21:43 Alrededor de las 13:55 presentar en la YEDRA las peticiones de información de la AEAT.
+	[X] 100% 29/09/2016 - 09:21:43 Comprobar 'Ana Bellido'
+		:
+		: Ana Cristina Bellido (Página-web (Responsable de Tablón municipal)).
+		: telfo: 870001
+		: abellido@zaragoza
+		:
+		: Me comenta de que tiene 16 tickets asignados a ella misma y
+		: solamente es capaz de ver 10. Le comento que lo más seguro es que
+		: tiene problemas con los filtros que no le permite ver todos su
+		: tickets asignados.
+		:
+		: Que llame a asistencia a usuarios porque no me quieren dar el passwd
+		: para conectarme con ella con el VNCViewer. 
+		:
+	[X] 100% 29/09/2016 - 10:47:30 J-VIAP SA005316
+		: 
+		: Buenos días Quique, por favor para hoy  Barrido y J-VIAP DEL
+		: CARGO  SA005316.  Es un cargo que no tiene recibos pendientes.
+		:
+	[X] 100% 29/09/2016 - 10:47:30 J-VIAP SC000616
+		: 
+		: Y otra vez hoy del SC000616.
+		: En total dos cargos.
+		:
+	[X] 100% 29/09/2016 - 11:58:03 Alrededor de las 14:30 se parará el Tip para asuntos de mantenimiento.
+		: 
+		: Maquina 172.16.1.20
+		:
+		: Copia (con copy) de :
+		: 
+		: /FSB23/PHTIP/p01ry969611
+		: /FSB23/PHTIP/p23rmd969611
+		: /FSB23/PHTIP/p06rtb969611
+		: /FSB23/PHTIP/p21rcd969611 
+		: 
+		:  y sus respectivos .idx
+		: 
+		: Salud.
+		: 
+		: 
+		: -- 
+		: Gregorio Sánchez Benedet
+		: Técnico auxiliar informatico
+		: Redes y sistemas
+		: 3547
+		:    
+		: Ayuntamiento de Zaragoza 	Ayuntamiento de Zaragoza
+		: 
+		: 	www.zaragoza.es
+		:
+		:----------------------------------------
+		:----------------------------------------
+		:----------------------------------------
+		:
+		: cp /FSB23/PHTIP/p01ry969611 /FSB23/PHTIP/p01ry969611.cop
+		: cp /FSB23/PHTIP/p01ry969611.idx /FSB23/PHTIP/p01ry969611.idx.cop
+		: 
+		: cp /FSB23/PHTIP/p23rmd969611 /FSB23/PHTIP/p23rmd969611.cop
+		: cp /FSB23/PHTIP/p23rmd969611.idx /FSB23/PHTIP/p23rmd969611.cop.idx
+		: 
+		: cp /FSB23/PHTIP/p06rtb969611 /FSB23/PHTIP/p06rtb969611.cop
+		: cp /FSB23/PHTIP/p06rtb969611.idx /FSB23/PHTIP/p06rtb969611.cop.idx
+		: 
+		: cp /FSB23/PHTIP/p21rcd969611 /FSB23/PHTIP/p21rcd969611.cop
+		: cp /FSB23/PHTIP/p21rcd969611.idx /FSB23/PHTIP/p21rcd969611.cop.idx
+		:
+	[X] 100% 29/09/2016 - 12:53:14 Reimprimir.
+		: Subject: Reimprimir
+		: 
+		: Buenos días, ruego reimpresión de estas notificaciones por extravío:
+		: 
+		: NE500013016030000024997 Identificador 
+		: Remesa: NE500013016030 
+		: Fecha Depsito: 31/08/2016 
+		: Fecha Cierre:
+		: Destinatario: MUÑOZ ARTAJONA JOAQUIN
+		: Dirección: ROCASOLANO, ANTONIO 008 TR IZ
+		: Localidad: ZARAGOZA Código Postal: 50008
+		: 
+		: NE500013016030000028722 Identificador 
+		: Remesa: NE500013016030 
+		: Fecha Depsito: 31/08/2016 
+		: Fecha Cierre:
+		: Destinatario: MIGUEL LAPUENTE MANUEL
+		: Dirección: SINUES NAVARRO, PILAR 001 SX G
+		: Localidad: ZARAGOZA Código Postal: 50010
+		: 
+		: Gracias.
+		: 
+		: Saludos
+		: 
+		:            CORREOS
+		:         grupoCorreos
+		: Control  Notificaciones Zaragoza
+		:                     Rico: 53283
+		: 
+	[X] 100% 30/09/2016 - 08:54:50 Leer el correo electrónico particular.
+	[X] 100% 30/09/2016 - 08:54:50 Leer el correo electrónico corporativo.
+	[X] 100% 30/09/2016 - 08:54:50 Bajar las peticiones de información de la AEAT.
+	[X] 100% 30/09/2016 - 08:54:50 Pasar el reloj diario.
+
+
+################################################################################
+#
+# Semana 40 
+#
+################################################################################
+
+[X] 100% Semana 40 
+	[X] 100% 03/10/2016 - 08:23:32 Leer el correo del trabajo.
+	[X] 100% 03/10/2016 - 08:23:32 Leer el correo particular.
+	[X] 100% 03/10/2016 - 08:23:32 Contar las existencias de papel de los almacenes.
+	[X] 100% 03/10/2016 - 08:23:32 Como todos los Lunes alrededor de las 13:55 lanzar el 'trt045.sh'.
+	[X] 100% 03/10/2016 - 08:23:32 Pasar el reloj diario.
+	[X] 100% 03/10/2016 - 08:40:34 Coger dinero para pagarle a mi madre el mes correspondiente.
+	[X] 100% 03/10/2016 - 09:36:57 Instalar versiónes menores de Java y Navegador en mi máquina virtual.
+		: 
+		: Esto es un dolor, como si quieres arroz Catalina. Bajar las
+		: versiones tampoco funciona.
+		:
+	[X] 100% 04/10/2016 - 07:56:02 Mirar en Internet la tableta y el teléfono UBUNTU de la marca 'bq'.
+		: 
+		: No me ha convencido nada de nada. Son máquinas de la gama
+		: media/baja, y encima no hay SW específico para ellas????
+		:
+	[X] 100% 04/10/2016 - 07:56:02 Bajar la AEATCEM de Hacienda.
+	[X] 100% 04/10/2016 - 07:56:02 Leer el correo electrónico particular.
+	[X] 100% 04/10/2016 - 07:56:02 Leer el correo electrónico corporativo.
+	[X] 100% 04/10/2016 - 07:56:02 Alrededor de las 13:55 pasar la YEDRA a la AEAT.
+	[X] 100% 04/10/2016 - 07:56:02 Conectarme a VMWare y hacerme un Snapshoot de mi máquina virtual.
+	[X] 100% 04/10/2016 - 09:37:06 Pasar el reloj de hoy.
+	[X] 100% 05/10/2016 - 08:25:51 Pedir los días de fiestas.
+	[X] 100% 05/10/2016 - 08:25:51 Leer el correo electrónico particular.
+	[X] 100% 05/10/2016 - 08:25:51 Leer el correo corporativo.
+	[X] 100% 05/10/2016 - 08:25:51 Bajar las peticiones de información de la AEAT.
+	[X] 100% 05/10/2016 - 08:25:51 Pasar el reloj diario.
+	[X] 100% 05/10/2016 - 08:25:51 Mirar un poco el 'rvm'.
+		: 
+		: Bueno, mirar no, más bien comprobar si lo tengo instalado acompañado
+		: además de algún ruby como el 2.2 o el 2.3.
+		:
+	[X] 100% 06/10/2016 - 08:57:29 Procesar el reloj diario.
+	[X] 100% 06/10/2016 - 08:57:29 Leer el correo electrónico particular.
+	[X] 100% 06/10/2016 - 08:57:29 Leer el correo electrónico corporativo.
+	[X] 100% 06/10/2016 - 08:57:29 Alrededor de las 13:55 presentar la YEDRA.
+	[X] 100% 07/10/2016 - 07:49:53 Bajar las peticiones de la AEAT.
+	[X] 100% 07/10/2016 - 07:49:53 Leer el correo diario corporativo.
+	[X] 100% 07/10/2016 - 07:49:53 Leer el correo diario personal.
+	[X] 100% 07/10/2016 - 07:49:53 Procesar el reloj del día.
+	[X] 100% 07/10/2016 - 10:55:56 Pasar y crear 'Vitaminas'.
+
+################################################################################
+#
+# Semana 41 
+#
+################################################################################
+
+[_] 84% Semana 41 
+	[X] 100% 10/10/2016 - 07:55:05 Pasar el reloj del día.
+	[X] 100% 10/10/2016 - 07:55:05 Leer el correo electrónico del trabajo.
+	[X] 100% 10/10/2016 - 07:55:05 Leer el correo electrónico particular.
+	[X] 100% 10/10/2016 - 07:55:05 Contar las existencias de papel de los almacenes.
+	[X] 100% 10/10/2016 - 07:55:05 Lanzar alrededor de las 13:00 el trt045.sh
+	[X] 100% 10/10/2016 - 07:55:05 Presentar las peticioens de información de la YEDRA.
+	[X] 100% 11/10/2016 - 07:58:45 Bajar las informaciones de YEDRA y AEATCEM.
+	[X] 100% 11/10/2016 - 07:58:45 Leer el correo electrónico particular.
+	[X] 100% 11/10/2016 - 07:58:45 Leer el correo electrónico corporativo.
+	[_] 0% 11/10/2016 - 07:58:45 Instalarme algún Ruby con el 'rvm'.
+	[X] 100% 11/10/2016 - 07:58:45 Pasar el reloj diario.
+	[_] 0% 11/10/2016 - 08:39:37 Organizar la máquina virtual para no encontrarme con problemas.
+	[X] 100% 13/10/2016 - 08:00:11 [BOP] Calculo fecha notificacion VOLUNTARIA.
+		: 
+		: jvb10.sh P=5
+		:
+	[X] 100% 13/10/2016 - 08:00:11 Leer el correo electrónico particular.
+	[X] 100% 13/10/2016 - 08:00:11 Leer el correo electrónico corporativo.
+	[X] 100% 13/10/2016 - 08:00:11 Pasar el reloj diario.
+	[X] 100% 13/10/2016 - 08:00:11 Bajar las presentaciuones de información de la SMZV.
+	[_] 0% 13/10/2016 - 10:14:15 Hacer los ficheros pdf de los sources de los correos electrónicos.
+	[X] 100% 13/10/2016 - 12:15:47 Recordarle a Enrique por la presentación de la YEDRA a las 13:55.
+
+################################################################################
+#
+# Semana 43 
+#
+################################################################################
+
+[_] 90% Semana 43 
+	[X] 100% 25/10/2016 - 08:54:15 Bajar la AEATCEM.
+	[X] 100% 25/10/2016 - 08:54:15 Pasar el reloj del día.
+	[X] 100% 25/10/2016 - 08:54:15 Leer el correo electrónico del trabajo.
+	[X] 100% 25/10/2016 - 08:54:15 Leer el correo electrónico particular.
+	[X] 100% 25/10/2016 - 08:54:15 Alrededor de las 13:55 las peticiones de información de la YEDRA.
+		[X] 100% 25/10/2016 - 08:54:15 Peticiones de información de la YEDRA.
+		[X] 100% 25/10/2016 - 10:20:59 Petición de información de EDUCACIÓN.
+	[X] 100% 26/10/2016 - 07:53:13 Leer el correo electrónico corporativo.
+	[X] 100% 26/10/2016 - 07:53:13 Leer el correo electrónico particular.
+	[X] 100% 26/10/2016 - 07:53:13 Pasar el reloj diario.
+	[X] 100% 26/10/2016 - 07:53:13 Bajar las peticiones de información de la AEAT.
+	[X] 100% 26/10/2016 - 07:53:13 Pasar a limpio informaciones desperdigadas y proyectos.
+	[X] 100% 27/10/2016 - 09:04:04 Pasar el reloj diario.
+	[X] 100% 27/10/2016 - 09:04:04 Leer el correo electrónico particular.
+	[X] 100% 27/10/2016 - 09:04:04 Leer el correo electrónico corporativo.
+	[X] 100% 27/10/2016 - 09:04:04 Alrededor de las 13:55 presentar en la AEAT las peticiones de información de la YEDRA.
+	[X] 100% 28/10/2016 - 08:52:11 Leer el correo electrónico particular.
+	[X] 100% 28/10/2016 - 08:52:11 Leer el correo electrónico corporativo.
+	[X] 100% 28/10/2016 - 08:52:11 Pasar el reloj diario.
+	[X] 100% 28/10/2016 - 08:52:11 Bajar la YEDRA.
+	[_] 0% 28/10/2016 - 10:50:13 Terminar la redacción del proceso de facturación.
+	[X] 100% 28/10/2016 - 10:51:04 Probar la aplicación de RoR que hice ayer en mi casa.
+		: 
+		: Me ha dicho cosas muy raras y no me ha funcionado. Me decía que no
+		: tenía permisos para ejecutarla.
+		:
+	[_] 0% 28/10/2016 - 10:51:04 Pasar a límpio e imprimir los apuntes de RoR.
+
+################################################################################
+#
+# Semana 44 
+#
+################################################################################
+
+[_] 93% Semana 44 
+	[X] 100% 31/10/2016 - 08:21:56 Leer el correo electrónico del trabajo.
+	[X] 100% 31/10/2016 - 08:21:56 Leer el correo electrónico particular.
+	[X] 100% 31/10/2016 - 08:21:56 Alrededor de las 13:55 enviar las peticiones a la AEAT.
+		[X] 100% 31/10/2016 - 08:21:56 Presentar la AEATCEM.
+		[X] 100% 31/10/2016 - 08:21:56 Presentar la YEDRA.
+			: 
+			: Presentarla hoy como algo extraordinario, puesto que está semana
+			: tiene un día de fiesta enmedio. 01 Noviewmbre, día de todos los
+			: Santos.
+			:  
+	[X] 100% 31/10/2016 - 08:21:56 Registrar la cantidad de papel en los almacenes.
+	[X] 100% 31/10/2016 - 08:21:56 Pasar el reloj del día.
+	[X] 100% 31/10/2016 - 09:55:36 Impresión de Nóminas.
+		: 
+		: Leer el correo electrónico del día 'Viernes 28/10/2016'. Con el
+		: visto bueno de Montse pasar el siguiente comando:
+		: /servicios/SINFAZ/operacion/explotacion.norjan.sh
+		:
+	[X] 100% 31/10/2016 - 09:55:36 Avisar a JLPina para arreglar el 'ejj01.sh' CI000116.
+		: 
+		: Ya me dirá algo.
+		:
+			:
+			: Ya está preparado para esta tarde.
+			:
+	[X] 100% 31/10/2016 - 09:55:36 Avisar a JLPina para arreglar el 'xiaeca3.sh'.
+		:
+		: Ya está preparado para esta tarde.
+		:
+	[X] 100% 31/10/2016 - 10:45:48 Alrededor de las 14:30 mirar que trabajo toca hoy. ¿'efj90.sh'?
+		: 
+		: Eso se mira en el trabajo 'recepcion.ficheros.sh -T'.
+		:
+		: Tengo que preparar un script que lo mire y hacerlo con un cron
+		: propio de mi PC.
+		:
+	[X] 100% 02/11/2016 - 08:29:34 Leer el correo electrónico corporativo.
+	[X] 100% 02/11/2016 - 08:29:34 Pasar el reloj del día.
+	[X] 100% 02/11/2016 - 08:29:34 Entregado en Estafeta la AB000916.
+	[X] 100% 02/11/2016 - 08:29:34 Entregado a UniPost el SC000916.
+	[X] 100% 02/11/2016 - 08:29:34 Queja de CORREOS a ESTAFETA de una remesa inexistente.
+		: 
+		: Queja de CORREOS a ESTAFETA de que no existe la remesa
+		: NT801967876834000000001 consistente en 313 cartas enviadas el 28 de
+		: Octubre.
+		:
+		: Al final debió de ser todo una falsa alarma. Hoy me han comunicado
+		: que el problema se ha solucionado.
+		:
+			: -------- Mensaje original --------
+			: Asunto: 	RE: Ayto Zaragoza: Remesa 6834 del producto NT80196787
+			: Fecha: 	Wed, 2 Nov 2016 18:20:46 +0100
+			: De: 	Hernandez Lazaro, Jesus <jesus.hernandez@correos.com>
+			: Para: 	Enrique Alonso del Val <ealonso@zaragoza.es>
+			: 
+			: 
+			: 
+			: Buenas tardes Enrique, ya está solucionado desde el lunes, lo que pasa es que no entro automáticamente, creo que por un error en el nombre del archivo, cuando el lunes hable con mis compañeros de informática lo recuperaron,  arreglaron y cargaron el fichero.
+			: Un saludo
+			:     
+			: 
+			: Jesús Hernández lázaro 
+			: Gestor Ventas
+			: Correos (Grupo Sepi)
+			: 
+			: Paseo Independencia, 33
+			: 50070 Zaragoza
+			: 976483911 - 648540197- (4)53222
+			: jesus.hernandez@correos.com
+			: www.correos.es
+		: 
+		:
+	[X] 100% 02/11/2016 - 09:05:10 xac340eco.sh CARGO=000916 FEC=25102016
+		: buenos días:
+		: solicito la ejecución de la siguiente shell:
+		: 
+		: xac340eco.sh CARGO=000916 FEC=25102016
+		: 
+		: gracias, un saludo
+		: Israel
+		:
+	[X] 100% 02/11/2016 - 09:33:15 El xdnimal.sh ya no está en cron y está en el planificador.
+		: 
+		: ATENCIÓN
+		: ========
+		:
+		: El xdnimal no se ha pasado el día uno de Noviembre de 2016.
+		:
+		: El xdnimal está parado en el 'planificador' y pone textualmente no
+		: lanzar porque hay que separar distintos procesos internos que tiene,
+		: y lanzarlos uno por uno.
+		:
+		: Hemos encontrado indícios de que SI paso el día 2 a las 00:10
+		: horas. Además el auténtico está en otra parte del que nosotros
+		: deciamos.
+		:
+	[X] 100% 02/11/2016 - 09:38:01 Ejecutar el bpj02.sh en producción.
+		: 
+		: Buenos días,
+		: 
+		: Necesitamos que se ejecute bpj02.sh en los entornos de
+		: producción, el sh se encuentra en SINFAZ/FISCAL/live/subjcl/DB_bdf
+		: 
+		: Gracias. 
+		:
+		:
+		: Eva de Miguel Morales
+		: Analista Informático
+		: Servicio Redes y Sistemas
+		: 976 721295
+	[X] 100% 02/11/2016 - 09:47:11 Comprobar con el trabajo 'Recepción de Ficheros'.
+		: 
+		: Comprobar con el trabajo 'Recepción de Ficheros' cual se pasa en el
+		: día corriente. Sí el trabajo efj90, efj91 o efj103.
+		:
+	[X] 100% 02/11/2016 - 09:57:21 Traer de la AEAT las peticiones de información de YEDRA.
+	[X] 100% 02/11/2016 - 09:57:21 Traer de la AEAT las peticiones de información de AEATCEM.
+	[X] 100% 02/11/2016 - 10:10:08 Errores con los trabajos de lqj02.
+		: 
+		: ¿Que hago con estos trabajos?
+		: lqj02.sh CARGO=LR002016	REVISAR	20161031	18:26	18:27
+		: lqj02.sh.20161031.182614.txt ADELANTE	
+		: lqj02.sh CARGO=TU002016	ERROR	20161031	18:27	18:27
+		: lqj02.sh.20161031.182707.txt	 vacio NO CONTINUAR
+		: lqj02.sh CARGO=LH002016	ERROR	20161031	18:27	18:27
+		: lqj02.sh.20161031.182709.txt LLAMAR A JLPINA
+		:
+		: MARIA JESUS CARDO.
+		:
+		[X] 100% 02/11/2016 - 13:26:53 Contestación de JLPina sobre LH002016.
+			: 
+			: Hola:
+			: Estamos en ello, MJesus te dira.
+			:
+			[X] 100% 02/11/2016 - 14:55:27 Continuar hoy con la facturación.
+				: 
+				: Al final lanzamos hoy el lqjo2.sh CARGO=LH002016 P=2 y las
+				: facturaciones que terminaron bien.
+				:
+	[X] 100% 02/11/2016 - 12:09:19 Pasar hoy el 'efj53.sh'.
+		: 
+		: Buenos días,
+		: Necesitamos que hoy día 3 de Noviembre se ejecute en producción el proceso efj53.sh.
+		: Para el envío a banco el día 4 de Noviembre.
+		:
+		:
+		: Eva de Miguel Morales
+		: Analista Informático
+		: Servicio Redes y Sistemas
+		: 976 721295
+	[_] 0% 02/11/2016 - 12:34:22 Hacerme un listado de aplicaciones que ya están funcionando en el 'planificador'.
+	[X] 100% 02/11/2016 - 13:15:00 EJECUTIVA CI-01-16
+		[X] 100% 04/11/2016 - 09:04:28 Preparar la peticion para ENCLAMA para plegar.
+			: 
+			: Sistema de notificación de incidencias Corporativa
+			: 
+			: La petición #77219 ha sido actualizada por Jose Maria Martinez.
+			: 
+			: Listados 19:00 031116
+			: 
+			: PREPARAR SOLICITUD Y LLAMAR A ENCLAMA
+			: Peticiones #77219: RYSGE-Recaudacion Ejecutiva: Ejecutiva: CI000116
+			: 
+			:     Autor: correos automatizados explotacion
+			:     Estado: Nueva
+			:     Prioridad: Normal
+			:     Asignado a:
+			:     Categoría:
+			:     Versión prevista: 
+			: 
+			: Fecha Proceso: 20161103 19:17:34
+			: ---------------------
+			: 
+			: FECHA TOPE ......................: 05-12-2016
+			: CERTIFICADO, LIQUIDACION O RECIBO: R
+			: -------------------
+			: TOTAL Documentos IMPRESOS ...................... 41353
+			: TOTAL Padron DINA4:
+			: 
+			: Ficheros de log: ********
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj01.sh.15239.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj01.sh.18411.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj02.sh.21791.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj03.sh.23952.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj04.sh.26072.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj05.sh.28138.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj06.sh.30248.CI000116
+			: /SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj07.sh.7778.CI000116
+			: 
+			: Notificación de incidencia
+			: Servicio de Redes y Sistemas
+			: Ayuntamiento de Zaragoza
+			: 	
+	[X] 100% 02/11/2016 - 13:15:00 BARRIDO/JVIAP
+	[X] 100% 02/11/2016 - 13:50:05 VA000416.
+		[X] 100% 02/11/2016 - 13:50:05 Extracción VA000416 en pruebas.
+			: 
+			: Agustín Aguirre Pablo. Hacer la extracción del VA000416 en sucio
+			: para comprobación in situ.
+			: Envíar los ficheros de PDF's a la Intranet para su comprobación.
+			:
+		[X] 100% 03/11/2016 - 09:52:35 Facturación VA000416.
+			: 
+			: Hoy 2016-11-03 está de fiesta, hasta el viernes 2016-11-04 no vendrá
+			: a trabajar para comprobar el trabajo realizado. Supongo que para
+			: entonces nos dirá algo.
+			:
+	[X] 100% 03/11/2016 - 08:50:50 Leer el correo electrónico particular.
+	[X] 100% 03/11/2016 - 08:50:50 Leer el correo electrónico corporativo.
+	[X] 100% 03/11/2016 - 08:50:50 Pasar el reloj del día.
+	[X] 100% 03/11/2016 - 08:50:50 Alrededor de las 13:55 envíar las peticiones de información a la AEAT.
+	[X] 100% 03/11/2016 - 11:52:28 Tareas #77101: RYSGE-GestionTributaria: SAMPLES 03FIA5 20161102
+		: 
+		: Mañana 2016-11-03 cuando se entreguen los SAMPLES cerrar el ticket.
+		:
+	[X] 100% 03/11/2016 - 11:53:59 Tareas #77111: 03FIA5.MAK
+		: 
+		: Cuando se sepa algo seguro de este ticket borrarlo definitivamente.
+		: Se ha detectado la inexistencia de la MAK del 03FIA5 en el directorio /etc/lp/preimpresos/fiscal/03fi en CMIASTIP1.
+		:
+	[X] 100% 03/11/2016 - 12:09:45 Pdf's del ciclo AC0916.
+		: 
+		: Hola,
+		: 
+		: Tenéis ya disponibles para descargar los pdfs de la salida AC0916,
+		: 
+		: 		
+		: 
+		: Muchas gracias
+		: 
+		: 		
+		: 
+		: Javier Cartón Lete
+		: 
+		: émfasis
+		: 
+	[X] 100% 03/11/2016 - 12:14:36 Aviso Envio Trabas Automaticas
+		: 
+		: DEUTSCHE  : 000122 000000017030324
+		: BANESTO   : 000349 000000040492356
+		: SANTANDER : 002707 000000352410511
+		: OPEN_BANK : 000254 000000021018065
+		: B_POPULAR : 000864 000000228993232
+		: B_SABADEL : 001019 000000196902444
+		: BSN_BANIF : 000004 000000001234357
+		: BANKINTER : 000311 000000094895243
+		: ESPIR_STO : 000005 000000001094711
+		: BBV       : 002749 000000376775314
+		: UBSESPA_A : 000001 000000000009401
+		: POPPRIVAD : 000010 000000001394341
+		: INGDIRECT : 002243 000000235420535
+		: C_CATALU  : 000906 000000129625698
+		: BANKIA    : 000772 000000140767464
+		: LIBERBANK : 000031 000000003604559
+		: C_VIGO_OU : 000379 000000140208487
+		: IBERCAJA  : 008547 000000978946693
+		: KUTXABANK : 000735 000000147106866
+		: C_ESPA_A  : 000458 000000076759632
+		: CAIXA     : 012454 000002643068103
+		: CAJADUERO : 000066 000000010504565
+		: C_MANCHA  : 000001 000000000249646
+		: CR_SORIA  : 000141 000000017423262
+		: C_LABORAL : 000827 000000099503104
+		: CAJAMAR   : 000023 000000006387035
+		: C_TERUEL  : 000142 000000022665392
+		: BANTIERRA : 002025 000000399151439
+		: 
+		: Las trabas auto. se han procesado con éxito
+		: El envio de disquettes para los bancos esta pendiente de realizar
+		: 
+		: UBSESPA_A : 000001 000000000009401
+			: 
+			: Este banco es el de CD que se ha enviado a traves de correo
+			: electrónico encriptado. En la semana que viene recibiré el
+			: correo de vuelta encriptado y a través de teléfono me dará el
+			: passwd.
+			:
+			: passwd: UBS.201611
+			:
+			: Cristina Blanco Nalda
+			: 
+			: UBS BANK S.A.
+			: 
+			: Corporate Center
+			: 
+			: Group Operations
+			: 
+			: Cash & Securities services
+			: 
+			: C/ María Molina, 4, 28006 Madrid
+			: 
+			:  
+			: 
+			: Phone + 34 91 788 7818
+			: 
+			: Fax    +34 91 563 36 66
+			: 
+			: cristina.blanco@ubs.com <mailto:cristina.blanco@ubs.com>
+			: 
+		: BBVA ha absorvido el banco C_CATALU y se deben enviar las trabas a
+		: través de el.
+			:
+			: Lo está tocando Enrique.
+			:
+	[X] 100% 03/11/2016 - 13:55:56 ENVIO FICHEROS FACTURACION FRACCIONAMIENTOS A BANCOS.
+		: 
+		: Cerrar el ticket #77175 porque ya no tiene razón de existir.
+		:
+	[X] 100% 03/11/2016 - 14:51:31 Comprobar la bajada de PDFs facturas
+		: 
+		: Comprobar la descarga de las facturas creadas por EMFASIS y enviar
+		: correo electrónico de su terminación correcta.
+		:
+		: #71522
+		:
+		: Desde Servinform-EMFASIS nos informan de que ya tenemos disponibles
+		: para su descarga las facturas del cargo correspondiente.
+		:
+	[X] 100% 04/11/2016 - 09:04:28 Leer el correo electrónico corporativo.
+	[X] 100% 04/11/2016 - 09:04:28 Bajar las peticiones de la AEAT.
+	[X] 100% 04/11/2016 - 09:04:28 Pasar el reloj diario.
+	[_] 0% 04/11/2016 - 09:04:28 Comprobar a las 14:30 cual es el trabajo a pasar entre efj90.sh, efj91.sh o ef103.sh
+	[X] 100% 04/11/2016 - 09:53:42 SOPORTE-SISTEMAS - Peticiones #77198] (Nueva) PERMISOS oe068p Ana Gerico.
+	[X] 100% 04/11/2016 - 10:02:42 Hacer un ticket con los ficheros del ejj09 que no se pueden borrar.
+		: 
+		: -rw-rw-r--  1 root root 126816704 Apr 16  2016 3fcd011.cargar.CI000116
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd003.control.CI000116'? rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd003.control.CI000116.idx'? rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd004.cabeceras.ix1.CI000116'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd004.cabeceras.ix1.CI000116': Permission denied
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd004.cabeceras.ix1.CI000116.idx'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd004.cabeceras.ix1.CI000116.idx': Permission denied
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd005.direcciones.ix1.CI000116'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd005.direcciones.ix1.CI000116': Permission denied
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd005.direcciones.ix1.CI000116.idx'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd005.direcciones.ix1.CI000116.idx': Permission denied
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd006.lineas.detalle.f.CI000116'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd006.lineas.detalle.f.CI000116': Permission denied
+		: rm: remove write-protected regular empty file `/SINFAZ/FISCAL/FACT/CI000116/3fcd007.bancos.CI000116'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd007.bancos.CI000116': Permission denied
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd009.totales.CI000116'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd009.totales.CI000116': Permission denied
+		: rm: remove write-protected regular file `/SINFAZ/FISCAL/FACT/CI000116/3fcd011.cargar.CI000116'? rm: cannot remove `/SINFAZ/FISCAL/FACT/CI000116/3fcd011.cargar.CI000116': Permission denied
+		: 
+	[X] 100% 04/11/2016 - 12:31:01 Pasar esta tarde otro xembtes.sh
+		: 
+		: Ya está creado el parte e introducido en el plan diario.
+		:
+	[_] 0% 04/11/2016 - 12:48:08 Coger el directorio auténtico y moderno del 'PLAN?.
+
+################################################################################
+#
+# Semana 45
+#
+################################################################################
+
+[_] 93% Semana 45 
+	[X] 100% 07/11/2016 - 08:00:04 Leer la cantidad de papel que queda en los almacenes.
+	[X] 100% 07/11/2016 - 08:00:04 Leer el correo electrónico corporativo.
+	[X] 100% 07/11/2016 - 08:00:04 Pasar el reloj diario.
+	[X] 100% 07/11/2016 - 08:00:04 Alrededor de las 13:55 pasar y enviar el 'trt045.sh'.
+	[X] 100% 07/11/2016 - 08:00:04 Encargar a ENCLAMA que se lleven la circulación para plegarla.
+		: 
+		: Jesús Mayayo está enfermo con baja, me pasan a su hermano.
+		:
+		[X] 100% 07/11/2016 - 09:16:15 Avisado ENCLAMA.
+		[X] 100% 07/11/2016 - 10:20:15 Me comentan de ENCLAMA que pasarán a las 12:00 ha buscar las Notificaciones.
+			: 
+			: Han pasado a buscar la circulación. Hoy día 07 no empezarán, lo
+			: harán mañana. Les costará plegarlo todo un día, mañana día 08.
+			: El día 09 o como mucho el 10 lo tendrán terminado, en este día
+			: tengo que sincronizar todo con Carmen de la Estafeta.
+			:
+	[X] 100% 07/11/2016 - 08:56:59 Hay una cantidad grande de certificados de empadronamiento.
+		: 
+		: El Viernes 04/Noviembre/2016 hubo una cantidad grande de
+		: certificados de empadronamiento. Exactamente fueron 112.
+		:
+	[X] 100% 07/11/2016 - 10:00:30 Planificar el 21-11-2016 el job xcomtes.sh DIRCOM=EN163104.
+		: 
+		: Apuntado en el fichero 'PLAN.odt' y creado parte para el día 21.
+		:
+	[X] 100% 07/11/2016 - 11:58:27 Borrar el correo de Urbanismo atascado.
+	[X] 100% 08/11/2016 - 09:52:55 Leer el correo electrónico corportativo.
+	[X] 100% 08/11/2016 - 09:52:55 Bajar la AEATCEM.
+	[X] 100% 08/11/2016 - 09:52:55 Pasar el reloj diario.
+	[X] 100% 08/11/2016 - 10:53:17 Alrededor de las 13:55 envíar la YEDRA.
+	[X] 100% 08/11/2016 - 12:51:45 Presentar en hacienda la SMZV también.
+	[X] 100% 08/11/2016 - 12:51:45 Presentar en hacienda Educación también.
+	[_] 0% 08/11/2016 - 12:55:49 Embargos fase 3 Caixa Cataluña Noviembre 2016
+		: 
+		: Hola,
+		: se ha enviado el archivo de embargos fase 3 de Caixa Cataluña a BBVA
+		: habiendo modificado en la cabecera y pie el 2013 por 0182 (posiciones 4-8).
+		: El archivo de respuesta (3efd025.pctran.0182) habrá que editarlo y
+		: realizar la modificación inversa, asi como modificar el nombre del
+		: archivo por 3efd025.pctran.2013 para poder ser procesado
+		:
+		: Saludos, Quique
+		:
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:  ----------------------------------------
+		: 
+		: Aparentemente el fichero de embargos Fase 3 del banco -2013- que se
+		: cambio la cabecera y el pie por el banco -0182- se envío bien, pero
+		: el fichero de vuelta no veo si ha llegado.
+		:
+	[X] 100% 09/11/2016 - 10:18:06 Llamar a ENCLAMA a ver como está la ejecutiva de circulación. CI000116.
+		: 
+		: Jesús Mayayo.
+		:
+		: Tlf: 976 748200
+		: Móvil: 609 679261
+		:
+		: Pablo Mayayo.
+		:
+		: Móvil 655 376645
+		:
+		: He puesto en contacto a Jesús Mayayo con Carmen Sánz de estafeta,
+		: que se entiendan entre los dos. Me dice CSanz que en otras ocasiones
+		: ya lo han hecho.
+		: En teoría mañana Jueves día 10 acudira CORREOS a ENCLAMA a buscar la
+		: ejecutiva y mañana o pasado, cuando pueda se pasará por aquí a
+		: darnos los recibos deteriorados por la máquina y la hoja impresa
+		: debidamente cumplimentada.
+		:
+	[X] 100% 09/11/2016 - 10:18:06 Leer el correo electrónico del trabajo.
+	[X] 100% 09/11/2016 - 10:18:06 Pasar el reloj diario.
+	[X] 100% 09/11/2016 - 10:18:06 Bajar la YEDRA de la AEAT.
+	[X] 100% 09/11/2016 - 12:51:50 Recuperar un recibo para CORREOS -- 024328.PDF -- NE500013016044000024328
+		: 
+		: Creado ticket #77640 para esta tarde para que la imprima CSumelzo.
+		:
+	[X] 100% 10/11/2016 - 08:39:42 Bajar de la AEAT el fichero erróneo que envié ayer.
+	[X] 100% 10/11/2016 - 08:39:42 Leer el correo particular.
+	[X] 100% 10/11/2016 - 08:39:42 Leer el correo propio corporativo.
+	[X] 100% 10/11/2016 - 08:39:42 Pasar el reloj diario.
+	[X] 100% 10/11/2016 - 08:39:42 Alrededor de las 13:45 enviar a la AEAT las peticiones de YEDRA.
+	[_] 0% 10/11/2016 - 08:54:19 MERCADOS VARIOS.-   FACTURACIÓN EN MODO PRUEBA  MERCADO SAN VICENTE DE PAÚL y MERCADO AMBULANTE "EXPO".
+		:
+		: Adjunto se remite oficio solicitando que se realice una valoración
+		: en prueba del padrón mensual,  mes de NOVIEMBRE de 2016, del mercado
+		: Ambulante "Expo" y del mercado San Vicente de Paúl.
+		: 
+		: Es conveniente imprimir o remitir en pdf. algún recibo al azar para
+		: contrastar datos afectos al recibo así como los domicilios fiscales.
+		: 
+		: Una vez efectuada la comprobación y en su caso corregidos los
+		: errores, esta Unidad comunicará oportunamente la extracción
+		: definitiva.
+		: 
+		:   Un saludo -
+		: -- 
+		: Agustin Aguirre Pablo
+		: Técnico Unidad Integrada de Tasas
+		: Gestión Tributaria
+		: 976 72 45 69
+		:    
+		: ----------------------------------------
+		: ----------------------------------------
+		: ----------------------------------------
+		:
+		: Valoración de Mercadillos
+		: =========================
+		:
+		: He hablado por teléfono con Agustín antes de leer el ticket y me ha
+		: comunicado que mañana Viernes 11/11/2016 no estará y como mínimo
+		: hasta el Lunes 14 no podrá confirmar el poder seguir o no.
+		:
+	[X] 100% 10/11/2016 - 09:14:17 Ayer 09/Noviembre/2016 trajeron papel MOD4. Comprobarlo.
+		:
+		: Ayer 09/11/2016 trajeron y depositaron en el almacen 2 palés de papel MOD4
+		: fabricados por GERSA. Los pales continen 40 cajas cada uno, en total
+		: son 40 + 40 = 80, 80 * 2500 = 200000 hojas.
+		:
+	[X] 100% 10/11/2016 - 10:20:31 Recuperar un recibo de Tesorería.
+		: 
+		: Te ha llamado Isabel Villuendas pidiendote un favor para una
+		: compañera de TESORERÍA. 
+		:
+		: Necesitaba el recibo número 9-9 de las liquidaciones LR001216. Es un
+		: mandamiento de pago con un cargo negativo de -34,18 €uros. 
+		:
+		: Se lo he mandado por correo electrónico.
+		:
+		: En otro orden de cosas, he visto que el cargo LR001216 no existía en
+		: su directorio correspondiente. Chema ha creado un ticket
+		: explicandolo #77718
+		:
+	[_] 0% 10/11/2016 - 12:26:34 DOMICILIACION CDM - SEPTIEMBRE-OCTUBRE 2016.
+		: 
+		: Buenos días, José Mª.
+		:
+		: Solicito listado de prueba de recibos domiciliados por uso de
+		: Instalaciones Deportivas Municipales en el bimestre
+		: septiembre-octubre 2016. Adjunto oficio con los datos y archivos
+		: remitidos por ese serivicio con los listados de prueba de mayo-junio
+		: 2016.
+		: 
+		: Una vez comprobado y corregido errores me pondré en contacto contigo
+		: para hacer "en bueno" los recibos y me envias listados definitivos.
+		: 
+		: Gracias.
+		: 
+		: Un saludo 
+		:
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:
+		:  Me ha llamado Mª José Ramón de Instalaciones Deportivas - Extsón.
+		:  3856. Me ha pedido la facturación Bi-Mensual VA007516 y me envía por
+		:  correo electrónico el Oficio y un par de ficheros para comprobar.
+		:  Estos ficheros son los que le tendré que enviar vía correo
+		:  electrónico máñana.
+		:
+		:  fcj03.padron.VA007516
+		:  xbdblist.impreso.VA007516
+		: 
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:
+		: 2016-11-11 - 10:37:32 Enviado el correo de vuelta con la información
+		: que nos habían pedido. Nos quedamos a la espera de nuevos
+		: acontecimientos.
+		:
+	[X] 100% 10/11/2016 - 12:40:30 Desbloquear OECO1.
+		: 
+		: Ha llamado para desbloquear su pantalla Susana Coloma - 4920
+		: 
+		: COMPROBADO. Le ha matado Juberías el usuario en el TIP. Los
+		: operadores no tenemos permisos para poder matar la terminal bajo
+		: Tip, pero si pudieramos se hace así.
+		: 
+			: su - tipEadm
+			:
+			: whoson | grep -i 'terminal'
+			:
+			: tipctl -k OECO1
+		:
+	[X] 100% 10/11/2016 - 13:49:12 BARRIDO/JVIAP.
+		: 
+		: AB-05-16
+		: AB-06-16
+		: AB-07-16
+		: VA-18-16
+		:
+	[X] 100% 10/11/2016 - 13:58:52 xembtes.sh
+	[X] 100% 10/11/2016 - 14:58:57 Enviar a la AEAT EDU.
+	[X] 100% 11/11/2016 - 09:20:06 Bajar de la AEAT las peticiones de información.
+	[X] 100% 11/11/2016 - 09:20:06 Leer el correo electrónico del trabajo.
+	[X] 100% 11/11/2016 - 09:20:06 Leer el correo electrónico personal.
+	[X] 100% 11/11/2016 - 09:20:06 Pasar el reloj diario.
+	[X] 100% 11/11/2016 - 09:20:06 ¿Que tal llevamos la entrega de la circulación?
+		: 
+		: Acabo de hablar 12:29:53 con Carmen Sanz y aparentemente la entrega
+		: de la ejecutiva CI000116 por parte de ENCLAMA a CORREOS se ha
+		: realizado sin ninguna clase de problema.
+		:
+		: Por otro lado me he encontrado a Pablo Mayayo que nos traía los
+		: recibos rotos para duplicarlos. ME comenta que la entrega con
+		: CORREOS fue bien y sin incidencias.
+		:
+	[X] 100% 11/11/2016 - 09:20:06 Planificar el 25-11-2016 el job xcomtes.sh DIRCOM=EN163110.
+		: 
+		: PLANIFICAR 15 DÍAS NATURALES DESPUÉS DE HOY, O EL PRIMER
+		: LABORABLE POSTERIOR SI ES FESTIVO
+		: Planificar el 25-11-2016 el job xcomtes.sh DIRCOM=EN163110
+		:
+		: Apuntado ya en el Plan.odt
+		: 
+	[X] 100% 11/11/2016 - 09:20:06 REIMPRIMIR xembtes.20161110.
+		: 
+		: Reimprimir con urgencia el fichero xembtes.carta.inicio.com.20161110
+		: en NOTIFICACIÓN por una sola cara. El fichero listado de estas
+		: cartas está ya ingresado en el registro general de entradas por ser
+		: embargos de tesorería.
+		:
+		: Impreso y entregado a Ana Pina. Ella se encargará de llevar las
+		: Notificaciones a ARosa a plegar y entregar en la Estafeta.
+		:
+	[X] 100% 11/11/2016 - 09:20:06 Avisar de que el 'rej02.sh' fallo ayer 10/11/2016.
+		: 
+		: He hablado en persona con JLPina y me ha comentado que se encargan
+		: ellos y que me olvide del problema.
+		:
+		: Esta tarde continuar con la Recaudación como si no hubiera
+		: ocurrido nada.
+		:
+	[X] 100% 11/11/2016 - 10:49:48 J-VIAP de ECOCiudad.
+		: 
+		: Buenos días Quique, por favor, los Barridos y J-VIAP DE LOS  CARGOS:
+		:
+		: SC000516
+		: SC000616
+		: SC000716
+		: SA005416.
+		: 
+		: 
+		: Gracias como siempre, un saludo, 
+		: 
+	[X] 100% 11/11/2016 - 12:45:32 IMPRIMIR: La solución al problema del rej02.sh de ayer.
+		: 
+		: El problema de ayer 2016-11-10 con el rej02.sh lo ha arreglado
+		: Domingo. Pero hay que imprimir el fichero que tenía que haber salido
+		: ayer.
+		:
+		: "EFJ9E.lre0112.20161110"
+		: 
+		: Hoy puede que existan dos ficheros 'EFJ09' el correspondiente al de
+		: ayer, y si se crea, el de hoy también.
+		:
+	[X] 100% 11/11/2016 - 13:38:57 Se necesita recuperar los siguientes recibos de la ejecutiva de circulación.
+		: 
+		: RECIBO
+		: ======
+		:
+		: 15001
+		: 16667
+		: 20001
+		: 21109
+		: 24033
+		: 24035
+		: 24036
+		: 24039
+		: 24043
+		: 28286
+		: 31180
+		: 31181
+		: 41199
+		: 
+	[X] 100% 11/11/2016 - 14:30:06 Fatas también ha pedido un cargo.
+		: 
+		: AB000516
+		:
+
+################################################################################
+#
+# Semana 46 
+#
+################################################################################
+
+[X] 100% Semana 46 
+	[X] 100% 14/11/2016 - 09:10:58 Leer el correo electrónico corporativo.
+	[X] 100% 14/11/2016 - 09:10:58 Leer el correo electrónico particular.
+	[X] 100% 14/11/2016 - 09:10:58 Pasar el reloj diario.
+	[X] 100% 14/11/2016 - 11:06:00 Petición de  trabajo Recaudación 14/11/2016.
+		: 
+		: EXTRACCIÓN/ BORRADO/ PADRÓN ILUMINADO
+		: AB-05-16
+		:
+	[X] 100% 14/11/2016 - 12:34:12 CUADRE SC0516 y SA5416.
+		: 
+		: CUADRE DEL CARGO SC000516 Y SA005416
+		:
+	[X] 100% 14/11/2016 - 12:34:52 Alrededor de los 13:55 presentar en la AEAT el 'trt045.sh'.
+	[X] 100% 15/11/2016 - 09:04:39 Leer el correo corporativo.
+	[X] 100% 15/11/2016 - 09:04:39 Leer el correo personal.
+	[X] 100% 15/11/2016 - 09:04:39 Pasar el reloj diario.
+	[X] 100% 15/11/2016 - 09:04:39 Bajar la AEATDEM.
+	[X] 100% 15/11/2016 - 09:04:39 Alrededor de las 13:55 Enviar a la AEAT la YEDRA.
+	[X] 100% 15/11/2016 - 11:56:06 Programar la shell XBDE500.SH.
+		: 
+		: Buenos días:
+		: 
+		: Cuando buenamente podias, me podrias programar para la tarde de hoy la shell XBDE500.SH.
+		: 
+		: Esta shell realiza un borrado de los recibos anteriores a una fecha, para ello nos gustaría que a partir de hoy hasta el viernes, nos programarais esta shell con la sentencia que os dejo mas abajo.
+		: 
+		: Son 5 cargos los que vamos a borrar que suman aproximadamente 1.000.000 de recibos, con lo cual lo dividimos en varios días para evitar saturación.
+		: 
+		: Así que el programa seria:
+		: 
+		: Martes:     MT000110
+		: Miércoles: MT00111
+		: Jueves:     MT000112
+		: Viernes:    MT000113, MT00114 (El MT000114 solo tiene 60 recibos)
+		: 
+		: La sentencia de ejecución seria con los parámetros siguientes:
+		: 
+		: xbde500.sh P=TOTAL
+		: 
+		: Esta shell realiza dos listados, en el $F_SAL que son los siguientes:
+		: 
+		:  $F_SAL/3ejecutiva.todos.cargos.$CARGO"
+		:  $F_SAL/BORRADO_RECIBOS/3borradoPorCargos.$CARGO.$Y2K
+		: 
+		: No hay que listarlos ni nada, ya que luego los listados ya los tendré que tratar yo.
+		: 
+		: El tamaño de estos listados han sido en DESARROLLO de unos 50Mb por cargo.
+		: 
+		: El tiempo de ejecución de la shell en DESARROLLO ha sido de unos 20 minutos aprox.
+		: 
+		: Cualquier duda me comentáis.
+		: 
+		: Gracias mil.
+		: -- 
+		: Alberto Casabona Quintian
+		: Técnico Auxiliar Informática
+		: Redes y Sistemas
+		: 976721067
+		:
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:  ----------------------------------------
+		:
+		:  Modificación del correo, ya que nos hemos percatado que la facturacion de multas es esta noche, con lo cual empezariamos mañana a realizar el borrado con lo cual el plan seria exactamente igual en todo excepto en los dias de lanzamiento que quedaria asi:
+		: 
+		:   Miercoles (tarde):   MT000110
+		:   Jueves:              MT000111
+		:   Viernes:             MT000112
+		:   Lunes:               MT000113 y MT000114.
+		: 
+		: Cualquier otra cosa me comentais.
+		:
+	[X] 100% 15/11/2016 - 13:00:34 Pasar en serio la facturación de 'Instalaciones Deportivas'.
+	[X] 100% 16/11/2016 - 08:44:06 Pasar el reloj del día
+	[X] 100% 16/11/2016 - 08:44:06 Leer el correo electrónico corporativo.
+	[X] 100% 16/11/2016 - 08:44:06 Leer el correo electrónico personal.
+	[X] 100% 16/11/2016 - 08:44:06 Bajar las peticiones de información de la YEDRA.
+	[X] 100% 17/11/2016 - 07:57:52 Pasar el reloj diario.
+	[X] 100% 17/11/2016 - 07:57:52 Leer el correo electrónico corporativo.
+	[X] 100% 17/11/2016 - 07:57:52 Leer el correo electrónico particular.
+	[X] 100% 17/11/2016 - 07:57:52 Alrededor de las 13:55 enviar la YEDRA a la AEAT.
+	[X] 100% 17/11/2016 - 10:04:11 Presentar la petición de información a la AEAT del Patronato de Educación.
+	[X] 100% 18/11/2016 - 08:46:40 Leer el correo electrónico corporativo.
+	[X] 100% 18/11/2016 - 08:46:40 Leer el correo electrónico particular.
+	[X] 100% 18/11/2016 - 08:46:40 Pasar el reloj diario.
+	[X] 100% 18/11/2016 - 08:46:40 Bajar de la AEATCEM las presentaciones de información.
+
+
+################################################################################
+#
+# Semana 47 
+#
+################################################################################
+
+[X] 100% Semana 47
+	[X] 100% 21/11/2016 - 08:58:29 Leer el correo electrónico particular.
+	[X] 100% 21/11/2016 - 08:58:29 Leer el correo electrónico corporativo.
+	[X] 100% 21/11/2016 - 08:58:29 Alrededor de las 13:55 enviar la AEATCEM.
+	[X] 100% 21/11/2016 - 08:58:29 Pasar el reloj diario.
+	[X] 100% 21/11/2016 - 09:17:16 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 22/11/2016 - 07:46:13 Bajar la AEATCEM.
+	[X] 100% 22/11/2016 - 07:46:13 Leer el correo electrónico particular.
+	[X] 100% 22/11/2016 - 07:46:13 Leer el correo electrónico corporativo.
+	[X] 100% 22/11/2016 - 07:46:13 Pasar el reloj diario.
+	[X] 100% 22/11/2016 - 07:46:13 Alrededor de las 13:55 enviar la YEDRA a la AEAT.
+	[X] 100% 22/11/2016 - 10:53:29 Apuntar las Navidades. Hoy sin falta.
+	[X] 100% 22/11/2016 - 13:08:51 Presentar la petición de información del Patronato de Educación a la AEAT.
+	[X] 100% 23/11/2016 - 08:50:12 Bajar las peticiones de información de la AEAT.
+	[X] 100% 23/11/2016 - 08:50:12 Leer el correo electrónico privado.
+	[X] 100% 23/11/2016 - 08:50:12 Leer el correo electrónico corporativo.
+	[X] 100% 23/11/2016 - 08:50:12 Pasar el reloj diario.
+	[X] 100% 23/11/2016 - 08:50:12 Comprobar si me han dado las vacaciones solicitadas.
+		: 
+		: Metedura de pata. Le he pedido a JGGago que me heche una mano con el
+		: problema.
+		:
+		: Ya me lo ha arreglado. 2016-11-23 - 15:04:25 Ahora voy a volver a pedirlo.
+		:
+	[X] 100% 24/11/2016 - 08:45:44 Leer el correo electrónico del trabajo.
+	[X] 100% 24/11/2016 - 08:45:44 Leer el correo electrónoico particular.
+	[X] 100% 24/11/2016 - 08:45:44 Pasar el reloj de todos los días.
+	[X] 100% 24/11/2016 - 08:45:44 Alrededor de las 13:55 envíar a la AEAT las peticiones de información de YEDRA.
+	[X] 100% 24/11/2016 - 08:45:44 Volver a pedir los días de asueto de Enero de 2017.
+		: 
+		: No lo eliminan tan rápido como JGGago.
+		:
+	[X] 100% 24/11/2016 - 10:45:34 Cambiar la aplicación JAVA 'procesar'.
+		: 
+		: Pues eso, cambiar el orden de la fecha de DDMMYYYY a YYYYMMDD para
+		: poder ordenarlo sin problemas. Además el plugin 'VimOutliner' del
+		: vim lo pone en ese orden cuando metes la fecha con su comando
+		: (,,d-ate).
+		:
+		:----------------------------------------
+		:----------------------------------------
+		:----------------------------------------
+		:
+		: Ya está. Ha sido muy fácil y rápido.
+		:
+	[X] 100% 2016-11-24 - 12:29:31 Utilizar GIT para sincronizar los jobs del trabajo desde cualquier parte.
+		: 
+		: He podido 'Gittear' a GitHub la aplicación tonta de JAVA que tengo para
+		: procesar los trbajos como si fuera un 'GTD'.
+		:
+	[X] 100% 2016-11-24 - 12:36:45 Envíar un mail a SS preguntando por una versión de Navegador.
+	[X] 100% 2016-11-25 - 09:17:36 Leer el correo electrónico corporativo.
+	[X] 100% 2016-11-25 - 09:17:36 Leer el correo electrónico particular.
+	[X] 100% 2016-11-25 - 09:17:36 Bajar las peticiones de información de la AEAT.
+	[X] 100% 2016-11-25 - 09:17:36 INSS.
+		: 
+		: Se ha envíado pero se están obteniendo nuemrosos errores. Pero aún
+		: así es una gran avence.
+		:
+	[X] 100% 2016-11-25 - 09:17:36 Pasar el reloj diario.
+
+################################################################################
+#
+# Semana 49 
+#
+################################################################################
+
+[_] 94% Semana 49 
+	[X] 100% 2016-12-05 - 10:12:26 Pasar el reloj diario.
+	[X] 100% 2016-12-05 - 10:12:26 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-05 - 10:12:26 Leer el correo electrónico personal.
+	[X] 100% 2016-12-05 - 10:12:26 Contar el papel de los almacenes.
+	[X] 100% 2016-12-05 - 10:12:26 Alrededor de las 13:55 pasar y envíar el 'trt045.sh' a la AEAT.
+	[X] 100% 2016-12-05 - 10:25:16 Comprobar el envío de petición de información a la TGSS del último día.
+	[X] 100% 2016-12-05 - 10:25:16 Comprobar los días de permiso para Enero de 2017.
+	[X] 100% 2016-12-05 - 12:10:06 Facturación prueba M. S. Vicente de Paul y EXPO.
+	[X] 100% 2016-12-05 - 12:46:48 Faltan las tres primeras cartas del 'cot021.lis'.
+		:
+		: Ha venido LAURA ALOS LUENGO a reclamar las tres primeras cartas del
+		: 'cot021.lis' de Tesorería porque faltaban.
+		: Se las he imprimido pero no han aparecido. Se deja el asunto así.
+		:
+	[X] 100% 2016-12-05 - 12:46:48 Borrar un ticket a VMorlan que todavía no está creado.
+		: 
+		: Como todavía no había entrado en Peticiones_Sistemas (Redmine), he
+		: entrado vía WebMail y lo he borrado.
+		:
+	[X] 100% 2016-12-05 - 12:46:48 Reimpresión CORREOS.
+		: 
+		: La fecha de deposito de las cartas fué según correos el '28/10/2016
+		: 14:22:00. He consultado con APina que hacer y me ha contestado que
+		: no las repita porque la fecha límite de pago es el día de hoy.
+		:
+	[X] 100% 2016-12-05 - 12:57:20 Comenzar la facturación AC001116.
+		: 
+		: Bajar el fichero de agua.
+		:
+	[X] 100% 2016-12-05 - 12:57:20 Planificar los jobs de la tarde.
+	[X] 100% 2016-12-07 - 08:33:10 Bajar la petición de información AEATCEM.
+	[X] 100% 2016-12-07 - 08:33:10 Leer el correo electrónico particular.
+	[X] 100% 2016-12-07 - 08:33:10 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-07 - 08:33:10 Pasar el reloj diario.
+		: 
+		: Hoy se han tenido que pasar dos relojes diarios.
+		:
+	[X] 100% 2016-12-07 - 08:33:10 Alrededor de las 13:55 envíar la YEDRA. Esta semana sólo un envío.
+	[X] 100% 2016-12-07 - 08:36:06 Intentar cargar el módulo de 'QuickTask'.
+		: 
+		: No lo encuentro en Internet.
+		:
+	[X] 100% 2016-12-07 - 09:46:21 Digitalizar en PDF las impresiones para hacer hoy.
+		: 
+		: Para así no olvidarme de cerrar tickets y cosas así.
+		:
+	[X] 100% 2016-12-07 - 14:02:47 Imprimir el parte de la EJ001316 que ahora pasará a ser la ejecutiva EJ001416.
+		:
+		: NO lo he encontrado, por lo tanto he utilizado el viejo otra vez.
+		:
+	[X] 100% 2016-12-09 - 07:49:16 Leer el correo electrónico diario.
+	[X] 100% 2016-12-09 - 07:49:16 Leer el correo particular.
+	[X] 100% 2016-12-09 - 07:49:16 Bajar de la AEAT las peticiones de información.
+	[X] 100% 2016-12-09 - 07:49:16 Pasar el reloj diario.
+	[_] 50% 2016-12-09 - 09:24:17 Declaraciones trimestrales de IAE IA003416.
+		[X] 100% Envíar. 
+		[_] 0% Recibir.
+		: 
+		: Fecha aviso envio a la AEAT...:vie dic  9 06:50:11 CET 2016
+		: -------------------------------
+		: 
+		: *******************************************************
+		: ***** Se va a generar un envio a la AEAT:           *****
+		: ***** --- Declaraciones trimestrales de IAE   ---   *****
+		: ***** de los ficheros generados en los procesos batch ***
+		: ***** por medio de transferencia electronica -Internet-**
+		: *********************************************************
+		: 
+		: Aplicacion...: A
+		: 
+		: Ejercicio....: 2016
+		: 
+		: Trimestre....: 3T
+		: 
+		: Num.registros: 378
+		: 
+		: Dir. envio...: IA003416
+		: 
+		: Fichero envio: E20161209.CINTRI.envhac
+		: 
+	[_] 0% 2016-12-09 - 10:00:46 Preguntar a JLPina si se imprime ya la EJ001316.
+		:
+		: ¿Se imprimen ya los ~~ 13000 recibos de la EJ001316?, de momento
+		: están en el SPOOL quietecitos.
+		:
+	[X] 100% 2016-12-09 - 10:00:46 Incidencia de CSumelzo del día 20161207.
+		: 
+		: Palabras textuales de un mensaje de CSumelzo escrito el 20161207.
+		: He pasado la primera vez el job 'cpj01' con fecha de hoy,
+		: (07/12/2016). Obviamente mal. Creo que no hay ningún problema con
+		: eso ya que puede pasarse en cualquier momento y repetirse si hiciera
+		: falta.
+		:
+	[X] 100% 2016-12-09 - 12:05:58 Pablo Agustín Aguirre acaba de dar el visto bueno de los mercadillos.
+
+################################################################################
+#
+# Semana 50 
+#
+################################################################################
+
+[_] 91% Semana 50 
+	[X] 100% 2016-12-12 - 07:46:36 Bajar el IAE de la AEATCEM.
+		: 
+		: Increible.... He consultado el 2016-12-12 a primera hora y todavía
+		: está en proceso. Mosqueoooooo.......
+		:
+	[X] 100% 2016-12-12 - 07:46:36 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-12 - 07:46:36 Leer el correo electrónico personal.
+	[X] 100% 2016-12-12 - 07:46:36 Pasar el reloj diario.
+	[X] 100% 2016-12-12 - 07:46:36 Alrededor de las 13:55 pasar el 'trt045.sh'.
+		: 
+		: Pasado y enviado a la AEAT la AEATCEM.
+		:
+	[X] 100% 2016-12-12 - 07:46:36 Alrededor de las 12:00 planificar los trabajos de la tarde.
+	[X] 100% 2016-12-12 - 07:46:36 Hoy Lunes contar el papel de los almacenes.
+	[X] 100% 2016-12-12 - 07:56:04 Preguntarle a JLPina por 'noj02.sh CARGO=EJ001416'.
+		: 
+		: ********************************************
+		: PASO 2: EXTRACCION DE COMUNICACIONES        
+		: ********************************************
+		: 19:22:52 : empieza no0201 20161209EJ0014162 
+		: FECHA LIMITE? (AAAAMMDD):
+		: 00000201
+		: ACTUALIZO? (S/N):
+		: S
+		: -------------------------
+		: -----------OK------------
+		: -------------------------
+		:
+		: ----------------------------------------
+		: ----------------------------------------
+		: ----------------------------------------
+		: 
+		: He creado un ticket. #79765 y cuando lo ha leido JLPina me dice
+		: 'otra vez mal'.
+		:
+	[X] 100% 2016-12-12 - 12:31:57 Petición #75946: Ejecución de anulaciones de recibos incobrables.
+		: 
+		: Hola,
+		: 
+		: Se solicita para esta noche:
+		: 
+		: - Hacer un backup de la base de datos BDF después del batch.
+		: 
+		: - Tras el backup, si ha sido correcto, ejecutar secuencialmente estas shells ( ATENCION!! que la shell januej.sh tiene como paramétro "LE=31" !!!! ) :
+		: 
+		:     xcvm017.sh
+		:     januej.sh LE=31
+		:     rej05.sh
+		: 
+		: Gracias y un saludo.
+		: 
+		: -- 
+		: Carlos David Vázquez Murillo
+		:
+	[X] 100% 2016-12-12 Pedir a correos que eliminen la Remesa 6064.
+		: 
+		: Pedir a CORREOS que eliminen la remesa 6064 por ser la de la
+		: ejecutiva EJ001416 y estar totalmente mal hecha.
+		:
+		: Ya lo he pedido el 2016-12-12, y estoy a la espera de que me
+		: contesten.
+		:
+		: /SINFAZ/FISCAL/FACT/CORREOS/ENVIOS/NE5000130120161209.2044
+		:
+		[X] 100% Contestación positiva recibida el 2016-12-13
+	[X] 100% 2016-12-12 - 13:10:18 RE: Ayto Zaragoza: Embargos Fase 4 Noviembre 2016.
+		: 
+		: Buenos días,
+		:
+		: Adjunto os envio la fase 4 que teníamos pendiente de contestar,
+		: 
+		: Por favor, disculpad el retraso.
+		: 
+		: Un saludo,
+		: 
+		: Cristina Blanco Nalda
+		:
+	[X] 100% 2016-12-12 - 13:40:09 [PETICIONES FISCAL - Tareas #79645] Error noj02.sh CARGO=EJ001316.
+		: 
+		: Subo la lista de las EJ001316 que hay que quitar para no envíarlas,
+		: ya que han sido pagadas y son 82.
+		:
+	[X] 100% 2016-12-12 - 13:41:33 [PETICIONES FISCAL - Tareas #79780] (En proceso) Peticion informacion TGSS e INSS.
+		:
+		: La semana pasada se indico que se habian procesado la peticion a
+		: tgss e inss y ya se habian recepcionado los ficheros
+		: 
+		: En este momento se han de ejecutar los procesos efj062 y efj066 pero
+		: las cartas han de ser retenidas hasta que el Jefe de Recaudacion
+		: indique que han de ser enviadas.
+		: 
+	[X] 100% 2016-12-12 Comprobar que la última facturación de Mercadillos S. V. Paul y EXPO se hizo entera.
+	[X] 100% 2016-12-12 Comenzar una nueva petición de informaciónde INSS y SS. ¿'efj65.sh'?.
+		: 
+		: Eva de Miguel Mortales --- 1295
+		: edemiguelm@zaragoza.es
+		:
+		: efj62.sh --- TGSS
+		: efj66.sh --- INSS
+		:
+		[X] 100% 2016-12-13 Mandar los ficheros a la SS y al INSS.
+	[X] 100% 2016-12-12 Reimpresión de una notificación.
+		: 
+		: ENVÍOS PENDIENTES POR CÓDIGO POSTAL DE REMESAS DEPOSITADAS DE 24/11/2016 A 30/11/2016 
+		:
+		: NE500013016054000000490 --- PRADES PLOU ROCIO --- CATORCE SEPTIEMB.- 023 SG D CRT --- Fecha Depósito 24/11/2016 14:33:00
+		: 
+	[X] 100% 2016-12-13 - 09:17:06 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-13 - 09:17:06 Leer el correo electrónico personal.
+	[X] 100% 2016-12-13 - 09:17:06 Pasar el reloj diario.
+	[X] 100% 2016-12-13 - 09:17:06 Bajar la AEATCEM.
+	[X] 100% 2016-12-13 - 09:17:06 Alrededor de las 13:55 envíar la YEDRA.
+	[_] 0% 2016-12-13 - 09:30:23 Orden de JLPina. No sacar a correos la EJ001316 hasta que lo diga el.
+		: 
+		: Mirar el ticket #79645.
+		:
+	[_] 0% 2016-12-13 - 10:12:08 Pedir a correos la retirada de 82 certificados en su SICER ya enviado.
+		: 
+		: Envíar la lista Excel con los 82 recibos EJ001316 para quitar.
+		:
+		[_] % Pedir que este SICER se elimine también.
+	[X] 100% 2016-12-13 - 11:10:11 Recepción de ficheros IAE --- IA003416
+		: 
+		: Una vez bajados los ficheros de IAE se copian  los ficheros bajados
+		: a Q:\AEAT\SuministrosAAPP, al directorio..:
+		: Q:\cmic3archivo1\archivo1\Nas\Intercambio\Cmiaslan\aeat\IAE\respuesta\
+		: con el nombre: AYTO???_CARGO_FECHA.TXT siendo:
+		: 
+		: CARGO=IA??????  Ej.:IA000114
+		: 
+		: FECHA=YYYYMMDD Ej.: 20140301
+		: 
+		: Diariamente en CMIASTIP1 la shell: recepcion.ficheros.sh -T que
+		: llama a la shell: redi.AEAT.sh verifica la existencia de ficheros
+		: con fecha=YYYYMMDD,
+		: 
+		: extrae el cargo del nombre del fichero, copiandolos a
+		: /SINFAZ/FISCAL/FACT/CARGO
+		: 
+		: y como final envia correo interno a J.L.Pina, L.Guinda y J.M.Campos
+		:
+	[X] 100% 2016-12-13 - 14:16:03 [SINFAZ - Peticiones #79898] (Nueva) RYSGE-Recaudacion Voluntaria: Cancelacion Aplazamientos Pago CT001216.
+		: 
+		: Sistema de notificación de incidencias Corporativa
+		: 
+		: Petición #79898 añadida por correos automatizados explotacion.
+		: Peticiones #79898: RYSGE-Recaudacion Voluntaria: Cancelacion Aplazamientos Pago CT001216
+		: 
+		:     Autor: correos automatizados explotacion
+		:     Estado: Nueva
+		:     Prioridad: Normal
+		:     Asignado a:
+		:     Categoría:
+		:     Versión prevista: 
+		: 
+		: Numero notificaciones aplazamientos: 118
+		: Fecha Generacion:13122016
+		: Hora Generacion:1401
+		: TIPO de PAPEL=Notificaciones mod.3
+		: Directorio PDF a listar: /SINFAZ/SPOOL/aplazamientos
+		: Ficheros PDFS a listar: CartasCancAplaz20161213.pdf
+		:
+	[X] 100% 2016-12-14 - 07:47:02 Bajar la YEDRA de la AEAT.
+	[X] 100% 2016-12-14 - 07:47:02 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-14 - 07:47:02 Pasar el reloj diario.
+	[X] 100% 2016-12-14 - 07:50:51 Bajar la peticion de información de la SS e INSS para los embargos.
+	[X] 100% 2016-12-14 - 09:02:20 Meter todos los bancos de 'efj51.sh' que vayan llegando.
+	[_] 0% 2016-12-14 - 13:15:09 Error en Redmine accediendo desde el exterior.
+		: 
+		: Este es el error obtenido.
+		:
+		: 172.16.6.2 - - [14/Dec/2016:11:25:50 +0100] "POST /uploads.js?attachment_id=2&filename=filtro.c&content_type=text%2Fx-csrc HTTP/1.0" 422 -
+		: 
+		: Error 422: Invalid form authenticity token.
+		:
+		: Este error aparece al incluir un fichero en un ticket haciendolo
+		: desde el exterior.
+		:
+	[X] 100% 2016-12-15 - 07:56:14 El efj62 da la impresión de que no ha hecho nada.
+		[X] 100% Se deja para esta tarde pasar otra vez.
+			: 
+			: Pasado y prcoesado bien. Se deja en SPOOl hasta nueva orden de
+			: Palacios para imprimirlo.
+			:
+	[_] 0% 2016-12-15 - 10:16:15 Leer el correo electrónico particular.
+	[X] 100% 2016-12-15 - 10:16:15 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-15 - 10:16:15 Pasar el reloj diario.
+	[X] 100% 2016-12-15 - 10:16:15 Alrededor de las 13:55 pedir las peticiones de información de la YEDRA.
+	[X] 100% 2016-12-15 - 10:17:49 Volver a pasar efj62.sh ORIGEN=SS ( NO IMPRIMIR HASTA ORDEN DE PALACIOS ).
+	[X] 100% 2016-12-15 - 10:47:03 Re: Recibos de nómina
+		: 
+		: Buenas tardes,
+		: 
+		:     Necesitamos que nos copiéis los recibos de nómina, de nuevo, ya que ha habido que volver a generarlos:
+		: 
+		:     de *N:\gip\nominas\201611* (N: es intercambio de cmiastest) a
+		: /documentos/gip/nominas/201611/
+		: 
+		: 
+		:     Pongo en copia a Montse para que pueda saber que la copia se ha hecho y siga con los pasos posteriores, ya que mañana no vengo.
+		: 
+		:     Muchas gracias,
+		:     Leticia.
+		: 
+	[X] 100% 2016-12-15 - 11:03:12 [SOPORTE-SISTEMAS - Tareas #80074] (Nueva) Añadir Usuarios en Redmine.
+		: 
+		: Sistema de notificación de incidencias Corporativa
+		: 
+		: Petición #80074 añadida por Ruben Notivol.
+		: Tareas #80074: Añadir Usuarios en Redmine
+		: 
+		:     Autor: Ruben Notivol
+		:     Estado: Nueva
+		:     Prioridad: Normal
+		:     Asignado a:
+		:     Categoría:
+		:     Versión prevista:
+		:     owner-email: 
+		: 
+		: Hola, necesitamos se den de alta los siguientes usuarios en Redmine:
+		: Iguazel Elhombre Maestre ielhombre@zaragoza.es,
+		: Cristina Añanos cananos@zaragoza.es,
+		: Jaime Marco Bisbal jmarco@zaragoza.es,
+		: María Lagunas Palasi Ruiz mlpalasi@zaragoza.es
+		:
+	[X] 100% 2016-12-15 - 12:08:23 Petición de trabajo Recaudación 15/12/2016.
+		:
+		: PETICIÓN DE TRABAJO RECAUDACIÓN 15/12/2016
+		: 
+		: EXTRACCIÓN/ BORRADO/ PADRÓN ILUMINADO
+		: AB-06-16
+		: RT-52-16
+		: UR-52-16
+		: UR-62-16
+		:
+	[X] 100% 2016-12-15 - 12:50:28 Extracción, Borrado, Padrón iluminado.
+		: 
+		: fcj08ej.sh CARGO=RT005216
+		: xbdb312.sh CARGO=RT005216
+		: ejj01.sh CARGO=RT005216 SR=A
+		: xbdb300.sh CARGO=RT005216
+		: ----------------------------------------
+		: fcj08ej.sh CARGO=AB000616
+		: xbdb312.sh CARGO=AB000616
+		: ejj01.sh CARGO=AB000616 SR=D
+		: xbdb300.sh CARGO=AB000616
+		: ----------------------------------------
+		: fcj08ej.sh CARGO=UR005216
+		: xbdb312.sh CARGO=UR005216
+		: ejj01.sh CARGO=UR005216 SR=A
+		: xbdb300.sh CARGO=UR005216
+		: ----------------------------------------
+		: fcj08ej.sh CARGO=UR006216
+		: xbdb312.sh CARGO=UR006216
+		: ejj01.sh CARGO=UR006216 SR=A
+		: xbdb300.sh CARGO=UR006216
+		:
+	[X] 100% 2016-12-15 - 13:36:18 Re: Recibos de nómina
+		: 
+		: Buenos días.
+		: 
+		: Se puede realizar la impresión de los recibos de noviembre
+		: 
+		: Muchas gracias.
+		: Un saludo
+		: 
+		: 
+		: -- 
+		: Montse Portero Hernando
+		:
+	[X] 100% 2016-12-16 - 11:12:31 Bajar las peticiones de infomración de la AEAT a la YEDRA.
+	[X] 100% 2016-12-16 - 11:12:31 Leer el correo electrónico particular.
+	[X] 100% 2016-12-16 - 11:12:31 Leer el coreo electrónico corporativo.
+	[X] 100% 2016-12-16 - 11:12:31 Pasar el reloj diario.
+
+################################################################################
+#
+# Semana 51 
+#
+################################################################################
+
+[X] 100% Semana 51
+	[X] 100% 2016-12-19 - 08:31:52 Leer el correo electrónico particular.
+	[X] 100% 2016-12-19 - 08:31:52 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-19 - 08:31:52 Alrededor de las 13:55 lanzar el 'trt045.sh'.
+	[X] 100% 2016-12-19 - 08:31:52 Pasar el reloj diario.
+	[X] 100% 2016-12-19 - 08:37:08 Dar de alta en Redmine a usuarios de presupuestos participativos.
+	[X] 100% La Milagros utiliza el menu 'menuau' para sus experimentos con las impresoras. Debería echarle un ojo a ver como es. 
+	[X] 100% 2016-12-20 - 07:57:22 Leer el correo electrónico del trabajo.
+	[X] 100% 2016-12-20 - 07:57:22 Leer el correo electrónico particular.
+	[X] 100% 2016-12-20 - 07:57:22 Pasar el reloj diario.
+	[X] 100% 2016-12-20 - 07:57:22 Bajar las peticiones de información de la AEAT.
+	[X] 100% 2016-12-20 - 07:57:22 Contar las existencias de papel.
+	[X] 100% 2016-12-20 - 09:49:06 Alrededor de las 13:55 enviar a la AEAT las peticiones de información de la YEDRA.
+	[X] 100% 2016-12-21 - 08:35:58 Bajar las peticiones de información de la AEAT.
+	[X] 100% 2016-12-21 - 08:35:58 Leer el correo electrónico particular.
+	[X] 100% 2016-12-21 - 08:35:58 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-21 - 08:35:58 Pasar el reloj diario.
+	[X] 100% 2016-12-21 - 08:43:11 Comprobar la fiesta en moscosos que tengo.
+	[X] 100% 2016-12-21 - 09:44:12 Envíar un nuevo registro que estaba corrupto a la AEAT.
+		: 
+		: Pues al bajar las presentaciones de información de la AEAT he habido
+		: un problema con un fichero que ha bajado corrupto. Investigando en
+		: su interior se ha comprobado que el problema residía solamente en el
+		: último registro. Se ha eleiminado y se ha importado el resto de
+		: registros sin problemas.
+		: El último registro se vuelve a pedir y se recogerá mañana otra vez
+		: procesado.
+		:
+	[X] 100% 2016-12-22 - 08:41:20 Leer el correo electrónico del trabajo.
+	[X] 100% 2016-12-22 - 08:41:20 Leer el correo electrónico particular.
+	[X] 100% 2016-12-22 - 08:41:20 Procesar el reloj diario.
+	[X] 100% 2016-12-22 - 08:41:20 Hoy hay que bajar de la AEAT un único registro de ayer que estaba corrupto.
+	[X] 100% 2016-12-22 - 08:41:20 Alrededor de las 13:55 presentar la YEDRA.
+	[X] 100% 2016-12-22 - 08:41:20 Cerrar el ticket de los presupuestos participativos.
+	[X] 100% 2016-12-22 - 09:23:46 Pasar a limpio la información de las tarjetas personales que tengo.
+	[X] 100% 2016-12-23 - 09:19:21 Leer el correo electrónico particular.
+	[X] 100% 2016-12-23 - 09:19:21 Leer el correo electrónico corporativo.
+	[X] 100% 2016-12-23 - 09:19:21 bajar las peticiones de información de la AEAT.
+	[X] 100% 2016-12-23 - 09:19:21 Pasar a limpio los fuentes de FTP para ECOCiudad, y demás.
+	[X] 100% 2016-12-23 - 09:19:21 Obtener información acerca sqlite3.
+	[X] 100% 2016-12-23 - 09:37:20 Envíar Felicitaciones.
+	[X] 100% 2016-12-23 - 09:38:38 Devolverle la mierda de teléfono que me dejo ayer.
+
+
+################################################################################
+#
+# Semana 52 
+#
+################################################################################
+
+[X] 100% Semana 52 
+	[X] 100% 2016-12-27 - 09:14:59 Leer el correo del trabajo.
+	[X] 100% 2016-12-27 - 09:14:59 Leer el correo particular.
+	[X] 100% 2016-12-27 - 09:14:59 Contar el papel del almacén.
+	[X] 100% 2016-12-27 - 09:14:59 Procesar el reloj diario.
+	[X] 100% 2016-12-27 - 09:14:59 Alrededor de las 13:55 lanzar y presentar el 'trt045.sh'.
+	[X] 100% 2016-12-27 - 09:16:34 Pasar a limpio 'PDF' los documentos del año de la contabilidad del papel.
+	[X] 100% 2016-12-28 - 08:48:39 Leer el correo electrónico del trabajo.
+	[X] 100% 2016-12-28 - 08:48:39 Leer el correo electrónico particular.
+	[X] 100% 2016-12-28 - 08:48:39 Pasar el reloj diario.
+	[X] 100% 2016-12-28 - 08:48:39 Bajar de la AEAT las peticiones de información de la AEATCEM.
+	[X] 100% 2016-12-28 - 08:48:39 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA.
+	[X] 100% 2016-12-29 - 07:57:46 Leer el correo del trabajo.
+	[X] 100% 2016-12-29 - 07:57:46 Leer el correo particular.
+	[X] 100% 2016-12-29 - 07:57:46 Bajar de la AEAT las peticiones de información de la YEDRA.
+	[X] 100% 2016-12-29 - 07:57:46 Procesar el reloj diario.

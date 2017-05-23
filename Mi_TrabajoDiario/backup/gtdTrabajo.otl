@@ -1,0 +1,642 @@
+[_] 0% GTD
+	[_] 0% Registros Diarios.	
+		[_] 33% 30/10/2015 - 10:42:39 La miniaplicación en JAVA que mete registros en el fichero 'registro_diario.otl' podría preguntar al principio en que fichero meter la información. 
+			[_] 0% 30/10/2015 - 10:42:39 Podría leer el directorio donde se ubican los ficheros y meterlos todos en una variable para luego presentarlos.
+			[_] 0% 30/10/2015 - 10:42:39 La variable anterior podría aparecer por pantalla en forma de MENU donde poder elegir el fichero a utilizar.
+			[X] 100% 30/10/2015 - 13:26:00 De forma primitiva pero ya está operativa.
+			[_] % Detectar que es Lunes y meter en el fichero 'registro_diario.otl' la semana en la que estamos.
+			[_] 0% Si es Lunes meter la cabecera del número de la semana.
+				: 
+				: Si es Lunes meter en el fichero 'registro_diario.otl' la cabecera
+				: del número de la semana en las que nos encontramos.
+				:
+				: ################################################################################
+				: #
+				: # Semana 46
+				: #
+				: ################################################################################
+				: 
+				: Para ello me haré dos preguntas:
+				:
+				: DETECTAR 
+				: 	en el fichero si ya tengo impresa la dentificación de comienzo de
+				: 	semana en curso. 
+				: SINO
+				: 	Meter la cabecera en el fichero.
+				:
+	[_] 0% 30/10/2015 - 10:39:16 Instalar y probar algún servidor de JAVA para jugar y practicar ¿Podría ser el TOMCAT?
+		[_] 0% Falta todavía aprender a configurarlo pero casi lo tengo controlado.
+	[_] 0% 12/11/2015 - 09:52:21 Buscar en el Confluence información:
+		[_] 0% Reloj diario.
+		[_] 0% Proceso Ejecutivas.
+		[_] 0% Reimpresión de recibos de CORREOS.
+		[_] 0% Petición de barrido/cuadre de VIAP.
+	[_] Meter también a LaTeX los ficheros 'otl' de trabajo, configuraciones, passwords y máquinas e IP's.
+	[_] Hacerme para mí un listado de todos los logs procesados en el día corriente.
+		:
+		: Hacerme para mí y si es posible enviarmelo por correo un listado de
+		: todos los logs procesados en el día corriente.
+		:
+	[_] Pasar a limpio la instalación y estructura del Redmine 3.1.0.
+	[_] Rotar los logs de producción del Redmine.
+	[_] 0% 19/02/2016 - 08:45:49 Hacer el script que coloca los ficheros bajados de la AEAT a sus directorios correspondientes.
+		: 
+		: Y colocarlo como script en la aplicación 'Nautilus'.
+		:
+	[_] 0% 09/02/2016 - 08:47:49 Investigar lo relativo a los log's del Redmine.
+		: 
+		: Hacer alguna especie de logrotate.
+		:
+	[_] 0% 27/01/2016 - 08:51:40 Aceptar información y datos directamente desde el 'Vim'.
+		:
+		: Editar un fichero sin guardarlo en 'Vim' y desde el mismo meterlo en
+		: el fichero 'registro_diario.otl'. Para ello debería tener una
+		: aplicación en JAVA o en cualquier otro lenguaje que lo importe
+		: directamente.
+		:
+		[_] 0% 26/01/2016 - 12:09:30 Hacer una prueba de conexión a la ORACLE.
+			[_] % 26/01/2016 - 12:09:30 Con SqlPlus.
+			[_] % 26/01/2016 - 12:09:30 Y con JDBC en JAVA.
+		[_] % 27/01/2016 - 08:51:40 Importar datos SQL directamente desde el Vim en 'sqlite3'.
+	[_] 0% 22/01/2016 - 11:12:52 Hacer un esquema de recaudación voluntaria.
+	[_] 0% 22/01/2016 - 11:12:52 Hacer un esquema de recaudación ejecutiva.
+	
+
+################################################################################
+#
+# Recopilación de futuros proyectos. Recogido hoy (2015/11/24)
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+RECOGER LOS LOG's Y PR's EN UNA TABLA ORACLE
+============================================
+
+LOGs de JOBS ejecutados el día Lunes 23 de Noviembre de 2015
+
+JOB	ESTADO	FECHA	INICIO	FIN	LOG	COMENTARIOS
+envio.ficheros.sh -T	OK	20151123	05:50	05:50	envio.ficheros.sh.20151123.055001.txt	/root/scripts
+procesosifsicer.sh 	OK	20151123	06:00	06:00	procesosifsicer.sh.20151123.060011.txt	/servicios/SINFAZ/FISCAL/live/subjcl/DB_sif
+procesosifdomiciliaciones.sh 	OK	20151123	06:00	06:00	procesosifdomiciliaciones.sh.20151123.060011.txt	/servicios/SINFAZ/FISCAL/live/subjcl/DB_sif
+xdjm94k.sh 	OK	20151123	06:00	06:00	xdjm94k.sh.20151123.060011.txt	/servicios/SINFAZ/FISCAL/live/subjcl/DB_bdf
+edi.AEAT.sh -T	OK	20151123	06:50	06:50	edi.AEAT.sh.20151123.065002.txt	/root/scripts
+edi.embargos.sh -V	OK	20151123	07:30	07:30	edi.embargos.sh.20151123.073002.txt	/root/scripts
+edi.tesoreria.sh -V	OK	20151123	13:16	13:16	edi.tesoreria.sh.20151123.131601.txt	/root/scripts
+trt045.sh 	OK	20151123	14:02	14:02	trt045.sh.20151123.140244.txt	
+recepcion.ficheros.sh -T	OK	20151123	14:30	14:30	recepcion.ficheros.sh.20151123.143002.txt	/root/scripts
+envio.ficheros.sh -CORREOSINSTRIB	OK	20151123	15:00	15:00	envio.ficheros.sh.20151123.150003.txt	/root/scripts
+bajarTIPFIS.sh 	OK	20151123	16:01	16:02	bajarTIPFIS.sh.20151123.160134.txt	/servicios/SINFAZ/operacion
+reservaFISCAL.sh 	OK	20151123	16:02	17:06	reservaFISCAL.sh.20151123.160228.txt	/servicios/SINFAZ/operacion
+bajarTIPCONTA.sh 	OK	20151123	17:38	17:38	bajarTIPCONTA.sh.20151123.173812.txt	/servicios/SINFAZ/operacion
+reservaCONTA.sh 	OK	20151123	17:38	17:40	reservaCONTA.sh.20151123.173841.txt	/servicios/SINFAZ/operacion
+recauda.sh 	OK	20151123	17:41	17:41	recauda.sh.20151123.174137.txt	
+recauda_eco.sh 	OK	20151123	17:41	17:41	recauda_eco.sh.20151123.174140.txt	
+devueltos.sh 	OK	20151123	17:41	17:41	devueltos.sh.20151123.174142.txt	
+devueltos_eco.sh 	OK	20151123	17:41	17:41	devueltos_eco.sh.20151123.174151.txt	
+rej02.sh 	OK	20151123	17:41	17:45	rej02.sh.20151123.174152.txt	
+rej02sc.sh 	OK	20151123	17:45	17:49	rej02sc.sh.20151123.174556.txt	
+efj90.sh 	OK	20151123	17:49	17:49	efj90.sh.20151123.174931.txt	
+revision_desautoliq.sh 	OK	20151123	17:49	17:50	revision_desautoliq.sh.20151123.174940.txt	
+revision_rel_autoliq.sh 	OK	20151123	17:50	17:50	revision_rel_autoliq.sh.20151123.175033.txt	
+revision_rel_autoliq2.sh 	OK	20151123	17:50	17:51	revision_rel_autoliq2.sh.20151123.175056.txt	
+revision_rel_autoliq_sif.sh 	OK	20151123	17:51	17:51	revision_rel_autoliq_sif.sh.20151123.175123.txt	
+revision_desautoliq_sif.sh 	OK	20151123	17:51	17:52	revision_desautoliq_sif.sh.20151123.175152.txt	
+p_recibo_depurar_contrib.sh 	OK	20151123	17:52	17:54	p_recibo_depurar_contrib.sh.20151123.175239.txt	
+xbdapgr.sh 	OK	20151123	17:54	17:55	xbdapgr.sh.20151123.175420.txt	
+cm_recibos.sh 	OK	20151123	17:55	17:55	cm_recibos.sh.20151123.175534.txt	
+sh xuifb04.sh 	OK	20151123	17:55	17:55	xuifb04.sh.20151123.175538.txt	
+bdjnot.sh 	OK	20151123	17:55	17:55	bdjnot.sh.20151123.175542.txt	
+rej01.sh 	OK	20151123	17:55	18:08	rej01.sh.20151123.175543.txt	
+xrgc092.sh 	OK	20151123	18:08	18:08	xrgc092.sh.20151123.180822.txt	
+rej01sc.sh 	OK	20151123	18:08	18:08	rej01sc.sh.20151123.180827.txt	
+rej09.sh 	OK	20151123	18:08	18:08	rej09.sh.20151123.180849.txt	
+notario_pv.sh 	OK	20151123	18:08	18:08	notario_pv.sh.20151123.180853.txt	
+efj55.sh 	OK	20151123	18:08	18:29	efj55.sh.20151123.180857.txt	
+efj21.sh 	OK	20151123	18:29	18:31	efj21.sh.20151123.182930.txt	
+cotx0.sh 	OK	20151123	18:31	18:48	cotx0.sh.20151123.183116.txt	
+fcjeditran.sh 	OK	20151123	18:48	18:48	fcjeditran.sh.20151123.184851.txt	
+efj57.sh 	OK	20151123	18:48	18:48	efj57.sh.20151123.184857.txt	
+sh xmtacre.sh 	OK	20151123	18:49	18:50	xmtacre.sh.20151123.184900.txt	
+xbdb302.sh 	OK	20151123	18:51	18:52	xbdb302.sh.20151123.185123.txt	
+sh jviap.sh 	OK	20151123	18:52	18:53	jviap.sh.20151123.185205.txt	
+ejj07.sh CARGO=PV000615	OK	20151123	18:53	18:53	ejj07.sh.20151123.185326.txt	
+ejj08.sh CARGO=PV000615	OK	20151123	18:53	18:53	ejj08.sh.20151123.185342.txt	
+ejj09.sh CARGO=PV000615	OK	20151123	18:53	18:53	ejj09.sh.20151123.185345.txt	
+bpj02.sh 	OK	20151123	18:53	19:12	bpj02.sh.20151123.185348.txt	
+xbdb162.sh 	OK	20151123	19:12	19:12	xbdb162.sh.20151123.191218.txt	
+xrsicer.sh 	OK	20151123	19:12	19:13	xrsicer.sh.20151123.191221.txt	
+efj205.sh 	OK	20151123	19:13	19:13	efj205.sh.20151123.191338.txt	
+efj58.sh CERRAR=S	OK	20151123	19:13	19:14	efj58.sh.20151123.191341.txt	
+efj103.sh 	OK	20151123	19:14	19:29	efj103.sh.20151123.191445.txt	
+listados.sh -REJ01	OK	20151123	23:30	23:30	listados.sh.20151123.233007.txt	/servicios/SINFAZ/operacion
+listados.sh -REJ02	OK	20151123	23:30	23:31	listados.sh.20151123.233051.txt	/servicios/SINFAZ/operacion
+listados.sh -RECAUDA	OK	20151123	23:31	23:31	listados.sh.20151123.233103.txt	/servicios/SINFAZ/operacion
+listados.sh -DEVUELTOS	OK	20151123	23:31	23:31	listados.sh.20151123.233121.txt	/servicios/SINFAZ/operacion
+
+---------------------
+---------------------
+---------------------
+
+Sistema de notificación de incidencias Corporativa
+
+Petición #57262 añadida por correos automatizados explotacion.
+Peticiones #57262: RYSGE-Recaudacion Ejecutiva: Ejecutiva: PV000615
+
+    Autor: correos automatizados explotacion
+    Estado: Nueva
+    Prioridad: Normal
+    Asignado a:
+    Categoría:
+    Versión prevista: 
+
+Fecha Proceso: 20151123 18:53:34
+---------------------
+
+FECHA TOPE ......................: 21-12-2015
+CERTIFICADO, LIQUIDACION O RECIBO: R
+-------------------
+TOTAL Documentos IMPRESOS ...................... 60
+TOTAL Padron DINA4: Total: 52 pages
+
+Ficheros de log: ********
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj01.sh.22703.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj02.sh.12415.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj03.sh.14139.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj04.sh.15807.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj05.sh.17466.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj06.sh.19159.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj07.sh.1010.PV000615
+
+
+---------------------
+---------------------
+---------------------
+
+Sistema de notificación de incidencias Corporativa
+
+La petición #57262 ha sido actualizada por Enrique Alonso.
+
+    Fecha fin establecido a 24/11/2015
+    Estado cambiado Nueva por Cerrada
+    Asignado a establecido a Enrique Alonso
+    % Realizado cambiado 0 por 100
+
+LISTADO 20-11-2015
+PLEGADO 23-11-2015
+REPARTO 23-11-2015
+Peticiones #57262: RYSGE-Recaudacion Ejecutiva: Ejecutiva: PV000615
+
+    Autor: correos automatizados explotacion
+    Estado: Cerrada
+    Prioridad: Normal
+    Asignado a: Enrique Alonso
+    Categoría:
+    Versión prevista: 
+
+Fecha Proceso: 20151123 18:53:34
+---------------------
+
+FECHA TOPE ......................: 21-12-2015
+CERTIFICADO, LIQUIDACION O RECIBO: R
+-------------------
+TOTAL Documentos IMPRESOS ...................... 60
+TOTAL Padron DINA4: Total: 52 pages
+
+Ficheros de log: ********
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj01.sh.22703.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj02.sh.12415.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj03.sh.14139.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj04.sh.15807.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj05.sh.17466.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj06.sh.19159.PV000615
+/SINFAZ/FISCAL/SPOOL/PRINT_LOG/ejj07.sh.1010.PV000615
+
+
+
+---------------------
+---------------------
+---------------------
+
+COREO DIARIO
+============
+
+Certificados de empadronamiento: 20151123
+
+Total Certificados:  000072
+
+
+---------------------
+---------------------
+---------------------
+
+COREO DIARIO
+============
+
+Listados Domiciliaciones Bancarias 20151124
+
+DIRECTORIO                    ARCHIVO                                 PAPEL                         HOJAS
+---------------------------------------------------------------------------------------------------------
+/SINFAZ/SPOOL/recaudacion     DomicBancarias_LS690015_20151124.pdf    DIN-A4 (doble cara)               1
+/SINFAZ/SPOOL/recaudacion     DomicBancarias_LS690115_20151124.pdf    DIN-A4 (doble cara)               1
+
+---------------------
+---------------------
+---------------------
+
+COREO DIARIO
+============
+
+
+Envio-Recepcion ficheros via EDItran 20151123
+
+RESUMEN de transferencias de ficheros por EDITRAN el día Lunes 23 de Noviembre de 2015
+
+FICHERO	ESTADO	FECHA	HORA	COMENTARIOS
+prevRec.000000750.BPOPSVARIACIONESR.201511230101.txt	0	2015-11-23	0101	BPOPSVARIACIONESR
+prevRec.000089700.AYZGCSICERR.201511230805.txt	0	2015-11-23	0805	AYZGCSICERR
+prevEnv.000001820.BBVAEMBF56E.201511230830.txt	0	2015-11-23	0830	BBVAEMBF56E
+prevEnv.000020850.IBEREMBF56E.201511230830.txt	0	2015-11-23	0830	IBEREMBF56E
+prevRec.000089700.AYZGPSICERR.201511230833.txt	0	2015-11-23	0833	AYZGPSICERR
+prevRec.000020850.IBERECORECAUDAR.201511230835.txt	0	2015-11-23	0835	IBERECORECAUDAR
+prevRec.000020850.IBERRECAUDAR.201511230835.txt	0	2015-11-23	0835	IBERRECAUDAR
+prevRec.000020850.IBERDEVUELTOSR.201511230840.txt	0	2015-11-23	0840	IBERDEVUELTOSR
+prevRec.000000490.BSCHDEVUELTOSR.201511230845.txt	0	2015-11-23	0845	BSCHDEVUELTOSR
+prevRec.000000490.BSCHECODEVUELTOSR.201511230845.txt	0	2015-11-23	0845	BSCHECODEVUELTOSR
+prevRec.000089700.AYZITSICERR.201511230848.txt	0	2015-11-23	0848	AYZITSICERR
+prevRec.000000490.BSCHECORECAUDAR.201511230850.txt	0	2015-11-23	0850	BSCHECORECAUDAR
+prevRec.000000490.BSCHRECAUDAR.201511230850.txt	0	2015-11-23	0850	BSCHRECAUDAR
+prevRec.000000490.BSCHSDEVUELTOSR.201511230855.txt	1	2015-11-23	0855	BSCHSDEVUELTOSR
+prevRec.000001820.BBVARECAUDAR.201511230905.txt	0	2015-11-23	0905	BBVARECAUDAR
+prevRec.000001820.BBVADEVUELTOSR.201511230910.txt	0	2015-11-23	0910	BBVADEVUELTOSR
+prevRec.000021000.CAIXARECAUDAR.201511230915.txt	0	2015-11-23	0915	CAIXARECAUDAR
+prevRec.000021000.CAIXADEVUELTOSR.201511230920.txt	0	2015-11-23	0920	CAIXADEVUELTOSR
+prevRec.000021000.CAIXAVARIACIOR.201511230925.txt	1	2015-11-23	0925	CAIXAVARIACIOR
+prevEnv.000089700.AYZGCSICERE.201511231200.txt	0	2015-11-23	1200	AYZGCSICERE
+prevRec.007303120.BANKINTERSVARIACIONESR.201511231232.txt	0	2015-11-23	1232	BANKINTERSVARIACIONESR
+prevRec.000020850.IBERCSB043R.201511231300.txt	0	2015-11-23	1300	IBERCSB043R
+prevEnv.000000490.BSCHSTESORERIAE.201511231405.txt	0	2015-11-23	1405	BSCHSTESORERIAE
+prevEnv.000001820.BBVASTESORERIAE.201511231405.txt	0	2015-11-23	1405	BBVASTESORERIAE
+prevEnv.000020850.IBERNOMINAE.201511231405.txt	0	2015-11-23	1405	IBERNOMINAE
+prevEnv.000021000.CAIXASTESORERIAE.201511231405.txt	0	2015-11-23	1405	CAIXASTESORERIAE
+prevRec.000000490.BSCHSTESORERIAR.201511231407.txt	0	2015-11-23	1407	BSCHSTESORERIAR
+prevRec.000020850.IBERSNOMINAR.201511231413.txt	0	2015-11-23	1413	IBERSNOMINAR
+prevRec.000001820.BBVASTESORERIAR.201511231422.txt	0	2015-11-23	1422	BBVASTESORERIAR
+prevRec.000021000.CAIXASTESORERIAR.201511231533.txt	0	2015-11-23	1533	CAIXASTESORERIAR
+prevRec.000000750.BPOPRECAUDAR.201511231630.txt	0	2015-11-23	1630	BPOPRECAUDAR
+prevRec.000001980.BANTIERRARECAUDAR.201511232037.txt	0	2015-11-23	2037	BANTIERRARECAUDAR
+prevRec.000021000.CAIXASVARIACIONESR.201511232117.txt	0	2015-11-23	2117	CAIXASVARIACIONESR
+prevRec.000001820.BBVAECORECAUDAR.201511232310.txt	0	2015-11-23	2310	BBVAECORECAUDAR
+prevRec.000001820.BBVASVARIACIONESR.201511232337.txt	0	2015-11-23	2337	BBVASVARIACIONESR
+
+
+---------------------
+---------------------
+---------------------
+
+Petición de  trabajo Recaudación 10/11/2015
+
+PETICIÓN DE TRABAJO RECAUDACIÓN 10/11/2015
+
+BARRIDO/ JVIAP
+AB-06-15
+AB-07-15
+UR-01-15
+UR-51-15
+UR-61-15
+UR-52-15
+UR-62-15
+
+---------------------
+---------------------
+---------------------
+
+################################################################################
+#
+# 2016-03-09 - 11:09:47
+#
+################################################################################
+#
+#
+#
+#
+################################################################################ 
+
+[_] 42% 2016-03-09
+	[X] 100% Enviado a la AEAT el 4T del IAE.
+		:
+		: Fecha aviso envio a la AEAT...:mié mar  9 06:50:15 CET 2016
+		: -------------------------------
+		: 
+		: *********************************************************
+		: ***** Se va a generar un envio a la AEAT:           *****
+		: ***** --- Declaraciones trimestrales de IAE   ---   *****
+		: ***** de los ficheros generados en los procesos batch ***
+		: ***** por medio de transferencia electronica -Internet-**
+		: *********************************************************
+		: 
+		: Aplicacion...: A
+		: 
+		: Ejercicio....: 2015
+		: 
+		: Trimestre....: 4T
+		: 
+		: Num.registros: 430
+		: 
+		: Dir. envio...: IA003116
+		: 
+		: Fichero envio: E20160309.CINTRI.envhac
+		:
+	[X] 100% Lanzar por la mañana el: xsepxml.sh CARGO="SC001215" ENTIDAD="0049"
+	[X] 100% Lanzar esta tarde
+		[X] 100% Programar batch(fase4): efj54.sh BANCO=0075
+		[X] 100% Programar batch(fase4): efj54.sh BANCO=0081
+	[_] 0% Imprimir certificados de empadronamiento.
+		:
+		: Certificados de empadronamiento: 20160308
+		: Total Certificados:  000078
+		:
+	[_] 0% EXTRACCIÓN/ BORRADO/ PADRÓN ILUMINADO
+		:
+		: LH-12-15
+		: 
+		: EJECUTIVA
+		: IT-14-15
+		:
+	[_] 0% IMPRESION EJECUTIVA SC0915
+		:
+		: Buenos días Quique, puedes sacar la impresión de la ejecutiva SC0915. Gracias como siempre.
+		:
+	[_] 0% Listados de APP-ECONOMICAS
+		:
+		: Para listar:
+		: 
+		:    CMIASTIP1/SINFAZ/CONTA/SPOOL/20160308.20160309.cotx1.lis
+		:    CMIASTIP1/SINFAZ/CONTA/SPOOL/20160308.20160309.cotx1.listah
+		:
+
+################################################################################
+#
+# 2016-03-10 - 09:45:21
+#
+################################################################################
+#
+#
+#
+#
+################################################################################ 
+
+[_] 25% 2016-03-10
+	[X] 100% Enviar a la AEAT la presentación de matrícula del IAE de IA999916.	
+	: 
+	: Fecha aviso envio a la AEAT...:jue mar 10 06:50:14 CET 2016
+	: -------------------------------
+	: 
+	: *******************************************************
+	: ***** Se va a generar un envio a la AEAT:           *****
+	: ***** --- Declaraciones trimestrales de IAE   ---   *****
+	: ***** de los ficheros generados en los procesos batch ***
+	: ***** por medio de transferencia electronica -Internet-**
+	: *********************************************************
+	: 
+	: Aplicacion...: E
+	: 
+	: Ejercicio....: 2016
+	: 
+	: Trimestre....: 0A
+	: 
+	: Num.registros: 7289
+	: 
+	: Dir. envio...: IA999916
+	: 
+	: Fichero envio: E20160310.CINPAD.envhac
+	:
+	[_] 0% Programar batch(fase4): efj54.sh BANCO=0073
+	[_] 0% Programar batch(fase4): efj54.sh BANCO=0086
+		[_] % Programar batch(fase4): efj54.sh BANCO=BANCO=0049
+			: 
+			: El banco 0086 lleva contenido en el Banco de Santander
+			: también, 0049.
+			: 
+	[_] 0% Programar batch(fase4): efj54.sh BANCO=0030
+	[_] 0% Programar batch(fase4): efj54.sh BANCO=0233
+	[_] 0% Programar batch(fase4): efj54.sh BANCO=3183
+	[_] 0% Hoy toca el fallido.sh CARGO=AB001215.
+	[X] 100% Recibos centros Deportivos y Recreativos.
+		: 
+		: Como hemos comentado, solicito pdf del listado de prueba de recibos
+		: domiciliados por uso de Instalaciones Deportivas Municipales en el
+		: bimestre enero-febrero 2016.
+		:
+		: Adjunto oficio con los datos y, una vez comprobados los importes,
+		: confirmaremos.
+		:
+		: Gracias y un saludo
+		:
+		: ----------------------------------------
+		: ----------------------------------------
+		: ----------------------------------------
+		: 
+		: Periodo Enero-Febrero 2016
+		: ==========================
+		:
+		: Cargo :             VA007116
+		: Fecha Facturación : 2016/02/29
+		: Fecha Límite :      2016/04/11
+		:
+
+################################################################################
+#
+# 2016-03-11 - 09:02:16
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[_] % 2016-03-11
+	[_] % fallido.sh CARGO=AB000116.
+	[_] % Comprobar amtes de las 14:30 que estos ficheros se colocan bine.
+		: 2016-03-11	4T 2015	E20160311.iae.cinta.s.IA003116.envhac	2016VAE30300003G	40	2016-03-14	AYTOIAE_IA003116_20160314.TXT
+		: 2016-03-14	AYTORES_IA003116_20160314.TXT
+
+
+################################################################################
+#
+# 2016-03-14  - 08:43:34
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[_] % 2016-03-14
+	[_] % IA003116
+		[_] % Comprobar que el IA003116 se ha colocado bien en su sitio mediante el 'cron'.
+		[_] % Bajar el IAE - IA003116.
+
+
+################################################################################
+#
+# 2016-03-15 - 10:20:44
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[_] % 2016-03-15
+	[_] % Necesitamos que se ejecute bpj02.sh en los entornos de producción, el sh se encuentra en SINFAZ/FISCAL/live/subjcl/DB_bdf
+
+################################################################################
+#
+# 2016-03-16 - 08:57:10
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[_] % 2016-03-16
+
+
+################################################################################
+#
+#  2016-03-18 - 08:02:24
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[_] 50% 2016-03-18
+	[_] 0% Envío a la AEAT.
+		: Fecha aviso envio a la AEAT...:vie mar 18 06:50:04 CET 2016
+		: -------------------------------
+		: 
+		: *******************************************************
+		: ***** Se va a generar un envio a la AEAT -CTAS.CTES.- *****
+		: ***** de los ficheros generados en los procesos batch ***
+		: ***** por medio de pagina WEB         con cifra y firma**
+		: *********************************************************
+		: 
+		: Fichero original:
+		: -rw-rw-r--  1 p6150f TIPFIS 6546719 mar 17 23:41 3efd094.enviosc.aeat.20160317
+		: 
+		: Fichero de CTAS.CTES. COPIADO en la red a ENVIAR.....:
+		: 
+		: Numero Registros a enviar..:64819
+		:
+	[_] 0% Envío a la AEAT.
+		: Fecha aviso envio a la AEAT...:vie mar 18 06:50:06 CET 2016
+		: -------------------------------
+		: 
+		: *******************************************************
+		: ***** Se va a generar un envio a la AEAT -FDOS.INVER- *****
+		: ***** de los ficheros generados en los procesos batch ***
+		: ***** por medio de pagina WEB         con cifra y firma**
+		: *********************************************************
+		: 
+		: Fichero original:
+		: -rw-rw-r--  1 p6150f TIPFIS 6546719 mar 17 23:41 3efd094.enviosf.aeat.20160317
+		: 
+		: Fichero de FDOS.INVER COPIADO en la red a ENVIAR.....:
+		: 
+		: Numero Registros a enviar..:64819
+	[X] 100% Este fin de semana desactivar alguna parte de 'cron'. 
+		: Sistema de notificación de incidencias Corporativa
+		: 
+		: Petición #63363 añadida por Jose Luis Pina.
+		: Tareas #63363: No hacer el Volcado de bases semanal
+		: 
+		:     Autor: Jose Luis Pina
+		:     Estado: Nueva
+		:     Prioridad: Normal
+		:     Asignado a:
+		:     Categoría: BB.DD.
+		:     Versión prevista:
+		:     owner-email: 
+		: 
+		: Este fin de semana (19-Marzo) necesitamos que no hagais el volcado de pro a pre, ni en bdf ni en sif.
+		:
+		[X] 100% La solución es eliminar una parte de un 'cron'.
+	[X] 100% Continuar con la facturación del agua.
+		: Hola Quique,
+		: 
+		: Ya se puede planificar la facturación del agua AC000216.
+		: 
+		: IMPORTANTE!! Hay que lanzar el fcj01.sh con paso "P" y diciéndole que continue a partir de este paso:
+		: 
+		: fcj01.sh CARGO=AC000216 P=P
+		: 
+		: (hemos solucionado el problema de las entidades no encontradas de ayer con este paso parche "P" previo)
+		[X] 100% Terminada fase 1 de 3.
+			: Hola, han finalizado los procesos de la primera fase de la facturación AC000216.
+			:
+			: Ya se pueden realizar las tareas adicionales relativas al ensobrado.
+			: 
+			: Esperamos vuestra confirmación para continuar con la fase 2 (enviar a EMFASIS, partir en AB y SC y facturar AB y SC)
+			: Sólo recordar que la fase 3 consiste en la carga en base de AC, AB y SC e impresión de recibos.
+			: 
+			: Gracias. Un saludo,
+			: 
+			:
+			:
+			:
+			: Quique
+
+################################################################################
+#
+# 2016-11-24 - 10:02:18
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[X] 100% 2016-11-24
+	[X] 100% 2016-11-24 - 10:42:29 Listados VIAPS experimentales. ??VI-04??
+		: 
+		: Buenos días, he solicitado a través de la base de datos fiscal  los viaps vi-04, solicito me extraigas el proceso J VIAPS.
+		: Si hay algún problema mi extensión es la 1114.
+		: Gracias
+		: -- 
+		: Marta Ferrer Herrero
+		: Servicio de Recaudación
+		: 
+	[X] 100% 2016-11-24 - 12:18:05 COMPROBAR EL 2016-11-25 las impresiones que ha creado y registrarlas en un fichero.
+		: 
+		: jviap.listado.03 ---> DINA4
+		: jviap.listado.09 ---> DINA4
+		: jviap.listado.13 ---> DINA4
+		: 
+	[X] 100%  2016-11-24 -  12:27:45 Comprobar listados y actas de Plusvalias.	: 
+		: 
+		: xextpv.(cargo) ---> DINA4
+		:
+	[X] 100% 2016-11-24 - 14:11:27 Comprobar listados de efj56. Embargos Fase6.
+		: 
+		: efj56.lef5601.AA..(banco) ---> DINA4
+		: 
+		: Dos bancos.
+		:
+
+################################################################################
+#
+# 2016-11-25 - 08:44:24
+#
+################################################################################
+#
+#
+#
+################################################################################ 
+
+[_] % 2016-11-25
