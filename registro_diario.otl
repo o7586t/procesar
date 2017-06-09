@@ -1269,7 +1269,7 @@
 #
 ################################################################################
 
-[_] 97% Semana 23 
+[X] 100% Semana 23 
 	[X] 100% 2017-06-05 - 08:56:20 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
 	[X] 100% 2017-06-05 - 08:56:20 Contar la cantidad de papel que hay en los almacenes.
 	[X] 100% 2017-06-05 - 08:56:20 Leer el correo electrónico corporativo.
@@ -1318,7 +1318,7 @@
 	[X] 100% 2017-06-09 - 09:10:32 Leer el correo electrónico particular.
 	[X] 100% 2017-06-09 - 09:10:32 Monitorizar las pantallas del TIP/ix.
 	[X] 100% 2017-06-09 - 09:10:32 Pasar el reloj diario.
+	[X] 100% 2017-06-09 - 09:10:32 Recibir las peticiones de información de la AEAT.
 	[X] 100% 2017-06-09 - 09:10:32 Traer el fichero del plan diario.
 	[X] 100% 2017-06-09 - 09:10:32 Traer el fichero diario SQL del Redmine.
 	[X] 100% 2017-06-09 - 09:10:32 Traer los ficheros diarios de log y pr's.
-	[_] 0% 2017-06-09 - 09:10:32 Recibir las peticiones de información de la AEAT.
