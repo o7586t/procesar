@@ -1,0 +1,8 @@
+[_] % 2017-06-01 --- 12:54:29 Hacer un script que te pregunte el día a introducir.
+	: 
+	: Hacer un script que te pregunte el día a introducir y el tema. El script
+	: debe ser independiente para que pueda ser lanzado en el momento que se
+	: desee. 
+	: Cuando ya funcione todo sería una buena idea que estuviera todo
+	: implementado en JAVA para unificar criterios, espacio, tiempo y recursos.
+	:
