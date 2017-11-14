@@ -4,13 +4,15 @@
 [todos]--- Traer el fichero del plan diario.
 [todos]--- Traer el fichero diario SQL del Redmine.
 [todos]--- Traer los ficheros diarios de log y pr's.
+[todos]--- Traer los ficheros diarios del 'ya'.
 [todos]--- Monitorizar las pantallas del TIP/ix.
 [lunes]--- Contar la cantidad de papel que hay en los almacenes.
 [lunes]--- Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
-[lunes]--- Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+[lunes]--- Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
 [martes]--- Bajar la AEATCEM de la AEAT.
 [martes]--- Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
 [miércoles]--- Recibir las peticiones de información de la AEAT.
 [jueves]--- Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
 [viernes]--- Recibir las peticiones de información de la AEAT.
-[viernes]--- Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+[viernes]--- Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+[viernes]--- La POLICÍA viene a buscar las multas.

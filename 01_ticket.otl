@@ -6,3 +6,28 @@
 	: Cuando ya funcione todo sería una buena idea que estuviera todo
 	: implementado en JAVA para unificar criterios, espacio, tiempo y recursos.
 	:
+[_] % 2017-08-10 --- 09:29:09 Hacer un listado diario de las impresiones diarias.
+	: 
+	: Por ejemplo:
+	:
+	: [_] 0% Listados Domiciliaciones Bancarias 20170810
+		: 
+		: DIRECTORIO					ARCHIVO									PAPEL					HOJAS
+		: ---------------------------------------------------------------------------------------------------------
+		: /SINFAZ/SPOOL/recaudacion		DomicBancarias_LS586317_20170810.pdf	DIN-A4 (doble cara)		1
+		: /SINFAZ/SPOOL/recaudacion		DomicBancarias_LS586417_20170810.pdf	DIN-A4 (doble cara)		1
+		: 
+	: [_] 0% Volantes de empadronamiento: 20170810
+		:
+		: Total Certificados:  000026
+		:
+	: [_] 0% Listados de APP-ECONOMICAS.
+		:
+		: Para listar:
+		:
+		: CMIASTIP1/SINFAZ/CONTA/SPOOL/20170809.20170810.cotx1.lis
+		: CMIASTIP1/SINFAZ/CONTA/SPOOL/20170809.20170810.cotx1.listah
+		: 
+		: Gracias y un saludo
+		:
+	:

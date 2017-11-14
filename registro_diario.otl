@@ -1322,3 +1322,1173 @@
 	[X] 100% 2017-06-09 - 09:10:32 Traer el fichero del plan diario.
 	[X] 100% 2017-06-09 - 09:10:32 Traer el fichero diario SQL del Redmine.
 	[X] 100% 2017-06-09 - 09:10:32 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 24 
+#
+################################################################################
+
+[_] 94% Semana 24 
+	[X] 100% 2017-06-12 - 08:31:40 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-06-12 - 08:31:40 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-06-12 - 08:31:40 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-06-12 - 08:31:40 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-12 - 08:31:40 Leer el correo electrónico particular.
+	[X] 100% 2017-06-12 - 08:31:40 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-12 - 08:31:40 Pasar el reloj diario.
+	[X] 100% 2017-06-12 - 08:31:40 Traer el fichero del plan diario.
+	[X] 100% 2017-06-12 - 08:31:40 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-12 - 08:31:40 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-13 - 08:01:43 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-06-13 - 08:01:43 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-06-13 - 08:01:43 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-13 - 08:01:43 Leer el correo electrónico particular.
+	[X] 100% 2017-06-13 - 08:01:43 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-13 - 08:01:43 Pasar el reloj diario.
+	[X] 100% 2017-06-13 - 08:01:43 Traer el fichero del plan diario.
+	[X] 100% 2017-06-13 - 08:01:43 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-13 - 08:01:43 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-13 - 11:18:12 Hoy alrededor de las 14:15 tenemos una reunión.
+	[X] 100% 2017-06-13 - 13:49:09 Alrededor de las 13:55 presentar la EDU a la AEAT.
+	[X] 100% 2017-06-14 - 07:59:43 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-14 - 07:59:43 Leer el correo electrónico particular.
+	[X] 100% 2017-06-14 - 07:59:43 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-14 - 07:59:43 Pasar el reloj diario.
+	[X] 100% 2017-06-14 - 07:59:43 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-06-14 - 07:59:43 Traer el fichero del plan diario.
+	[X] 100% 2017-06-14 - 07:59:43 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-14 - 07:59:43 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-14 - 10:35:07 Enviar a la AEAT el fichero del IAE.
+		: 
+		: Ya se ha enviado, ahora estamos ¿a la espera del proceso que se
+		: realiza por la tarde y mañana nos devolveran la información?
+		:
+	[X] 100% 2017-06-15 - 09:13:10 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-06-15 - 09:13:10 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-15 - 09:13:10 Leer el correo electrónico particular.
+	[X] 100% 2017-06-15 - 09:13:10 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-15 - 09:13:10 Pasar el reloj diario.
+	[X] 100% 2017-06-15 - 09:13:10 Traer el fichero del plan diario.
+	[X] 100% 2017-06-15 - 09:13:10 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-15 - 09:13:10 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-16 - 08:52:44 Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+	[X] 100% 2017-06-16 - 08:52:44 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-16 - 08:52:44 Leer el correo electrónico particular.
+	[X] 100% 2017-06-16 - 08:52:44 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-16 - 08:52:44 Pasar el reloj diario.
+	[X] 100% 2017-06-16 - 08:52:44 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-06-16 - 08:52:44 Traer el fichero del plan diario.
+	[X] 100% 2017-06-16 - 08:52:44 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-16 - 08:52:44 Traer los ficheros diarios de log y pr's.
+	[_] 0% 2017-06-16 - 09:11:40 Buscar información para hacer operativo el vim con snippets.
+	[X] 100% 2017-06-16 - 14:02:21 Entrar en CTRL^M y reiniciar.
+	[_] 0% 2017-06-16 - 14:02:21 Cargos de Editran. Investigar de donde sale la información de los mismos.
+
+################################################################################
+#
+# Semana 25 
+#
+################################################################################
+
+[X] 100% Semana 25 
+	[X] 100% 2017-06-19 - 08:38:53 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-06-19 - 08:38:53 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-06-19 - 08:38:53 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-06-19 - 08:38:53 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-19 - 08:38:53 Leer el correo electrónico particular.
+	[X] 100% 2017-06-19 - 08:38:53 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-19 - 08:38:53 Pasar el reloj diario.
+	[X] 100% 2017-06-19 - 08:38:53 Traer el fichero del plan diario.
+	[X] 100% 2017-06-19 - 08:38:53 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-19 - 08:38:53 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-19 - 08:51:13 Ana Rosa Leal va ha pedirse dos semanas de Julio en vez de solo una.
+	[X] 100% 2017-06-20 - 09:14:41 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-06-20 - 09:14:41 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-06-20 - 09:14:41 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-20 - 09:14:41 Leer el correo electrónico particular.
+	[X] 100% 2017-06-20 - 09:14:41 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-20 - 09:14:41 Pasar el reloj diario.
+	[X] 100% 2017-06-20 - 09:14:41 Traer el fichero del plan diario.
+	[X] 100% 2017-06-20 - 09:14:41 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-20 - 09:14:41 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-20 - 13:39:09 Alrededor de las 13:55 presentar en la AEAT la EDU.
+	[X] 100% 2017-06-20 - 14:01:35 Pillar el fichero original del IAE 1T.
+	[X] 100% 2017-06-21 - 08:30:01 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-21 - 08:30:01 Leer el correo electrónico particular.
+	[X] 100% 2017-06-21 - 08:30:01 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-21 - 08:30:01 Pasar el reloj diario.
+	[X] 100% 2017-06-21 - 08:30:01 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-06-21 - 08:30:01 Traer el fichero del plan diario.
+	[X] 100% 2017-06-21 - 08:30:01 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-21 - 08:30:01 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-22 - 10:46:39 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-06-22 - 10:46:39 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-22 - 10:46:39 Leer el correo electrónico particular.
+	[X] 100% 2017-06-22 - 10:46:39 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-22 - 10:46:39 Pasar el reloj diario.
+	[X] 100% 2017-06-22 - 10:46:39 Traer el fichero del plan diario.
+	[X] 100% 2017-06-22 - 10:46:39 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-22 - 10:46:39 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-22 - 14:00:41 Alrededor de las 13:55 presentar EDUCACIÓN en la AEAT.
+	[X] 100% 2017-06-23 - 08:42:06 Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+	[X] 100% 2017-06-23 - 08:42:06 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-06-23 - 08:42:06 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-23 - 08:42:06 Leer el correo electrónico particular.
+	[X] 100% 2017-06-23 - 08:42:06 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-23 - 08:42:06 Pasar el reloj diario.
+	[X] 100% 2017-06-23 - 08:42:06 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-06-23 - 08:42:06 Traer el fichero del plan diario.
+	[X] 100% 2017-06-23 - 08:42:06 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-23 - 08:42:06 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-23 - 09:18:42 Pillarme el directorio completo del PLAN nuevo para desarrollarlo en casa.
+	[X] 100% 2017-06-23 - 10:31:18 Hacer el ticket de incidencias del día de ayer.
+
+################################################################################
+#
+# Semana 26 
+#
+################################################################################
+
+[X] 100% Semana 26 
+	[X] 100% 2017-06-26 - 14:00:10 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-06-26 - 14:00:10 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-06-26 - 14:00:10 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-26 - 14:00:10 Traer el fichero del plan diario.
+	[X] 100% 2017-06-26 - 14:00:10 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-26 - 14:00:10 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-27 - 16:14:10 Traer el fichero del plan diario.
+	[X] 100% 2017-06-27 - 16:14:10 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-27 - 16:14:10 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-28 - 14:19:57 Traer el fichero del plan diario.
+	[X] 100% 2017-06-28 - 14:19:57 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-28 - 14:19:57 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-29 - 08:02:34 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-06-29 - 08:02:34 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-06-29 - 08:02:34 Pasar el reloj diario.
+	[X] 100% 2017-06-29 - 08:02:34 Traer el fichero del plan diario.
+	[X] 100% 2017-06-29 - 08:02:34 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-29 - 08:02:34 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-29 - 13:50:26 Alrededor de las 13:55 presentar a la AEAT las peticines de información de EDUCACIÓN.
+	[X] 100% 2017-06-30 - 07:59:59 Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+	[X] 100% 2017-06-30 - 07:59:59 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-06-30 - 07:59:59 Leer el correo electrónico corporativo.
+	[X] 100% 2017-06-30 - 07:59:59 Leer el correo electrónico particular.
+	[X] 100% 2017-06-30 - 07:59:59 Monitorizar las pantallas del TIP/ix.
+		: 
+		: Fallaba el Tip/ix, lo he bajado y subido, ya va bien.
+		:
+	[X] 100% 2017-06-30 - 07:59:59 Pasar el reloj diario.
+	[X] 100% 2017-06-30 - 07:59:59 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-06-30 - 07:59:59 Traer el fichero del plan diario.
+	[X] 100% 2017-06-30 - 07:59:59 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-06-30 - 07:59:59 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-06-30 - 09:19:27 [BOP] Ejecución para calculo de fechas del notificaciones de ejecutiva.
+		: 
+		: Buenos días,
+		: 
+		: Necesitamos que se ejecute bpj02.sh en los entornos de
+		: producción, el sh se encuentra en SINFAZ/FISCAL/live/subjcl/DB_bdf
+		: 
+		: Gracias.
+		: -- 
+		: Eva de Miguel Morales
+		: Analista Informático
+		: Servicio Redes y Sistemas
+		: 976 721295
+		: 
+
+################################################################################
+#
+# Semana 32 
+#
+################################################################################
+
+[X] 100% Semana 32 
+	[X] 100% 2017-08-07 - 09:50:43 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+		: 
+		: Ayer 2017-08-07 no se pudo presentar la AEATCEM, pero hoy 2017-08-08
+		: sí. El proceso se ha retrasado 24 horas, y mañana se podrá terminar
+		: todo.
+		:
+	[X] 100% 2017-08-07 - 09:50:43 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-08-07 - 09:50:43 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-08-07 - 09:50:43 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-07 - 09:50:43 Leer el correo electrónico particular.
+	[X] 100% 2017-08-07 - 09:50:43 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-07 - 09:50:43 Pasar el reloj diario.
+	[X] 100% 2017-08-07 - 09:50:43 Traer el fichero del plan diario.
+	[X] 100% 2017-08-07 - 09:50:43 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-07 - 09:50:43 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-08 - 08:39:44 El chema se tomó el día de moscoso. No vino a trabajar.
+	[X] 100% 2017-08-08 - 09:02:09 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-08-08 - 09:02:09 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-08 - 09:02:09 Leer el correo electrónico particular.
+	[X] 100% 2017-08-08 - 09:02:09 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-08 - 09:02:09 Pasar el reloj diario.
+	[X] 100% 2017-08-08 - 09:02:09 Traer el fichero del plan diario.
+	[X] 100% 2017-08-08 - 09:02:09 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-08 - 09:02:09 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-09 - 07:54:40 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-09 - 07:54:40 Leer el correo electrónico particular.
+	[X] 100% 2017-08-09 - 07:54:40 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-09 - 07:54:40 Pasar el reloj diario.
+	[X] 100% 2017-08-09 - 07:54:40 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-08-09 - 07:54:40 Traer el fichero del plan diario.
+	[X] 100% 2017-08-09 - 07:54:40 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-09 - 07:54:40 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-10 - 07:52:02 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+		:
+		: Se me ha llegado a hacer muy tarde. He salido a las 16:36 de
+		: trabajar.
+		:
+	[X] 100% 2017-08-10 - 07:52:02 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-10 - 07:52:02 Leer el correo electrónico particular.
+	[X] 100% 2017-08-10 - 07:52:02 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-10 - 07:52:02 Pasar el reloj diario.
+	[X] 100% 2017-08-10 - 07:52:02 Traer el fichero del plan diario.
+	[X] 100% 2017-08-10 - 07:52:02 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-10 - 07:52:02 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-11 - 08:53:43 Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+	[X] 100% 2017-08-11 - 08:53:43 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-08-11 - 08:53:43 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-11 - 08:53:43 Leer el correo electrónico particular.
+	[X] 100% 2017-08-11 - 08:53:43 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-11 - 08:53:43 Pasar el reloj diario.
+	[X] 100% 2017-08-11 - 08:53:43 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-08-11 - 08:53:43 Traer el fichero del plan diario.
+	[X] 100% 2017-08-11 - 08:53:43 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-11 - 08:53:43 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 33 
+#
+################################################################################
+
+[X] 100% Semana 33 
+	[X] 100% 2017-08-14 - 07:52:32 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-08-14 - 07:52:32 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-08-14 - 07:52:32 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-14 - 07:52:32 Leer el correo electrónico particular.
+	[X] 100% 2017-08-14 - 07:52:32 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-14 - 07:52:32 Pasar el reloj diario.
+	[X] 100% 2017-08-14 - 07:52:32 Traer el fichero del plan diario.
+	[X] 100% 2017-08-14 - 07:52:32 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-14 - 07:52:32 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-14 - 08:29:40 Plegar el ticket #98441 y entregar en la estafeta.
+		: 
+		: El Viernes se pliega. El Lunes ¿se entrega?
+		:
+	[X] 100% 2017-08-14 - 10:18:55 El Lunes 2017-08-14, no viene a trabajar Félix.
+	[X] 100% 2017-08-16 - 07:52:32 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-08-16 - 08:40:24 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-16 - 08:40:24 Leer el correo electrónico particular.
+	[X] 100% 2017-08-16 - 08:40:24 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-16 - 08:40:24 Pasar el reloj diario.
+	[X] 100% 2017-08-16 - 08:40:24 Traer el fichero del plan diario.
+	[X] 100% 2017-08-16 - 08:40:24 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-16 - 08:40:24 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-16 - 09:22:30 Plegar las multas que acaban de traer para el Viernes.
+		: 
+		: Las ha plegado el Chema en la tarde del 2017-08-16.
+		:
+	[X] 100% 2017-08-16 - 09:25:07 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-08-17 - 08:55:03 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-17 - 08:55:03 Leer el correo electrónico particular.
+	[X] 100% 2017-08-17 - 08:55:03 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-17 - 08:55:03 Pasar el reloj diario.
+	[X] 100% 2017-08-17 - 08:55:03 Traer el fichero del plan diario.
+	[X] 100% 2017-08-17 - 08:55:03 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-17 - 08:55:03 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-17 - 09:27:11 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-08-17 - 09:27:29 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-08-18 - 07:41:32 Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+	[X] 100% 2017-08-18 - 07:41:32 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-08-18 - 07:41:32 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-18 - 07:41:32 Leer el correo electrónico particular.
+	[X] 100% 2017-08-18 - 07:41:32 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-18 - 07:41:32 Pasar el reloj diario.
+	[X] 100% 2017-08-18 - 07:41:32 Traer el fichero del plan diario.
+	[X] 100% 2017-08-18 - 07:41:32 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-18 - 07:41:32 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 34
+#
+################################################################################
+
+[_] 96% Semana 34 
+	[X] 100% 2017-08-21 - 07:47:05 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-08-21 - 07:47:05 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-08-21 - 07:47:05 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-08-21 - 07:47:05 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-21 - 07:47:05 Leer el correo electrónico particular.
+	[X] 100% 2017-08-21 - 07:47:05 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-21 - 07:47:05 Pasar el reloj diario.
+	[X] 100% 2017-08-21 - 07:47:05 Traer el fichero del plan diario.
+	[X] 100% 2017-08-21 - 07:47:05 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-21 - 07:47:05 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-21 - 09:50:43 Ana Rosa tiene cita con el médico
+		: 
+		: Se ha marchado a las 08:30, pero sin perdonar su cafe de las
+		: mañanas. Supongo que luego aparecerá por su lugar.
+		:
+	[X] 100% 2017-08-21 - 11:50:19 El Lunes 28 a las 08:30 vienen a buscar el papel para destruir.
+		: 
+		: Alfredo me lo ha comentado cuando nos hemos cruzado por la calle.
+		: He bajado a nuestro sitio y ya se han llevado el papel, y el carrito
+		: de Recaudación, y no lo han devuelto.
+		:
+	[X] 100% 2017-08-22 - 07:51:40 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-08-22 - 07:51:40 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-08-22 - 07:51:40 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-22 - 07:51:40 Leer el correo electrónico particular.
+	[X] 100% 2017-08-22 - 07:51:40 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-22 - 07:51:40 Pasar el reloj diario.
+	[X] 100% 2017-08-22 - 07:51:40 Traer el fichero del plan diario.
+	[X] 100% 2017-08-22 - 07:51:40 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-22 - 07:51:40 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-23 - 07:40:22 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-23 - 07:40:22 Leer el correo electrónico particular.
+	[X] 100% 2017-08-23 - 07:40:22 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-23 - 07:40:22 Pasar el reloj diario.
+	[X] 100% 2017-08-23 - 07:40:22 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-08-23 - 07:40:22 Traer el fichero del plan diario.
+	[X] 100% 2017-08-23 - 07:40:22 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-23 - 07:40:22 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-24 - 07:46:55 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-08-24 - 07:46:55 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-24 - 07:46:55 Leer el correo electrónico particular.
+	[X] 100% 2017-08-24 - 07:46:55 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-24 - 07:46:55 Pasar el reloj diario.
+	[X] 100% 2017-08-24 - 07:46:55 Traer el fichero del plan diario.
+	[X] 100% 2017-08-24 - 07:46:55 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-24 - 07:46:55 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-24 - 08:38:30 Enviar un mensaje a correos diciendo que nos retrasamos en la entrega del EJ000817.
+	[X] 100% 2017-08-25 - 09:29:41 Comprimir el fichero SQL del Redmine de esta semana y hacerle BackUp.
+	[X] 100% 2017-08-25 - 09:29:41 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-08-25 - 09:29:41 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-25 - 09:29:41 Leer el correo electrónico particular.
+	[X] 100% 2017-08-25 - 09:29:41 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-25 - 09:29:41 Pasar el reloj diario.
+	[X] 100% 2017-08-25 - 09:29:41 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-08-25 - 09:29:41 Traer el fichero del plan diario.
+	[X] 100% 2017-08-25 - 09:29:41 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-25 - 09:29:41 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 35 
+#
+################################################################################
+
+[X] 100% Semana 35 
+	[X] 100% 2017-08-28 - 08:45:07 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-08-28 - 08:45:07 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-08-28 - 08:45:07 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-08-28 - 08:45:07 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-08-28 - 08:45:07 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-28 - 08:45:07 Leer el correo electrónico particular.
+	[X] 100% 2017-08-28 - 08:45:07 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-28 - 08:45:07 Pasar el reloj diario.
+	[X] 100% 2017-08-28 - 08:45:07 Traer el fichero del plan diario.
+	[X] 100% 2017-08-28 - 08:45:07 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-28 - 08:45:07 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-29 - 08:42:27 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-08-29 - 08:42:27 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-08-29 - 08:42:27 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-29 - 08:42:27 Leer el correo electrónico particular.
+	[X] 100% 2017-08-29 - 08:42:27 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-29 - 08:42:27 Pasar el reloj diario.
+	[X] 100% 2017-08-29 - 08:42:27 Traer el fichero del plan diario.
+	[X] 100% 2017-08-29 - 08:42:27 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-29 - 08:42:27 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-30 - 08:02:58 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-30 - 08:02:58 Leer el correo electrónico particular.
+	[X] 100% 2017-08-30 - 08:02:58 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-30 - 08:02:58 Pasar el reloj diario.
+	[X] 100% 2017-08-30 - 08:02:58 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-08-30 - 08:02:58 Traer el fichero del plan diario.
+	[X] 100% 2017-08-30 - 08:02:58 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-30 - 08:02:58 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-31 - 07:52:09 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-08-31 - 07:52:09 Leer el correo electrónico corporativo.
+	[X] 100% 2017-08-31 - 07:52:09 Leer el correo electrónico particular.
+	[X] 100% 2017-08-31 - 07:52:09 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-08-31 - 07:52:09 Pasar el reloj diario.
+	[X] 100% 2017-08-31 - 07:52:09 Traer el fichero del plan diario.
+	[X] 100% 2017-08-31 - 07:52:09 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-08-31 - 07:52:09 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-08-31 - 08:31:48 Bajar las peticiones de información del INSS y de la TGSS.
+	[X] 100% 2017-08-31 - 08:41:07 Hacer los partes del mes siguiente: SEPTIEMBRE.
+	[X] 100% 2017-08-31 - 08:41:07 Scanear los partes ya procesados para guardarlos.
+	[X] 100% 2017-09-01 - 07:51:55 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-09-01 - 07:51:55 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-01 - 07:51:55 Leer el correo electrónico particular.
+	[X] 100% 2017-09-01 - 07:51:55 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-01 - 07:51:55 Pasar el reloj diario.
+	[X] 100% 2017-09-01 - 07:51:55 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-01 - 07:51:55 Traer el fichero del plan diario.
+	[X] 100% 2017-09-01 - 07:51:55 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-01 - 07:51:55 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-01 - 10:33:03 Planificar el primer dia disponible de SEPTIEMBRE 2017 el job xcomtes.sh DIRCOM=EN172817
+		: 
+		: Planificar el primer dia disponible de SEPTIEMBRE 2017 el job
+		: xcomtes.sh DIRCOM=EN172817. Para este día ya estará Enrique y se
+		: podrá obrar en consecuencia.
+		:
+		: OK.  2017-08-28 Ya hemos plnificado hoy todos los 'xcomtes.sh' que se
+		: deben.
+		:
+	[X] 100% 2017-09-04 - 08:42:27 [EMBARGO CENTRALIZADO CC] Petición de ejecución en pro.
+		: 
+		: Buenos días,
+		: 
+		: Necesitamos que se ejecute en producción el dia 4 de Septiembre, el proceso efj53.sh.
+		: 
+		: Para el envío a banco el día 5 de Septiembre.
+		: 
+		: Gracias.
+		: -- 
+		: Eva de Miguel Morales
+		: Analista Informático
+		: Servicio Redes y Sistemas
+		: 976 721295
+		: 
+	[X] 100% 2017-09-05 - 12:30:08 Desde Policía Local solicitan que no se ejecute la facturación de multas el día 5 de septiembre.
+		: 
+		: Correo electrónico del 2017-08-09 a explotación:
+		:
+		: Buenos días,
+		: Desde Policía Local solicitan que no se ejecute la facturación de multas el día 5 de septiembre.
+		: 
+		: Un saludo,
+		: 
+		: -- 
+		: Raquel Tornos Yagüe
+		: Informática Fiscal
+		: Redes y Sistemas
+		: 976 724532
+		: 
+		: Acabo de hablar con Raquel y me comenta que lo pide con tanta
+		: antelación para que no se le olvide porque ella vuelve de vacaciones
+		: el día 3 de Septiembre.
+		:
+		: Hoy (2017-08-28), Enrique ha vuelto de sus vacaciones y ha bloqueado
+		: en el Planificador el procesamietno de las multas para la semania 36.  
+		: 
+		:
+	[X] 100% 2017-09-01 - 07:51:55 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-09-01 - 07:54:18 Necesito tener operativo algún notificador de correo para controlar el Redmine.
+		: 
+		: ¿Lo he arreglado?, parece ser que sí, pero no me fío. Mejor lo
+		: examino el Lunes detenidamente.
+		:
+
+################################################################################
+#
+# Semana 36 
+#
+################################################################################
+
+[_] 96% Semana 36 
+	[X] 100% 2017-09-04 - 08:46:41 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-09-04 - 08:46:41 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-09-04 - 08:46:41 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-09-04 - 08:46:41 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-09-04 - 08:46:41 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-04 - 08:46:41 Leer el correo electrónico particular.
+	[X] 100% 2017-09-04 - 08:46:41 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-04 - 08:46:41 Pasar el reloj diario.
+	[X] 100% 2017-09-04 - 08:46:41 Traer el fichero del plan diario.
+	[X] 100% 2017-09-04 - 08:46:41 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-04 - 08:46:41 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-04 - 12:11:48 Buscar alguna especie de SAI para la RaspberryPi (BricoGeek).
+		: 
+		: Ha basjado información de BricoGeek a un directorio pero las malas
+		: noticias es que vale mucho. ~~ 50 €uros.
+		:
+	[X] 100% 2017-09-05 - 07:59:57 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-09-05 - 07:59:57 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-09-05 - 07:59:57 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-05 - 07:59:57 Leer el correo electrónico particular.
+	[X] 100% 2017-09-05 - 07:59:57 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-05 - 07:59:57 Pasar el reloj diario.
+		: 
+		: Hoy lo ha pasado Carlos Sumelzo.
+		:
+	[X] 100% 2017-09-05 - 07:59:57 Traer el fichero del plan diario.
+	[X] 100% 2017-09-05 - 07:59:57 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-05 - 07:59:57 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-06 - 07:48:33 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-06 - 07:48:33 Leer el correo electrónico particular.
+	[X] 100% 2017-09-06 - 07:48:33 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-06 - 07:48:33 Pasar el reloj diario.
+		: 
+		: Hoy lo ha pasado Carlos Sumelzo.
+		:
+	[X] 100% 2017-09-06 - 07:48:33 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-06 - 07:48:33 Traer el fichero del plan diario.
+	[X] 100% 2017-09-06 - 07:48:33 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-06 - 07:48:33 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-07 - 08:23:09 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-09-07 - 08:23:09 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-07 - 08:23:09 Leer el correo electrónico particular.
+	[X] 100% 2017-09-07 - 08:23:09 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-07 - 08:23:09 Pasar el reloj diario.
+	[X] 100% 2017-09-07 - 08:23:09 Traer el fichero del plan diario.
+	[X] 100% 2017-09-07 - 08:23:09 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-07 - 08:23:09 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-08 - 07:56:14 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-09-08 - 07:56:14 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-09-08 - 07:56:14 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-08 - 07:56:14 Leer el correo electrónico particular.
+	[X] 100% 2017-09-08 - 07:56:14 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-08 - 07:56:14 Pasar el reloj diario.
+	[X] 100% 2017-09-08 - 07:56:14 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-08 - 07:56:14 Traer el fichero del plan diario.
+	[X] 100% 2017-09-08 - 07:56:14 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-08 - 07:56:14 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-08 - 07:56:35 Limpiar los PDF's del PC Linux.
+	[X] 100% 2017-09-08 - 07:58:39 Cargar en memoria algún notificador de correo electrónico para controlar el RedMine.
+		: 
+		: Me he instalado el 'mailnag'.
+		:
+	[_] 0% 2017-09-01 - 07:55:26 Limpiar en la medida de lo posible el directorio 'diario'.
+	[_] 0% 2017-09-06 - 08:08:33 Declaraciones Trimestrales de IAE.
+		: 
+		: Fecha aviso envio a la AEAT...:mié sep  6 06:50:12 CEST 2017
+		: -------------------------------
+		: 
+		: *******************************************************
+		: ***** Se va a generar un envio a la AEAT:           *****
+		: ***** --- Declaraciones trimestrales de IAE   ---   *****
+		: ***** de los ficheros generados en los procesos batch ***
+		: ***** por medio de transferencia electronica -Internet-**
+		: *********************************************************
+		: 
+		: Aplicacion...: A
+		: 
+		: Ejercicio....: 2017
+		: 
+		: Trimestre....: 2T
+		: 
+		: Num.registros: 844
+		: 
+		: Dir. envio...: IA003317
+		: 
+		: Fichero envio: E20170906.CINTRI.envhac
+		:
+		[_] % Horror. El mismo problema. No podemos subir el fichero.
+
+################################################################################
+#
+# Semana 37
+#
+################################################################################
+
+[_] 96% Semana 37
+	[X] 100% 2017-09-11 - 08:53:30 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-09-11 - 08:53:30 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-09-11 - 08:53:30 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-09-11 - 08:53:30 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-09-11 - 08:53:30 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-11 - 08:53:30 Leer el correo electrónico particular.
+	[X] 100% 2017-09-11 - 08:53:30 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-11 - 08:53:30 Pasar el reloj diario.
+	[X] 100% 2017-09-11 - 08:53:30 Traer el fichero del plan diario.
+	[X] 100% 2017-09-11 - 08:53:30 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-11 - 08:53:30 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-11 - 08:59:00 Han llamado los policías que han tenido problemas con la transferencia de la fotos de las multas.
+	[X] 100% 2017-09-12 - 09:05:44 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-09-12 - 09:05:44 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-09-12 - 09:05:44 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-12 - 09:05:44 Leer el correo electrónico particular.
+	[X] 100% 2017-09-12 - 09:05:44 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-12 - 09:05:44 Pasar el reloj diario.
+	[X] 100% 2017-09-12 - 09:05:44 Traer el fichero del plan diario.
+	[X] 100% 2017-09-12 - 09:05:44 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-12 - 09:05:44 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-13 - 09:48:56 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-13 - 09:48:56 Leer el correo electrónico particular.
+	[X] 100% 2017-09-13 - 09:48:56 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-13 - 09:48:56 Pasar el reloj diario.
+	[X] 100% 2017-09-13 - 09:48:56 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-13 - 09:48:56 Traer el fichero del plan diario.
+	[X] 100% 2017-09-13 - 09:48:56 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-13 - 09:48:56 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-14 - 08:59:17 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-09-14 - 08:59:17 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-14 - 08:59:17 Leer el correo electrónico particular.
+	[X] 100% 2017-09-14 - 08:59:17 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-14 - 08:59:17 Pasar el reloj diario.
+	[X] 100% 2017-09-14 - 08:59:17 Traer el fichero del plan diario.
+	[X] 100% 2017-09-14 - 08:59:17 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-14 - 08:59:17 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-14 - 09:36:34 Buenos días Enrique, por favor hoy realizamos Extracción, Borrado y Padrón Iluminado de los Cargos SA005317 y SC000317.
+		: 
+		: El SA005317 Kaskó.
+		:
+		: Ya hay orden de pasarlo esta tarde.
+		:
+	[X] 100% 2017-09-14 - 10:10:22 EJECUTIVA SC0317
+		:
+		: Buenos días Enrique, por favor hoy sacamos:                                  
+		:                                                                              
+		: EJECUTIVA DEL CARGO SC000317                                                 
+		: FECHA DEL ULTIMO DIA PARA EL PAGO AL BANCO 30/10/2017,   FECHA DE INTIMACION AL PAGO EL 31/10/17 y FECHA LIMITE 20/11/17
+		:                                                                              
+		: Por favor, antes de imprimir, envíame prueba de la  ejecutiva y también cuelga los ficheros en el FTP.
+		:                                                                              
+		: Gracias, un saludo,                 
+		:
+	[X] 100% 2017-09-14 - 10:12:00 Facturación IAE
+		:
+		: Hola:
+		:
+		: Podeis pasar ahora por la mañana la facturacion de IAE (fcj01 hasta fcj04) para la prueba que extraje ayer?
+		: Necesitan ver los pdf de los recibos (Vanesa).
+		: 
+		: -- 
+		: José Luis Pina Martínez
+		:
+		: ----------------------------------------
+		: ----------------------------------------
+		: ----------------------------------------
+		:
+		: José Luís Pina no da datos para pasar la facturación. Si lo ha
+		: hablado con Enrique que lo haga el.
+		:
+	[X] 100% 2017-09-15 - 09:37:34 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-09-15 - 09:37:34 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-09-15 - 09:37:34 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-15 - 09:37:34 Leer el correo electrónico particular.
+	[X] 100% 2017-09-15 - 09:37:34 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-15 - 09:37:34 Pasar el reloj diario.
+	[X] 100% 2017-09-15 - 09:37:34 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-15 - 09:37:34 Traer el fichero del plan diario.
+	[X] 100% 2017-09-15 - 09:37:34 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-15 - 09:37:34 Traer los ficheros diarios de log y pr's.
+	[_] 0% 2017-09-15 - 09:38:53 Hacer una estructura en un fichero de los tipos de trabajos que existen. Fijarme en los partes históricos que existen.
+
+################################################################################
+#
+# Semana 38 
+#
+################################################################################
+
+[X] 100% Semana 38 
+	[X] 100% 2017-09-18 - 08:31:24 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-09-18 - 08:31:24 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-09-18 - 08:31:24 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-09-18 - 08:31:24 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-09-18 - 08:31:24 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-18 - 08:31:24 Leer el correo electrónico particular.
+	[X] 100% 2017-09-18 - 08:31:24 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-18 - 08:31:24 Pasar el reloj diario.
+	[X] 100% 2017-09-18 - 08:31:24 Traer el fichero del plan diario.
+	[X] 100% 2017-09-18 - 08:31:24 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-18 - 08:31:24 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-18 - 10:17:53 [SOPORTE-SISTEMAS - Tareas #99921] RYSGE-AGUA: Facturación AC000817.
+		:
+		: Sistema de notificación de incidencias Corporativa
+		: La petición #99921 ha sido actualizada por Maribel Marco.
+		: Solicitamos la planificación para esta tarde de P32001_FACTURACION_AGUA con el fichero C_20170915.TXT, gracias
+		:
+	[X] 100% 2017-09-19 - 09:19:44 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-09-19 - 09:19:44 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-09-19 - 09:19:44 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-19 - 09:19:44 Leer el correo electrónico particular.
+	[X] 100% 2017-09-19 - 09:19:44 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-19 - 09:19:44 Pasar el reloj diario.
+	[X] 100% 2017-09-19 - 09:19:44 Traer el fichero del plan diario.
+	[X] 100% 2017-09-19 - 09:19:44 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-19 - 09:19:44 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-19 - 10:02:13 Mirar el DNI para sacar uno nuevo que no esté estropeado.
+		: 
+		: Por la noche en casa pedi cita previa y me dieron para el día 09 de
+		: Octubre.
+		:
+	[X] 100% 2017-09-19 - 10:36:46 Procesar la petición de Educación.
+	[X] 100% 2017-09-19 - 14:58:51 Llamar a Bizi y preguntar ¿porqué no me mandan la tarjeta?
+		: 
+		: He llamado y me dicen que vuelven a solicitar el reenvio de la
+		: tarjeta a Administración.
+		:
+	[X] 100% 2017-09-20 - 07:50:03 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-20 - 07:50:03 Leer el correo electrónico particular.
+	[X] 100% 2017-09-20 - 07:50:03 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-20 - 07:50:03 Pasar el reloj diario.
+	[X] 100% 2017-09-20 - 07:50:03 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-20 - 07:50:03 Traer el fichero del plan diario.
+	[X] 100% 2017-09-20 - 07:50:03 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-20 - 07:50:03 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-21 - 07:51:29 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-09-21 - 07:51:29 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-21 - 07:51:29 Leer el correo electrónico particular.
+	[X] 100% 2017-09-21 - 07:51:29 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-21 - 07:51:29 Pasar el reloj diario.
+		: 
+		: Hoy he estado plegando recibos de ECOCiudad en las impresoras. El
+		: reloj lo ha pasado Enrique.
+		:
+	[X] 100% 2017-09-21 - 07:51:29 Traer el fichero del plan diario.
+	[X] 100% 2017-09-21 - 07:51:29 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-21 - 07:51:29 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-22 - 08:37:58 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-09-22 - 08:37:58 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-09-22 - 08:37:58 Leer el correo electrónico corporativo.
+	[X] 100% 2017-09-22 - 08:37:58 Leer el correo electrónico particular.
+	[X] 100% 2017-09-22 - 08:37:58 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-09-22 - 08:37:58 Pasar el reloj diario.
+	[X] 100% 2017-09-22 - 08:37:58 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-09-22 - 08:37:58 Traer el fichero del plan diario.
+	[X] 100% 2017-09-22 - 08:37:58 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-09-22 - 08:37:58 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-09-25 - 09:48:56 Comprobar la conveniencia de procesar en este día.
+		[X] 100% 2017-09-13 - 12:09:34 Planificar proceso cartas circulación:  domiciliarci.sh -mes 05
+			: 
+			: Se procesaron la tarde del día 2017-09-18.
+			:
+
+################################################################################
+#
+# Semana 39
+#
+################################################################################
+
+[_] % Semana 39 
+	: 
+	: Esta semana he estado trabajando de tarde.
+	:
+
+################################################################################
+#
+# Semana 40 
+#
+################################################################################
+
+[X] 100% Semana 40 
+	[X] 100% 2017-10-02 - 09:04:36 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-10-02 - 09:04:36 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-10-02 - 09:04:36 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-10-02 - 09:04:36 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-10-02 - 09:04:36 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-02 - 09:04:36 Leer el correo electrónico particular.
+	[X] 100% 2017-10-02 - 09:04:36 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-02 - 09:04:36 Pasar el reloj diario.
+	[X] 100% 2017-10-02 - 09:04:36 Traer el fichero del plan diario.
+	[X] 100% 2017-10-02 - 09:04:36 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-02 - 09:04:36 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-03 - 08:57:40 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-10-03 - 08:57:40 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-10-03 - 08:57:40 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-03 - 08:57:40 Leer el correo electrónico particular.
+	[X] 100% 2017-10-03 - 08:57:40 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-03 - 08:57:40 Pasar el reloj diario.
+	[X] 100% 2017-10-03 - 08:57:40 Traer el fichero del plan diario.
+	[X] 100% 2017-10-03 - 08:57:40 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-03 - 08:57:40 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-03 - 09:56:30 Solicitud datos AEAT 03-10-2017 --- SMRUZ
+	[X] 100% 2017-10-03 - 12:46:30 Buenos Días! Enviamos fichero para la solicitud de datos a la AEAT. Ana Martin --- EDU
+	[X] 100% 2017-10-04 - 07:54:03 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-04 - 07:54:03 Leer el correo electrónico particular.
+	[X] 100% 2017-10-04 - 07:54:03 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-04 - 07:54:03 Pasar el reloj diario.
+	[X] 100% 2017-10-04 - 07:54:03 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-10-04 - 07:54:03 Traer el fichero del plan diario.
+	[X] 100% 2017-10-04 - 07:54:03 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-04 - 07:54:03 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-05 - 08:21:29 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-10-05 - 08:21:29 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-05 - 08:21:29 Leer el correo electrónico particular.
+	[X] 100% 2017-10-05 - 08:21:29 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-05 - 08:21:29 Pasar el reloj diario.
+	[X] 100% 2017-10-05 - 08:21:29 Traer el fichero del plan diario.
+	[X] 100% 2017-10-05 - 08:21:29 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-05 - 08:21:29 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-05 - 13:12:19 Procesar el EDU.
+	[X] 100% 2017-10-06 - 08:01:12 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-06 - 08:01:12 Leer el correo electrónico particular.
+	[X] 100% 2017-10-06 - 08:01:12 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-06 - 08:01:12 Pasar el reloj diario.
+	[X] 100% 2017-10-06 - 08:01:12 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-10-06 - 08:01:12 Traer el fichero del plan diario.
+	[X] 100% 2017-10-06 - 08:01:12 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-06 - 08:01:12 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-06 - 08:01:12 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-10-06 - 08:01:12 La POLICÍA viene a buscar las multas.
+
+################################################################################
+#
+# Semana 41 
+#
+################################################################################
+
+[X] 100% Semana 41 
+	[X] 100% 2017-10-09 - 08:02:50 Alrededor de las 11:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+		: 
+		: Hemos quedado que me llamaría Silvia desúes de pregutnarle a las
+		: usuarias que ¿si ya han terminado? Esta semania se sale un par de
+		: horas antes debido a las fiestas del Pilar 2017
+		:
+		: He salido tardísimo. Se han hecho las 13:00 y aquí no llamaba nadie.
+		: Le he llamado y me ha dicho que iban con retraso, me ha llamado ella
+		: de que habían terminado y he salido 20 minutos más tarde de lo
+		: esperado.
+		:
+	[X] 100% 2017-10-09 - 08:02:50 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-10-09 - 08:02:50 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-10-09 - 08:02:50 Después de traer el plan diario comprimir los ficheros de la semana pasada. 
+	[X] 100% 2017-10-09 - 08:02:50 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-09 - 08:02:50 Leer el correo electrónico particular.
+	[X] 100% 2017-10-09 - 08:02:50 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-09 - 08:02:50 Pasar el reloj diario.
+	[X] 100% 2017-10-09 - 08:02:50 Traer el fichero del plan diario.
+	[X] 100% 2017-10-09 - 08:02:50 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-09 - 08:02:50 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-10 - 07:56:06 Alrededor de las 11:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-10-10 - 07:56:06 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-10-10 - 07:56:06 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-10 - 07:56:06 Leer el correo electrónico particular.
+	[X] 100% 2017-10-10 - 07:56:06 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-10 - 07:56:06 Pasar el reloj diario.
+	[X] 100% 2017-10-10 - 07:56:06 Traer el fichero del plan diario.
+	[X] 100% 2017-10-10 - 07:56:06 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-10 - 07:56:06 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-11 - 07:55:53 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-11 - 07:55:53 Leer el correo electrónico particular.
+	[X] 100% 2017-10-11 - 07:55:53 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-11 - 07:55:53 Pasar el reloj diario.
+	[X] 100% 2017-10-11 - 07:55:53 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-10-11 - 07:55:53 Traer el fichero del plan diario.
+	[X] 100% 2017-10-11 - 07:55:53 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-11 - 07:55:53 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 42
+#
+################################################################################
+
+[X] 100% Semana 42 
+	[X] 100% 2017-10-16 - 08:35:08 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-10-16 - 08:35:08 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-10-16 - 08:35:08 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-10-16 - 08:35:08 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-16 - 08:35:08 Leer el correo electrónico particular.
+	[X] 100% 2017-10-16 - 08:35:08 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-16 - 08:35:08 Pasar el reloj diario.
+	[X] 100% 2017-10-16 - 08:35:08 Traer el fichero del plan diario.
+	[X] 100% 2017-10-16 - 08:35:08 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-16 - 08:35:08 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-16 - 12:21:52 Es necesario planificar para esta noche (producción) la ejecuación de este pl/sql, a partir de las 00:00 horas.
+		:
+		: EXECUTE P32231_CARGA_FICHERO_PADRON('L20171006');
+		:
+	[X] 100% 2017-10-17 - 08:43:03 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-10-17 - 08:43:03 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-10-17 - 08:43:03 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-17 - 08:43:03 Leer el correo electrónico particular.
+	[X] 100% 2017-10-17 - 08:43:03 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-17 - 08:43:03 Pasar el reloj diario.
+	[X] 100% 2017-10-17 - 08:43:03 Traer el fichero del plan diario.
+	[X] 100% 2017-10-17 - 08:43:03 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-17 - 08:43:03 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-17 - 10:40:47 Alrededor de las 13:55 enviar a la AEAT las peticiones de información de EDU.
+	[X] 100% 2017-10-18 - 08:38:06 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-18 - 08:38:06 Leer el correo electrónico particular.
+	[X] 100% 2017-10-18 - 08:38:06 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-18 - 08:38:06 Pasar el reloj diario.
+	[X] 100% 2017-10-18 - 08:38:06 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-10-18 - 08:38:06 Traer el fichero del plan diario.
+	[X] 100% 2017-10-18 - 08:38:06 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-18 - 08:38:06 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-19 - 08:43:26 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-10-19 - 08:43:26 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-19 - 08:43:26 Leer el correo electrónico particular.
+	[X] 100% 2017-10-19 - 08:43:26 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-19 - 08:43:26 Pasar el reloj diario.
+	[X] 100% 2017-10-19 - 08:43:26 Traer el fichero del plan diario.
+	[X] 100% 2017-10-19 - 08:43:26 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-19 - 08:43:26 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-19 - 09:12:22 Este jueves pasarán los de la plegadora a cambiar el rodillo.
+	[X] 100% 2017-10-19 - 10:46:40 Alrededor de las 13:55 envíar las peticiones de información de la SMURZ.
+	[X] 100% 2017-10-20 - 08:35:34 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-10-20 - 08:35:34 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-10-20 - 08:35:34 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-20 - 08:35:34 Leer el correo electrónico particular.
+	[X] 100% 2017-10-20 - 08:35:34 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-20 - 08:35:34 Pasar el reloj diario.
+	[X] 100% 2017-10-20 - 08:35:34 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-10-20 - 08:35:34 Traer el fichero del plan diario.
+	[X] 100% 2017-10-20 - 08:35:34 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-20 - 08:35:34 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-20 - 08:38:09 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+
+################################################################################
+#
+# Semana 43. Semana de tarde.
+#
+################################################################################
+
+[X] 100% Semana 43 
+	[X] 100% 2017-10-23 - 08:35:34 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-23 - 14:12:04 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-10-23 - 14:12:04 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+		: 
+		: El Lunes que los iba a pillar ya no existen en el directorio, (está
+		: vacío).
+		: 
+		: /home/rys/operacion/ejecutar/logs.old
+		: 
+		: y en el directorio 
+		: 
+		: /home/rys/operacion/ejecutar/logs
+		:
+		: solo hay trabajos del día en curso.
+		:
+	[X] 100% 2017-10-23 - 14:12:04 Traer el fichero del plan diario.
+	[X] 100% 2017-10-23 - 14:12:04 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-24 - 14:11:30 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-10-24 - 14:11:30 Traer el fichero del plan diario.
+	[X] 100% 2017-10-24 - 14:11:30 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-24 - 14:11:30 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-25 - 14:22:49 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-25 - 14:22:49 Leer el correo electrónico particular.
+	[X] 100% 2017-10-25 - 14:22:49 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-10-25 - 14:22:49 Traer el fichero del plan diario.
+	[X] 100% 2017-10-25 - 14:22:49 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-25 - 14:22:49 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-26 - 14:18:08 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-26 - 14:18:08 Leer el correo electrónico particular.
+	[X] 100% 2017-10-26 - 14:18:08 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-10-26 - 14:18:08 Traer el fichero del plan diario.
+	[X] 100% 2017-10-26 - 14:18:08 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-26 - 14:18:08 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-27 - 14:12:21 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-10-27 - 14:12:21 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-27 - 14:12:21 Leer el correo electrónico particular.
+	[X] 100% 2017-10-27 - 14:12:21 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-10-27 - 14:12:21 Traer el fichero del plan diario.
+	[X] 100% 2017-10-27 - 14:12:21 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-27 - 14:12:21 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 44	
+#
+################################################################################
+
+[X] 100% Semana 44 
+	[X] 100% 2017-10-30 - 08:29:07 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-10-30 - 08:29:07 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-10-30 - 08:29:07 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-10-30 - 08:29:07 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-30 - 08:29:07 Leer el correo electrónico particular.
+	[X] 100% 2017-10-30 - 08:29:07 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-30 - 08:29:07 Pasar el reloj diario.
+	[X] 100% 2017-10-30 - 08:29:07 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-10-30 - 08:29:07 Traer el fichero del plan diario.
+	[X] 100% 2017-10-30 - 08:29:07 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-30 - 08:29:07 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-10-31 - 07:49:28 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-10-31 - 07:49:28 Leer el correo electrónico corporativo.
+	[X] 100% 2017-10-31 - 07:49:28 Leer el correo electrónico particular.
+	[X] 100% 2017-10-31 - 07:49:28 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-10-31 - 07:49:28 Pasar el reloj diario.
+	[X] 100% 2017-10-31 - 07:49:28 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-10-31 - 07:49:28 Traer el fichero del plan diario.
+	[X] 100% 2017-10-31 - 07:49:28 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-10-31 - 07:49:28 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-02 - 08:24:54 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-11-02 - 08:24:54 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-02 - 08:24:54 Leer el correo electrónico particular.
+	[X] 100% 2017-11-02 - 08:24:54 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-02 - 08:24:54 Pasar el reloj diario.
+	[X] 100% 2017-11-02 - 08:24:54 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-02 - 08:24:54 Traer el fichero del plan diario.
+	[X] 100% 2017-11-02 - 08:24:54 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-02 - 08:24:54 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-03 - 07:47:14 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-11-03 - 07:47:14 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-11-03 - 07:47:14 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-03 - 07:47:14 Leer el correo electrónico particular.
+	[X] 100% 2017-11-03 - 07:47:14 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-03 - 07:47:14 Pasar el reloj diario.
+	[X] 100% 2017-11-03 - 07:47:14 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-11-03 - 07:47:14 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-03 - 07:47:14 Traer el fichero del plan diario.
+	[X] 100% 2017-11-03 - 07:47:14 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-03 - 07:47:14 Traer los ficheros diarios de log y pr's.
+
+################################################################################
+#
+# Semana 45 
+#
+################################################################################
+
+[X] 100% Semana 45 
+	[X] 100% 2017-11-06 - 09:24:09 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-11-06 - 09:24:09 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-11-06 - 09:24:09 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-11-06 - 09:24:09 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-06 - 09:24:09 Leer el correo electrónico particular.
+	[X] 100% 2017-11-06 - 09:24:09 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-06 - 09:24:09 Pasar el reloj diario.
+	[X] 100% 2017-11-06 - 09:24:09 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-06 - 09:24:09 Traer el fichero del plan diario.
+	[X] 100% 2017-11-06 - 09:24:09 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-06 - 09:24:09 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-06 - 09:51:43 Comprobar que se ha impreso el recibo de AR000117 1398-1 del Viernes pasado.
+		: 
+		: Se va a imprimir por la mañana. ¿Hay ya uno impreso del Viernes
+		: pasado?, no lo sé.
+		:
+	[X] 100% 2017-11-06 - 09:51:43 Comprobar que se ha impreso la facturación LJ000817 que demanda Begoña Trullenque.
+		: 
+		: Se va a imprimir por la mañana. Y se entregará a Begoña.
+		:
+	[X] 100% 2017-11-07 - 07:51:36 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-11-07 - 07:51:36 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-11-07 - 07:51:36 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-07 - 07:51:36 Leer el correo electrónico particular.
+	[X] 100% 2017-11-07 - 07:51:36 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-07 - 07:51:36 Pasar el reloj diario.
+	[X] 100% 2017-11-07 - 07:51:36 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-07 - 07:51:36 Traer el fichero del plan diario.
+	[X] 100% 2017-11-07 - 07:51:36 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-07 - 07:51:36 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-08 - 07:51:22 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-08 - 07:51:22 Leer el correo electrónico particular.
+	[X] 100% 2017-11-08 - 07:51:22 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-08 - 07:51:22 Pasar el reloj diario.
+		: 
+		: Hoy lo hace Carlos Sumelzo a petición suya.
+		:
+	[X] 100% 2017-11-08 - 07:51:22 Recibir las peticiones de información de la AEAT.
+	[X] 100% 2017-11-08 - 07:51:22 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-08 - 07:51:22 Traer el fichero del plan diario.
+	[X] 100% 2017-11-08 - 07:51:22 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-08 - 07:51:22 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-09 - 07:46:43 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.
+	[X] 100% 2017-11-09 - 07:46:43 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-09 - 07:46:43 Leer el correo electrónico particular.
+	[X] 100% 2017-11-09 - 07:46:43 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-09 - 07:46:43 Pasar el reloj diario.
+	[X] 100% 2017-11-09 - 07:46:43 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-09 - 07:46:43 Traer el fichero del plan diario.
+	[X] 100% 2017-11-09 - 07:46:43 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-09 - 07:46:43 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-10 - 07:54:41 Comprimir los ficheros SQL del Redmine de esta semana en uno solo y hacerle BackUp.
+	[X] 100% 2017-11-10 - 07:54:41 La POLICÍA viene a buscar las multas.
+	[X] 100% 2017-11-10 - 07:54:41 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-10 - 07:54:41 Leer el correo electrónico particular.
+	[X] 100% 2017-11-10 - 07:54:41 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-10 - 07:54:41 Pasar el reloj diario.
+		: 
+		: Hoy hace los partes Carlos, y pasa el reloj y todo eso.
+		:
+	[X] 100% 2017-11-10 - 07:54:41 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-10 - 07:54:41 Traer el fichero del plan diario.
+	[X] 100% 2017-11-10 - 07:54:41 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-10 - 07:54:41 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-10 - 09:20:33 VARIOS.- FACTURACIÓN EN MODO PRUEBA MERCADO SAN VICENTE DE PAÚL y MERCADO AMBULANTE EXPO.
+		:
+		: Adjunto se remite oficio solicitando que se realice una valoración
+		: en prueba del padrón mensual,  mes de NOVIEMBRE de 2017, del mercado
+		: Ambulante "Expo" y del mercado San Vicente de Paúl.
+		: 
+		: Es conveniente imprimir o remitir en pdf. algún recibo al azar para
+		: contrastar datos afectos al recibo así como los domicilios fiscales.
+		: 
+		: Una vez efectuada la comprobación y en su caso corregidos los
+		: errores, esta Unidad comunicará oportunamente la extracción
+		: definitiva.
+		: 
+		: Un saludo -
+		: 
+		: P.D: Al acabar la facturación completa, lanzar el trabajo
+		: “XBDBFIC.SH” y dejar el fichero “distritos.VA002117.TXT” resultante
+		: en la dirección siguiente
+		: Cmic3disco5/F/GESTRIB/VARIOS/Generico_Explotacion.
+		: -- 
+		: Agustin Aguirre Pablo
+		: Técnico Unidad Integrada de Tasas
+		: Gestión Tributaria
+		: 976 72 45 69
+		:
+	[X] 100% 2017-11-10 - 07:54:41 Recibir las peticiones de información de la AEAT.
+		: 
+		: Ayer se presentaron las peticiones de información y era fiesta en
+		: Madrid, era la Almudena. Por consiguiente está todo con retraso, he
+		: comprobado que las peticiones están en modo 'solicitadas'.
+		:
+		: Importados los ficheros el Lunes 13 de Noviembre.
+		:
+	[X] 100% 2017-11-10 - 08:47:22 Solicitud papel recibo Ecociudad 2017-11-09
+		:
+		: Hola,
+		: para reponer existencias solicitamos el suministro de 20 cajas de papel
+		: de recibo de Ecociudad a la zona de impresión CMI.
+		: Se ruega que, al menos, se nos facilite una caja a la mayor brevedad
+		: posible para poder llevar a cabo la impresión de todos los recibos de
+		: ejecutiva SC000517 prevista para la tarde del viernes 10-11-2017
+		: Gracias. Un saludo,
+		: Enrique
+		: 
+		: Alrededor de las 13:50 me he pasado por las impresoras y he comprobado
+		: que ECO ciudad no ha traído las cajas de papel. La teoría de Ana Rosa es
+		: que el señor Bernardo se ha negado a traer el papel????? He llamado a
+		: Cristina Marín y parece ser que es cierto, que no hay nadie para traer
+		: las cajas. 
+		:
+		: Le he propuesto prestarle una caja de las nuestras y que sea al debe,
+		: pero eso habrá que hablarse y hacer consenso de cómo actuar.
+		:
+		: Contestación de ECO-Ciudad:
+		: ----------------------------------------
+		: ----------------------------------------
+		: ----------------------------------------
+		:
+		: Se acaban de depositar 20 cajas con papel de recibo de Ecociudad, en
+		: la zona de impresión del CMI.
+		: Se ruega que para futuras ocasiones, se nos informe con una
+		: antelación mínima de dos días, de la necesidad de papel, con el fin
+		: de poder atender correctamente la solicitud.
+		:
+		: Gracias.
+		: Un saludo.
+		: Bernardo.
+		:
+
+################################################################################
+#
+# Semana 46 
+#
+################################################################################
+
+[_] 95% Semana 46 
+	[X] 100% 2017-11-13 - 08:04:14 Alrededor de las 13:55 lanzar el 'trt045.sh' y presentarlo en la AEAT.
+	[X] 100% 2017-11-13 - 08:04:14 Comprimir los ficheros de datos de la semana pasada del directorio de BackUp 'traerDatos'.
+	[X] 100% 2017-11-13 - 08:04:14 Contar la cantidad de papel que hay en los almacenes.
+	[X] 100% 2017-11-13 - 08:04:14 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-13 - 08:04:14 Leer el correo electrónico particular.
+	[X] 100% 2017-11-13 - 08:04:14 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-13 - 08:04:14 Pasar el reloj diario.
+	[X] 100% 2017-11-13 - 08:04:14 Sincronizar y traer el directorio de los trabajos procesados con 'ya'.
+	[X] 100% 2017-11-13 - 08:04:14 Traer el fichero del plan diario.
+	[X] 100% 2017-11-13 - 08:04:14 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-13 - 08:04:14 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-14 - 08:34:20 Bajar la AEATCEM de la AEAT.
+	[X] 100% 2017-11-14 - 08:34:20 Leer el correo electrónico corporativo.
+	[X] 100% 2017-11-14 - 08:34:20 Leer el correo electrónico particular.
+	[X] 100% 2017-11-14 - 08:34:20 Monitorizar las pantallas del TIP/ix.
+	[X] 100% 2017-11-14 - 08:34:20 Pasar el reloj diario.
+	[X] 100% 2017-11-14 - 08:34:20 Traer el fichero del plan diario.
+	[X] 100% 2017-11-14 - 08:34:20 Traer el fichero diario SQL del Redmine.
+	[X] 100% 2017-11-14 - 08:34:20 Traer los ficheros diarios de log y pr's.
+	[X] 100% 2017-11-14 - 08:34:20 Traer los ficheros diarios del 'ya'.
+	[_] 0% 2017-11-14 - 08:34:20 Alrededor de las 13:55 enviar las peticiones de información de la YEDRA a la AEAT.

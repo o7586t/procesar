@@ -11,19 +11,30 @@
 # registro_diario.otl.
 #
 ################################################################################ 
+#
+# La segunda versión de este script va a crear los ficheros diarios de trabajo
+# en el directorio 'diario' y con el nombre del día corriente.
+#
+################################################################################ 
+# Listados Domiciliacioens Bancarias.
+# Listados de APP-ECONOMICAS
+# Volantes de empadronamiento
+# ... Y todo lo que sea diario. Si el día en particular no deben estar, va y se
+# borran.
+################################################################################ 
 
-#####
+#############
 ## Variables
-####
+#############
 
 FECHA=`date '+%A'`
 FECHA2=`date '+%d%m20%y'`
 FECHA3=`date '+%Y-%m-%d - %H:%M:%S'`
 METER="\t[_] 0% $FECHA3 " 
 
-#####
+#############
 ## Funciones
-#####
+#############
 
 function separador (){
    echo " "
@@ -33,7 +44,7 @@ function separador (){
    echo " "
 }
 
-#####
+#############
 ## 
 ## El primer grep extrae los registros que contienen la etiqueta "todos" y los
 ## pone en el fichero de trabajo.
@@ -46,7 +57,7 @@ function separador (){
 ## tabulador seguido de una fecha y de la hora y minuto en la que se crea el
 ## ticket.
 ## 
-#####
+#############
 
 grep -i "todos" registro_diario_datos.dat >> ../../tmp/meterlo.txt
 grep -i $FECHA registro_diario_datos.dat >> ../../tmp/meterlo.txt
@@ -69,9 +80,7 @@ rm ../../tmp/meterlo.txt
 #####
 
 separador
-
-echo ""
 echo " Introduciendo información en el fichero del registro diario."
 echo " Hoy estamos a: $FECHA2"
-echo ""
+separador
 
